@@ -33,3 +33,6 @@ http://kgc.knowledge-graph.jp/data/SpeckledBand/XXX  （XXX=1から401の数字�
 
 ## 可視化ツール
 http://knowledge-graph.jp/visualization/
+
+## サンプルクエリ
+http://knowledge-graph.jp/sparql.html
