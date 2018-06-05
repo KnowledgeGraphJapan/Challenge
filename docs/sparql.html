@@ -51,10 +51,9 @@
 	PREFIX kd: <http://kgc.knowledge-graph.jp/data/SpeckledBand/>
 	SELECT ?s ?p ?o
 	WHERE {
-	?id ko:hasPredicate kd:die ;
+	?id kgc:hasPredicate kd:die ;
 	   kgc:subject ?s .  
 	   ?s ?p ?o .
-	   }
 	}
       </textarea>
       <textarea class="sparql" name="sparql">
@@ -67,6 +66,19 @@
 	WHERE {
 	  ?id kgc:when kd:death_day_of_Julia ;
 	  kgc:subject ?s .
+	  ?s ?p ?o .
+	  filter(?o != kgc:Situation)
+	}
+      </textarea>
+      <textarea class="sparql" name="sparql">
+	#ロイロット博士の事件当夜のイベント
+	PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+	PREFIX kgc: <http://kgc.knowledge-graph.jp/ontology/kgc.owl#>
+	PREFIX kd: <http://kgc.knowledge-graph.jp/data/SpeckledBand/>
+	SELECT ?s ?p ?o
+	WHERE {
+	  ?s kgc:when kd:death_day_of_Julia ;
+	  kgc:subject kd:Roylott .
 	  ?s ?p ?o .
 	  filter(?o != kgc:Situation)
 	}
