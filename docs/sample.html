@@ -24,10 +24,6 @@
 <meta name="twitter:description" content="ナレッジグラフ推論チャレンジ">
 <meta name="twitter:image:src" content="http://challenge.knowledge-graph.jp/images/kgc.png">
 
-
-
-
-
 <link rel="stylesheet" href="css/style.css">
 <script type="text/javascript" src="js/openclose.js"></script>
 <!--[if lt IE 9]>
@@ -58,12 +54,20 @@
 <div id="contents">
 
 <section id="new">
-<h2>検索アプローチ</h2>
-<h3>SPARQLで検索して探す</h3>
-<p>例） 特定の時間に特定の場所に居た人をUnionで探す，など
+<h2 id="newinfo_hdr" class="close">更新情報</h2>
+<dl id="newinfo">
+<dt>2018/06/22</dt><dd>応募にあたって参考となるアプローチを紹介していきます（ネタバレにならない範囲で）．</dd>
+</dl>
 </section>
 
 <section>
+
+<h2>検索アプローチ</h2>
+<h3>SPARQLで検索して探す</h3>
+<li>特定の時間に特定の場所に居た人をUnionで探す
+JSAI2018@鹿児島の発表において紹介したアプローチです．事件が起きたTime，AbstractTimeを中心に登場人物をリストアップし，殺人の動機を持つ人を探します．
+但し，何が殺人の動機になるかは別途，ruleやfactを追加して結論づけてください．
+
 <h2>推論アプローチ</h2>
 <h3>一階述語論理に基づくルールを加えて推論する</h3>
 <p>例） ナイフに個人の指紋がある ⇒ 犯人である，など
@@ -71,25 +75,12 @@
 <p>例） 犯人クラスを定義し，犯人候補との包摂関係を推論する，など
 </section>
 
-<section>
 <h2>機械学習アプローチ</h2>
 <h3>機械学習を用いて分類，クラスタリングして推定する</h3>
 <p>例） 他の事件における犯人の特徴群から学習・推定する，など
+
 </section>
       
-<!--   
-<p>このテンプレートは、<a href="https://template-party.com/">Template Party</a>にて無料配布している『初心者向けホームページテンプレート tp_beginner5』です。必ずダウンロード先のサイトの<a href="https://template-party.com/read.html">利用規約</a>をご一読の上でご利用下さい。</p>
-<p><span class="color1">■<strong>HP最下部の著作表示『Web Design:Template-Party』は無断で削除しないで下さい。</strong></span><br>
-わざと見えなく加工する事も禁止です。</p>
-<p><span class="color1">■<strong>下部の著作を外したい場合は</strong></span><br>
-<a href="https://template-party.com/">Template-Party</a>の<a href="https://template-party.com/member.html">ライセンス契約</a>を行う事でHP下部の著作を外す事ができます。</p>
-<h3>小さい端末で見た場合の「更新情報・お知らせ」用の開閉ブロック用プログラム（openclose.js）について</h3>
-<p>当テンプレートの開閉ブロックパーツは<a href="http://www.crytus.co.jp/">有限会社クリタス様</a>提供のプログラムを使用しています。openclose.jsファイルは改変せずにご利用下さい。<br>
-また、当サイトのテンプレート以外に使いたいなど、「プログラムのみ」を使う場合は<a href="https://template-party.com/free_program/openclose_license.html">こちらの規約</a>をお守り下さい。</p>
-<h3>当テンプレートの詳しい使い方は</h3>
-<p><a href="company.html#about">こちらをご覧下さい。</a></p>
--->
-
 </div>
 <!--/contents-->
 
