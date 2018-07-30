@@ -3,6 +3,10 @@
 本ナレッジグラフは，[青空文庫「まだらのひも」](https://www.aozora.gr.jp/cards/000009/card50717.html)   
 を元に作成しました．
 
+## ライセンス
+本データは人工知能学会セマンティックウェブとオントロジー研究会（SIG-SWO, JSAI）が，[クリエイティブ・コモンズ・ライセンス（表示4.0国際](https://creativecommons.org/licenses/by/4.0/)のもとで提供しています．
+
+
 ## 元データ
 RDFに変換するために作成したテンプレートに記入した元データです．
 - SpeckledBand.xlsx
