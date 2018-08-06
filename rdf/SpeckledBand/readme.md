@@ -9,6 +9,7 @@
 
 ## 元データ
 RDFに変換するために作成したテンプレートに記入した元データです．
+- Speckled Band_Soruce.docx:原文からRDF化する部分をマーク（赤字）＋該当箇所を要約（青字）したもの
 - SpeckledBand.xlsx
 - SpeckledBand.tsv
 
