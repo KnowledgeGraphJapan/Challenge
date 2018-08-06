@@ -17,7 +17,7 @@ RDFに変換するために作成したテンプレートに記入した元デ�
 - SpeckledBand.nt
 - SpeckledBand.rdf
 - SpeckledBand.ttl
-kgc.owl スキーマ定義（各RDFファイルにも含まれています）
+- kgc.owl スキーマ定義（各RDFファイルにも含まれています）
 
 ## SPARQLエンドポイント
 http://lod.hozo.jp/repositories/kgc
