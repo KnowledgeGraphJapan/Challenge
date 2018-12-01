@@ -101,8 +101,8 @@
 <table border="1px solid #808080" class="results-table">
   <tr><td>チーム名</td><td>teamOIF</td></tr>
   <tr><td>チームメンバー</td><td>岡田知輝，今園真聡，福島良紀</td></tr>
-  <tr><td>応募フォーム</td><td></td></tr>
-  <tr><td>応募したプログラム，データ等</td><td></td></tr>
+  <tr><td>応募フォーム</td><td><a href="http://challenge.knowledge-graph.jp/submissions/2018/teamOIF/submission_teamOIF.pdf" target="_blank">http://challenge.knowledge-graph.jp/submissions/2018/teamOIF/submission_teamOIF.pdf</a></td></tr>
+  <tr><td>応募したプログラム，データ等</td><td><a href="https://github.com/teamOIF2018/CriminalDetector" target="_blank">https://github.com/teamOIF2018/CriminalDetector</a></td></tr>
   <tr><td>発表会でのプレゼン資料</td><td></td></tr>
 </table>
 
@@ -136,11 +136,11 @@
 
 
 <table border="1px solid #808080" class="results-table">
-  <tr><td>チーム名</td><td>teamING</td></tr>
+  <tr><td>チーム名</td><td>生島高裕</td></tr>
   <tr><td>チームメンバー</td><td>生島高裕</td></tr>
-  <tr><td>応募フォーム</td><td></td></tr>
-  <tr><td>応募したプログラム，データ等</td><td></td></tr>
-  <tr><td>発表会でのプレゼン資料</td><td></td></tr>
+  <tr><td>応募フォーム</td><td><a href="http://challenge.knowledge-graph.jp/submissions/2018/ikushima/submission_ikushima.pdf" target="_blank">http://challenge.knowledge-graph.jp/submissions/2018/ikusshima/submission_ikushima.pdf</a></td></tr>
+  <tr><td>応募したプログラム，データ等</td><td><a href="http://challenge.knowledge-graph.jp/submissions/2018/ikushima/ikushima_data.zip" target="_blank">http://challenge.knowledge-graph.jp/submissions/2018/ikushima/ikushima_data.zip</a></td></tr>
+  <tr><td>発表会でのプレゼン資料</td><td><a href="http://challenge.knowledge-graph.jp/submissions/2018/ikushima/ikushima_presentation.pdf" target="_blank">http://challenge.knowledge-graph.jp/submissions/2018/ikushima/ikushima_presentation.pdf</a></td></tr>
 </table>
 
 <br>
@@ -155,26 +155,42 @@
 
 <br>
 
-<h3>審査基準（詳細は後日公開）</h3>
+<h3>審査基準</h3>
 <p>
-１．正しく犯人を当てているか？<br>
-２．説明が納得できるか？<br>
-３．技術的な工夫<br>
-　- 推論の仕方<br>
-　- 拡張した知識<br>
-４．評価観点<br>
-　- 汎用性：一般的な知見となりうるか？<br>
-　- 少ない知識をうまく使う　vs.　多量の知識？<br>
-５．書類審査＋プレゼンで評価<br>
+  <b>&lt;基本情報&gt;</b><br>
+１．正解が出せているかどうか？<br>
+　- 推定（導出）した犯人は正しいか？<br>
+２．プログラムが実行できるか？<br>
+　- 提出されたプログラムが正しく動作し，結果が再現できたか？<br>
+３．プログラムのパフォーマンス<br>
+　- プログラムの動作速度，パフォーマンス<br>
+４．使った知識量<br>
+　- 提供した知識グラフ（KG）から，ID何番までを使用して推論（推定）したか？
 </p>
-  
 <p>
-<strong><font color="red">
-※参加者による当日審査を実施する予定です．<br>
-　チームから少なくとも1名は11/25の審査会にご参加ください（遠方の場合はオンライン発表も可）．<br>
-　但し，応募多数の場合は，発表は書類審査による優秀作品に限らせていただきます．<br>
-</strong></font>
+  <b>&lt;専門家審査（ピアレビュー）&gt;</b><br>
+1. 推論・推定方法について<br>
+　1.1. <b>技術性</b>：推論・推定方法の技術的工夫<br>
+　1.2. <b>汎用性</b>：他の問題にも適用できる手法であるか？（他の推理小説にも適用可能〜他の問題にも適用可能）<br>
+　1.3. <b>発展性</b>：今後の技術的な発展が期待できるか？例えば，現状の問題点を解決すると改善が見込める．<br>
+2. 知識・データについて<br>
+　2.1. <b>知識・データ構築の工夫</b>：知識/学習データを構築にかけた（かける）工夫（量×質×プロセス）．外部知識・データを頑張って沢山用意した，外部知識・データの作り方の工夫　..etc<br>
+　2.2. <b>知識・データ活用の工夫</b>：提供されたナレッジグラフ，および，自身で構築した知識を効果的に利用しているか？少ない量の外部知識でスマートに解いた，大量の知識で少ないステップで解いた ..etc<br>
+3. その他<br>
+　3.1. <b>実現可能性（アイデアのみ）</b>：技術，知識・データ構築/活用の双方を含めたアイデアの実現可能性<br>
+　3.2. <b>論理的説明性</b>：論理的な説明が成立しているか？（説明や根拠の提示が全くない．根拠となるエビデンスが何らかの形で提示されている．必要十分な推論（推定）過程において，一貫性を持った説明がなされている ...etc）<br>
+　3.3. <b>努力性</b>：作品（知識/データ/システム）作成にかけた労力<br>
+　3.4. 総合的なコメント
 </p>
+<p>
+  <b>&lt;一般審査（発表会でのプレゼンを聞いて）&gt;</b><br>
+  1. 総合評価<br>
+　- アイデアの面白さ，プレゼンの良さなども含めた総合的な評価を記入してください．<br>
+2. 説明性<br>
+　- あなたが裁判員（陪審員）だったとして，その説明に納得にできますか？
+</p>
+<br>
+<p>各審査員が項目ごとに点数とコメントを付け，一般審査の結果と合わせて総合的に判断</p>
 
 </section>
 
