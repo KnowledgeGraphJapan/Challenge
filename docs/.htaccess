@@ -1,4 +1,0 @@
-RewriteEngine on
-RewriteRule ^index.html$ https://challenge.knowledge-graph.jp/2018/ [R=301,L]
-RewriteCond %{ HTTPS} off
-RewriteRule ^(.*)$ https://%{ HTTP_HOST}%{REQUEST_URI} [L,R=301]]}})}
