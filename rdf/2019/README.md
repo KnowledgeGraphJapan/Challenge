@@ -4,7 +4,8 @@
 ## 2019/06/04 仮バージョン  
 構築中の仮バージョンのナレッジグラフを公開しています．  
 正式版は，7月中旬に公開予定です．  
-修正リクエストはGitHubの他、<a href="https://drive.google.com/open?id=1IqiOrPTSvHVBnbAkBJDo3mcWZ3AOHigXS0lWgL94ubQ">こちらのフォーム</a>からも受け付けております。
+修正リクエストはGitHubの他、<a href="https://drive.google.com/open?id=1IqiOrPTSvHVBnbAkBJDo3mcWZ3AOHigXS0lWgL94ubQ">こちらのフォーム</a>からも受け付けております。  
+
 SPARQLエンドポイント　http://lod.hozo.jp/repositories/kgc2019  
   
 |小説|グラフIRI|
