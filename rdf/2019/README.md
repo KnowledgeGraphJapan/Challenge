@@ -9,11 +9,11 @@ SPARQLエンドポイント　http://lod.hozo.jp/repositories/kgc2019
   
 |小説|グラフIRI|
 ----|----
-|まだらのひも|&lt;http://kgc.knowledge-graph.jp/data/2019/SpeckledBand>|
-|踊る人形|&lt;http://kgc.knowledge-graph.jp/data/2019/DancingMen>|
-|花婿失踪事件（同一事件）|&lt;http://kgc.knowledge-graph.jp/data/2019/ACaseOfIdentity>|
-|悪魔の足|&lt;http://kgc.knowledge-graph.jp/data/2019/DevilsFoot>|
-|背中の曲がった男（曲がれる者）|&lt;http://kgc.knowledge-graph.jp/data/2019/CrookedMan>|
+|まだらのひも|&lt;http://kgc.knowledge-graph.jp/data/2019/SpeckledBand&gt;|
+|踊る人形|&lt;http://kgc.knowledge-graph.jp/data/2019/DancingMen&gt;|
+|花婿失踪事件（同一事件）|&lt;http://kgc.knowledge-graph.jp/data/2019/ACaseOfIdentity&gt;|
+|悪魔の足|&lt;http://kgc.knowledge-graph.jp/data/2019/DevilsFoot&gt;|
+|背中の曲がった男（曲がれる者）|&lt;http://kgc.knowledge-graph.jp/data/2019/CrookedMan&gt;|
 
 
 
