@@ -18,5 +18,10 @@ SPARQLエンドポイント　http://lod.hozo.jp/repositories/kgc2019
 |悪魔の足|&lt;http://kgc.knowledge-graph.jp/data/DevilsFoot&gt;|
 |背中の曲がった男（曲がれる者）|&lt;http://kgc.knowledge-graph.jp/data/CrookedMan&gt;|
 
+## ライセンス
+本データは人工知能学会セマンティックウェブとオントロジー研究会（SIG-SWO, JSAI）が，[クリエイティブ・コモンズ・ライセンス（表示4.0国際)](https://creativecommons.org/licenses/by/4.0/)のもとで提供しています．
+
+## 可視化ツール
+http://knowledge-graph.jp/visualization/
 
 
