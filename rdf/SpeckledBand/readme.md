@@ -40,4 +40,4 @@ http://kgc.knowledge-graph.jp/data/SpeckledBand/XXX  （XXX=1から401の数字�
 http://knowledge-graph.jp/visualization/
 
 ## サンプルクエリ
-http://challenge.knowledge-graph.jp/sparql.html
+http://challenge.knowledge-graph.jp/2018/sparql.html
