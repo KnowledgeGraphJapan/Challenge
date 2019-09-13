@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>参考資料 | ナレッジグラフ推論チャレンジ</title>
+<title>初めての方へ(参考資料) | ナレッジグラフ推論チャレンジ</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="ナレッジグラフ推論チャレンジ">
 <meta name="keywords" content="ナレッジグラフ,Linked Data,Linked Open Data,Semantic,Ontlogy">
@@ -17,6 +17,16 @@
   .slideshare {
     width: 50%;
   }
+  ol {
+        counter-reset: section;
+      }
+      li {
+	    list-style: none;
+	  }
+   ol>li:before {
+	        content : counters(section, '-') '. ';
+		    counter-increment : section;
+}
 </style>
 </head>
 
@@ -35,7 +45,7 @@
 <!--<li><a href="gallery.html">Gallery</a></li>-->
 <li><a href="https://github.com/KnowledgeGraphJapan/Challenge/tree/master/rdf/" target="_blank">ナレッジグラフ公開</a>
 <li><a href="2019/sample.html">参考アプローチ</a></li>
-<li class="current"><a href="reference.html">参考資料</a></li>
+<li class="current"><a href="reference.html">初めての方へ</a></li>
 </ul>
 </nav>
 
@@ -43,9 +53,42 @@
 
 <section>
 
-<h2>参考資料</h2>
+<h2>初めての方へ（参考資料）</h2>
 <p>ナレッジグラフ推論チャレンジに応募する上で参考になる技術資料等をまとめます。</p>
-
+<p>
+  <ol>
+    <li><b>ナレッジグラフ推論チャレンジとは</b>
+      <ol>
+	<li><a href="https://www.slideshare.net/KnowledgeGraph/ss-103925966">第一回開催説明スライド</a></li>
+	<li><a href="https://www.slideshare.net/KnowledgeGraph/2018-148835458">第一回報告＆第二回説明スライド</a></li>
+    </ol>
+    </li>
+    <li><b>これまでの応募作品を知りたい</b>
+    <ol>
+      	<li><a href="https://challenge.knowledge-graph.jp/2018/results/results2018.html">2018年の応募作品</a></li>
+      </ol>
+    </li>
+    <li><b>ナレッジグラフを使いたい</b><br>
+      本チャレンジではナレッジグラフを<b>LOD</b>, <b>SPARQL</b>エンドポイントの形式で公開しております。
+      <ol>
+	<li><a href="https://github.com/KnowledgeGraphJapan/Challenge/tree/master/rdf/">ナレッジグラフ公開ページ</a></li>
+	<li><a href="https://github.com/KnowledgeGraphJapan/LODws1st/blob/master/LOD-WS-tokyo-Overview-20170803.pdf">LODとは</a></li>
+	<li><a href="https://github.com/KnowledgeGraphJapan/LODws1st/blob/master/SPARQL-Lec/LOD-WS-tokyo-SPARQL-20170803.pdf">SPARQLとは</a></li>
+	<li><a href="https://github.com/KnowledgeGraphJapan/Challenge/blob/master/rdf/2019/SPARQLsample.md">ナレッジグラフ推論チャレンジのサンプルSPARQLクエリ集</a></li>
+    </ol>
+    <li><b>引用したい</b><br>
+      論文や記事等では下記を引用してください。データセットのライセンスはCC-BY: JSAI SIG－SWO です．
+      <ol>
+	<li><a href="">第1回ナレッジグラフ推論チャレンジ2018開催報告─説明性のある人工知能システムを目指して─</a><br>
+	人工知能学会の学会誌「人工知能」34巻3号（2019年5月）に掲載された解説記事です。
+      </li>
+       <li><a href="http://arxiv.org/abs/1908.08184">Report on the First Knowledge Graph Reasoning Challenge 2018 -- Toward the eXplainable AI System</a><br>
+        arXivに投稿した英語記事です。
+       </li>
+      </ol>
+    </li>
+  </ol>
+</p>
 <table class="ta1">
 <tr>
 <th colspan="2" class="tamidashi">参考資料一覧</th>
