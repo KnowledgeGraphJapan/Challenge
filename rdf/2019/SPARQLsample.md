@@ -3,6 +3,20 @@
 
 SPARQLエンドポイントは，http://lod.hozo.jp/repositories/kgc2019 です．
 
+## ｢まらだのひも」の場面36のhasPredicate（その場面の内容を表す述語）を取得する
+```
+select ?o
+{<http://kgc.knowledge-graph.jp/data/SpeckledBand/36> <http://kgc.knowledge-graph.jp/ontology/kgc.owl#hasPredicate> ?o .}
+```
+[クエリ結果を見る](http://lod.hozo.jp/repositories/kgc2019#query/d/select%20?o%0A%7B%3Chttp://kgc.knowledge-graph.jp/data/SpeckledBand/36%3E%20%3Chttp://kgc.knowledge-graph.jp/ontology/kgc.owl%23hasPredicate%3E%20?o%20.%7D)
+
+## ｢まらだのひも」の場面36の内容（トリプル一覧）を取得する
+```
+select ?p ?o
+{<http://kgc.knowledge-graph.jp/data/SpeckledBand/36> ?p ?o .}
+```
+[クエリ結果を見る](http://lod.hozo.jp/repositories/kgc2019#query/d/select%20?p%20?o%0A%7B%3Chttp://kgc.knowledge-graph.jp/data/SpeckledBand/36%3E%20?p%20?o%20.%7D)
+
 ## 場面の一覧を取得する
 ```
 PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
