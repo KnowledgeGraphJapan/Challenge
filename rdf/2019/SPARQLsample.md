@@ -10,7 +10,7 @@ select ?o
 ```
 [クエリ結果を見る](http://lod.hozo.jp/repositories/kgc2019#query/d/select%20?o%0A%7B%3Chttp://kgc.knowledge-graph.jp/data/SpeckledBand/36%3E%20%3Chttp://kgc.knowledge-graph.jp/ontology/kgc.owl%23hasPredicate%3E%20?o%20.%7D)
 
-## ｢まらだのひも」の場面36の内容（トリプル一覧）を取得する
+## 指定した場面（例：｢まらだのひも」の場面36）の内容（トリプル一覧）を取得する
 ```
 select ?p ?o
 {<http://kgc.knowledge-graph.jp/data/SpeckledBand/36> ?p ?o .}
@@ -43,19 +43,6 @@ WHERE{
 }
 ```
 [クエリ結果を見る](http://lod.hozo.jp/repositories/kgc2019#query/d/PREFIX%20rdf:%20%20%3Chttp://www.w3.org/1999/02/22-rdf-syntax-ns%23%3E%0APREFIX%20kgc:%20%3Chttp://kgc.knowledge-graph.jp/ontology/kgc.owl#%3E%0A%0ASELECT%20?s%20%0AFROM%20%3Chttp://kgc.knowledge-graph.jp/data/DancingMen%3E%0AWHERE%7B%0A?s%20rdf:type%20kgc:Situation%20.%0A%7D)
-
-## 指定した場面の情報を取得する
-```
-PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX kgc: <http://kgc.knowledge-graph.jp/ontology/kgc.owl#>
-
-SELECT ?p ?o
-WHERE{
-<http://kgc.knowledge-graph.jp/data/DancingMen/035> ?p ?o .
-}
-```
-[クエリ結果を見る](http://lod.hozo.jp/repositories/kgc2019#query/d/PREFIX%20rdf:%20%20%3Chttp://www.w3.org/1999/02/22-rdf-syntax-ns%23%3E%0APREFIX%20kgc:%20%3Chttp://kgc.knowledge-graph.jp/ontology/kgc.owl#%3E%0A%0ASELECT%20?p%20?o%0AWHERE%7B%0A%3Chttp://kgc.knowledge-graph.jp/data/DancingMen/035%3E%20?p%20?o%20.%0A%7D)
-
 
 ## 条件を満たす場面の一覧を取得する
 ```
