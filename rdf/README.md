@@ -1,6 +1,6 @@
 # 【重要】ナレッジグラフ公開用のレポジトリの変更
 ナレッジグラフ公開用のレポジトリを  
-https://github.com/KnowledgeGraphJapan/KGRC-RDF　
+https://github.com/KnowledgeGraphJapan/KGRC-RDF  
 に変更しました．  
 今後は，上記のレポジトリを参照してください．
 
