@@ -1,0 +1,171 @@
+/* Scss Document */
+@charset "utf-8";
+
+@mixin tab {
+  @media screen and (min-width: 481px) {
+    @content;
+  }
+}
+@mixin sp {
+  @media print, screen and (max-width: 768px) {
+    @content;
+  }
+}
+@mixin pc {
+  @media print, screen and (min-width: 769px) {
+    @content;
+  }
+}
+@mixin sp-nav {
+  @media print, screen and (max-width: 1000px) {
+    @content;
+  }
+}
+@mixin pc-nav {
+  @media print, screen and (min-width: 1001px) {
+    @content;
+  }
+}
+
+$min-width: 960px;
+$max-width: 1100px;
+$key-c1: #000;
+
+@keyframes fadeIn {
+ 0% {
+opacity: 0
+}
+ 100% {
+opacity: 1
+}
+}
+ @-webkit-keyframes fadeIn {
+ 0% {
+opacity: 0
+}
+ 100% {
+opacity: 1
+}
+}
+
+@mixin anime-fadein {
+	animation: fadeIn 1s ease 0s 1 normal;
+	-webkit-animation: fadeIn 1s ease 0s 1 normal;
+}
+@mixin flex {
+	display:-ms-flexbox;
+	display:-webkit-flex;
+	-js-display: flex;
+	display:flex;
+}
+
+@mixin flex-in {
+	display: -webkit-inline-box;
+	display: -ms-inline-flexbox;
+	display: inline-flex;
+}
+
+@mixin flex-column {
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+}
+
+@mixin flex-column-rr {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
+}
+@mixin flex-row {
+	-webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+}
+@mixin flex-row-rr {
+	-webkit-box-orient: horizontal;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: row-reverse;
+            flex-direction: row-reverse;
+}
+
+@mixin flex-wrap {
+    -webkit-box-lines:multiple;
+    -moz-box-lines:multiple;
+    -ms-flex-wrap:wrap;
+    flex-wrap:wrap;
+}
+
+@mixin flex-rr {
+	-ms-flex-direction: row-reverse;
+	-webkit-flex-direction: row-reverse;
+	flex-direction: row-reverse;
+}
+
+@mixin flex-sb {
+    -ms-flex-pack: justify;
+	-webkit-justify-content: space-between;
+	justify-content: space-between;
+}
+
+@mixin flex-sa {
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+}
+
+@mixin flex-al {
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
+
+@mixin flex-ac {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+@mixin flex-ar {
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+}
+
+@mixin flex-vm {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+@mixin flex-ve {
+    -webkit-box-align: end;
+    -ms-flex-align: end;
+    align-items: flex-end;
+}
+
+@mixin flex-vb {
+  -webkit-box-pack:end;
+  -ms-flex-pack:end;
+  justify-content:flex-end;
+}
+
+@mixin flex-fs {
+    -webkit-box-align:start;
+	-ms-flex-align:start;
+	align-items: flex-start;
+}
+@mixin trans { 
+	-webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+	}
+
+@import "reset";
+
+@import "common";
+
+@import "layout";
+
+@import "parts";

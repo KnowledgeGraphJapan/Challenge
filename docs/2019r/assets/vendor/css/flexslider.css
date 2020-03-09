@@ -1,0 +1,104 @@
+
+/******************/
+
+.flexslider {margin:0; padding:0;}
+.flexslider .slides > li {display:none; -webkit-backface-visibility:hidden;}
+.flexslider .slides img {width:100%;height: auto;}
+.flex-pauseplay span {text-transform:capitalize;}
+
+.slides:after {content:""; display:block; clear:both; visibility:hidden; height:0;}
+.no-js .slides > li:first-child {display:block;}
+
+/******************/
+/******************/
+
+.flexslider {margin:-1px 0 0; position:relative;}
+.flex-viewport {max-height:2000px;
+	-webkit-transition:all 1s ease;
+	-moz-transition:all 1s ease;
+	-ms-transition:all 1s ease;
+	-o-transition:all 1s ease;
+	transition:all 1s ease;
+}
+.loading .flex-viewport {max-height:300px;}
+.carousel li {margin-right:5px;}
+
+/******************/
+/* Direction Nav **/
+.flex-direction-nav {height:0;}
+
+.flex-direction-nav a  {
+display:block;
+width:80px;
+height:80px;
+position:absolute;
+top:40%;
+overflow:hidden;
+opacity:0;
+cursor:pointer;
+color:rgba(255,255,255,0);
+	-webkit-transition:all .3s ease;
+	-moz-transition:all .3s ease;
+	-ms-transition:all .3s ease;
+	-o-transition:all .3s ease;
+	transition:all .3s ease;
+}
+.flex-direction-nav a.flex-prev {left:0px; }
+.flex-direction-nav a.flex-next {right:0px;}
+.flexslider:hover .flex-prev {opacity:0.7; left:10px;}
+.flexslider:hover .flex-next {opacity:0.7; right:10px;}
+.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover {opacity:1;}
+.flex-direction-nav .flex-disabled {opacity:0; cursor:default;}
+.flex-direction-nav a:before{
+position: absolute;
+top: 0;
+bottom: 0;
+left: 20px;
+margin: auto;
+content: "";
+vertical-align: middle;
+width: 40px;
+height: 40px;
+border-top: 2px solid #fff;
+border-right: 2px solid #fff;
+-webkit-transform: rotate(225deg);
+transform: rotate(225deg);
+}
+.flex-direction-nav a.flex-next:before{
+border-top: 2px solid #fff;
+border-right: 2px solid #fff;	
+-webkit-transform: rotate(45deg);
+transform: rotate(45deg);
+}
+
+/******************/
+/* Pause/Play *****/
+.flex-pauseplay a { display: block; width: 20px; height: 20px; position: absolute; bottom:5px; left:10px; opacity:0.8; overflow: hidden; cursor: pointer; color: #000; }
+.flex-pauseplay a:before { font-size: 20px; display: inline-block;}
+.flex-pauseplay a:hover {opacity:1;}
+.flex-pauseplay a.flex-play:before {content:'\f003';}
+
+/* Control Nav */
+.flex-control-nav {width:100%; position:absolute; bottom:-30px; text-align:right; margin-bottom:0;padding-right: 20px; font-size:0px;}
+.flex-control-nav li {margin:0 6px; display:inline-block;}
+.flex-control-paging li a {width:15px; height:15px; display:block; background:#363737; border-radius: 50%; cursor:pointer; text-indent:-9999px;border: 2px solid #fff;}
+.flex-control-paging li a:hover {background:#fff;}
+.flex-control-paging li a.flex-active {background:#fff; cursor:default;}
+
+.flex-control-thumbs {margin:5px 0 0; position:static; overflow:hidden;}
+.flex-control-thumbs li {width:25%; float:left; margin:0;}
+.flex-control-thumbs img {width:100%; display:block; opacity:0.7; cursor:pointer;}
+.flex-control-thumbs img:hover {opacity:1;}
+.flex-control-thumbs .flex-active {opacity:1; cursor:default;}
+
+
+@media screen and (max-width: 768px) {
+	.flex-direction-nav .flex-prev {visibility: hidden}
+	.flex-direction-nav .flex-next {visibility: hidden}
+}
+
+/* end ************/
+/******************/
+/******************/
+
+
