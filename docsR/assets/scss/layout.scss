@@ -1,0 +1,773 @@
+@charset "UTF-8";
+
+/* Layout                                           
+/* --------------------------------------------------- */
+.layout {
+	@include flex;
+	@include flex-sb;
+	@include sp {
+		.img {
+			text-align: center;			
+			}
+		.txt {
+			margin: 0 0 1em;
+			}
+		&.va-rr {
+			@include flex-column-rr;
+			.txt {
+			margin: 1em 0 0;
+			}
+		}		
+	}
+	@include pc {
+		.img {
+			margin: 0 0 0 2em;
+			&.w1 {
+				width: 300px
+			}
+		}
+		.txt {
+			-webkit-box-flex:1;
+			-ms-flex:1;
+			flex:1;
+		}
+		&.ta-rr {
+			@include flex-rr;
+			.img {
+			margin: 0 2em 0 0;
+			}
+		}		
+	}
+	> .col p {
+		margin: 0.5em 0 0;
+	}
+	&.col-2 > .col {
+		width: 48%;
+	}
+	&.col-3 > .col {
+		width: 31.33%;
+	}
+	&.col-4 {
+		@include flex-wrap;
+	}
+	&.col-4 > .col {
+		width: 48%;
+		margin-bottom: 3em;
+		@include pc {
+			width: 23%;
+			margin-bottom: 0;
+		}
+	}
+	&.rr {
+		@include flex-rr;
+	}
+	&:last-child {
+		margin-bottom: 0;
+	}
+	&.sp-break {
+		@include sp {
+			@include flex-column;
+			> .col {
+				width: 100%;
+				margin-bottom: 3em;
+			}
+		}
+	}
+	&.equal {
+		margin-left: -1em;
+		> .col {
+			margin-left: 1em;
+		}
+		@include sp {
+			margin-left: -2%;
+			> .col {
+				margin-left: 2%;
+			}
+		}
+	}
+	&.wrap {
+		margin-left: -2%;
+		@include flex-wrap;	
+		@include flex-sa;
+		@include flex-al;
+		> .col {
+			margin-left: 2%;
+			margin-bottom: 10px;
+			width: 48%;	
+			@include tab {
+			width: 31.33%;
+			}
+			@include pc {
+			width: 23%;
+			}
+		}
+	}
+	&.txt-wrap {		
+		display: block;
+		> .col {
+			display: inline;
+		}
+		> .fl {
+			float: left;
+			margin: 0 4% 2% 0;
+		}
+		> .fr {
+			float: right;
+			margin: 0 0 2% 4%;
+		}
+		> .wrap-around {
+			width: 100%;
+			* {
+			overflow: hidden;
+		}
+		}
+		&:after {
+			content: "";
+			display: block;
+			height: 0;
+			clear: both;
+			line-height: 0;
+		}
+	}
+	&.sp-txt-wrap {		
+		@include sp {
+			display: block;
+			> .col {
+				display: inline;
+			}
+			> .fl {
+				float: left;
+				margin: 0 4% 2% 0;
+			}
+			> .fr {
+				float: right;
+				margin: 0 0 2% 4%;
+			}
+			&:after {
+				content: "";
+				display: block;
+				height: 0;
+				clear: both;
+				line-height: 0;
+			}
+		}
+	}
+	.v1 {
+		-webkit-box-flex: 1;
+        -ms-flex: 1;
+		flex: 1;
+	}
+	.v2 {
+		-webkit-box-flex: 2;
+        -ms-flex: 2;
+		flex: 2;
+	}
+	.v3 {
+		-webkit-box-flex: 3;
+        -ms-flex: 3;
+		flex: 3;
+	}
+	.v4 {
+		-webkit-box-flex: 4;
+        -ms-flex: 4;
+		flex: 4;
+	}
+	.v5 {
+		-webkit-box-flex: 5;
+        -ms-flex: 5;
+		flex: 5;
+	}
+	.v6 {
+		-webkit-box-flex: 6;
+        -ms-flex: 6;
+		flex: 6;
+	}
+	@include sp {
+		.v4,.v5,.v6 {
+		-webkit-box-flex: 3;
+        -ms-flex: 3;
+		flex: 3;
+	}	
+	}
+}
+
+
+/* Key common */
+.key-common {	
+	background: #423b38;
+	padding-top: 60px;
+	@include pc-nav {
+		padding-top: 80px;
+		}
+		.key-common-inner {
+		background: url("../img/common/key_bg.png") no-repeat top center;
+		background-size: cover;
+		@include flex;
+		@include flex-vm;
+		@include flex-ac;
+		padding: 0 4%;
+		height: 120px;
+		margin: 0 auto;
+		@include pc {
+			padding: 0 10px;
+			height: 190px;
+			max-width: 1000px;
+		}
+		.ttl {
+			font-weight: 500;
+			color: #fff;
+			font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+			font-size: 2.4rem;
+			color: #fff;
+			padding-bottom: 30px;
+			background: url("../img/common/key_ttl.png") no-repeat bottom center;
+			background-size: 124px;
+			@include pc {
+				font-size: 3.5rem;
+			}
+		}
+		
+		
+	}
+
+}
+
+
+/* toppage */
+.top-news {
+	h2 {
+		font-size: 2rem;
+		font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+		color: #372f29;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-align: center;
+		-ms-flex-align: center;
+		align-items: center;
+		margin-bottom: 0.5em;
+		@include pc {
+				font-size: 2.8rem;
+			}
+		&:after {
+			content: "";
+			-webkit-box-flex: 1;
+			-ms-flex-positive: 1;
+			flex-grow: 1;
+			height: 2px;
+			background: #372f29;
+			display: block;
+			margin-left: 1em;
+		}
+	}	
+}
+dl.newinfo {
+	text-align: left;
+	dt {
+		margin-bottom: 0.5em;
+		@include pc {
+			float: left;
+		}
+	}
+	dd {		
+		margin-bottom: 1.5em;
+		@include pc {
+			margin-left: 6em;
+			margin-bottom: 0.5em;
+		}
+	}
+}
+	
+	
+
+.top-outline {
+	background: url("../img/common/bg01.png") right top;
+	@include pc {
+		width: 1000px;
+		margin: 0 auto;
+	}	
+	.inner {
+		background: #ded8d2;
+		text-align: left;
+		margin-right: 4%;
+		@include pc {
+			margin-left: 0;
+			padding-left: 80px;
+			padding-right: 80px;
+		}		
+	}
+}
+
+.top-schedule {
+	background: #ded8d2;
+	border-bottom: 5px solid #fff;
+	@include pc {
+		width: 1000px;
+		margin: 0 auto;
+	}	
+}
+.top-contact {
+	background: url("../img/common/bg01.png") right top;
+	position: relative;	
+	@include pc {
+		width: 1000px;
+		margin: 0 auto;
+	}	
+	&:after {
+		content: "";
+		display: block;
+		height: 50%;
+		width: 100%;
+		position: absolute;
+		bottom: 0;
+		background: #fff;
+	}
+	.box {
+		padding: 20px 4% 0;
+		background: #fff;
+		position: relative;
+		z-index: 2;
+		@include pc {
+			margin: 0 65px;
+			padding: 30px 20px 0;
+		}
+	}	
+	h2 {
+		font-size: 2rem;
+		color: #635345;
+		font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;		
+		@include pc {
+			font-size: 2.5rem;
+		}
+		em {
+			display: block;
+			margin: 0.3em 0;
+		}
+	}
+}
+
+
+.top-content {
+	background: url("../img/common/bg02.png") right top;
+	border-top: 5px solid #fff;
+	border-bottom: 5px solid #fff;
+	h2,p,a {
+		color: #fff;
+	}
+	@include pc {
+		width: 1000px;
+		margin: 0 auto;
+	}	
+}
+
+/* commonpage */
+.local-nav {
+	background: #dee6f4;
+	padding: 30px 4%;
+	@include pc {
+		padding: 50px 0 20px;
+		max-width: 1200px;
+		.layout {
+			max-width: 1100px;
+			margin: 0 auto;
+		}
+	}	
+	a {
+		text-decoration: none;
+		text-align: left;
+		font-weight: 500;
+		img {
+			@include trans;
+		}
+		&:hover img {
+			opacity: 0.7;
+		}
+	}
+}
+.local-nav-foot {
+	background: #dee6f4;
+	padding: 30px 4%;
+	@include pc {
+		padding: 50px 0 20px;
+		.contents {
+			max-width: 830px;
+			margin: 0 auto;
+		}
+	}	
+	a {
+		text-decoration: none;
+		background: #fff;
+		text-align: left;
+		font-weight: 500;
+		display: block;
+		width: 48%;
+		padding: 20px 4%;
+		@include pc {
+			width: 190px;
+			height: 120px;
+			line-height: 120px;
+			padding: 0 2%;
+		 }		
+		img {
+			@include trans;
+			vertical-align: middle;
+		}
+		&:hover img {
+			opacity: 0.7;
+		}
+	}
+}
+
+.crumb-area {
+	text-align: left;
+	.inner {
+		position: relative;
+		min-height: 50px;
+	}
+	p {		
+		padding: 1em 2em;
+		font-size: 1.1rem;
+		@include pc {
+			position: absolute;
+			top:0;
+			left: 0;
+		}
+	}
+	.img-in p,.img-in a {
+		@include pc {
+			color: #fff;
+		}
+	}
+}
+
+.layout-common {
+	@include pc {
+		max-width: 800px;
+		margin:0 auto;
+	}
+}
+
+/* アクセス */
+.accessMap {
+	padding-bottom: 3em;
+	iframe {
+		width: 100%;
+		height: 450px;
+	}
+}
+
+/* 新着情報 */
+.news-ttl {
+	font-size: 1.6rem;
+	font-weight: 500;
+	padding-bottom: 0.5em;
+	margin-bottom: 2em;
+	border-bottom: 1px solid #1a468f;
+	.ymd {
+		display: block;
+		color: #666;
+		font-size: 1.4rem;
+		padding-bottom: 0.5em;
+	}
+}
+
+/* product */
+.product-index {
+	max-width: 1070px;
+	margin: 0 auto;
+}
+.product-index h2 {
+	@include flex;
+	@include flex-sb;
+	@include flex-fs;
+	background: #123266;
+	em {
+	color: #fff;
+	font-size: 1.6rem;
+	font-weight: 500;
+	padding: 0.8em;
+	@include pc {
+		font-size: 2rem;
+		}
+	}
+	img {
+	max-width: 100px!important;
+	@include pc {
+		max-width: 180px!important;
+		}
+	}
+}
+
+ul.list-01 {
+	margin-bottom: 3em;
+	li {
+		border-bottom: 1px solid #ccc;	
+	a {
+		text-decoration: none;
+		padding: 0.8em 0.2em 0.7em 1em;
+		color: #333;
+		display: block!important;
+		position: relative;
+		&:after {
+			position: absolute;
+			top: 50%;
+			left: 0;
+			margin: auto;
+			margin-top: -3px;
+			content: "";
+			vertical-align: middle;
+			width: 6px;
+			height: 6px;
+			border-top: 1px solid #123265;
+			border-right: 1px solid #123265;
+			-webkit-transform: rotate(45deg);
+			transform: rotate(45deg);
+		}
+		}
+		&.lv2 {
+			padding-left: 2em;
+		}
+	}	
+}
+.sidenav-01 {
+	display: none;
+	color: #fff;
+	line-height: 1.4;
+	@include pc {
+		display: inline-block;
+		max-width: 260px;
+		width: 25%;
+		background: #123266;
+		postion: -webkit-sticky;
+		position: sticky;
+		top: 60px;
+	}
+	h2 {
+		color: #fff;
+		font-size: 2rem;
+		font-weight: 500;
+		border-bottom: 1px solid #fff;
+		padding: 1.8em 0.3em;
+		text-align: center;
+	}
+	a {
+		color: #fff;
+		text-decoration: none!important;
+		font-size: 1.4rem;
+		display: block;
+		padding:1em;
+		&:hover,&.current {
+			background: #1a468f;
+		}
+		&.current {
+			cursor: default;
+		}
+	}
+	.back {
+		position: relative;
+		text-decoration: underline;
+		padding-left: 2em;
+		&:after {
+			position: absolute;
+			top: 50%;
+			left: 1em;
+			margin: auto;
+			margin-top: -6px;
+			content: "";
+			vertical-align: middle;
+			width: 6px;
+			height: 6px;
+			border-top: 1px solid #fff;
+			border-right: 1px solid #fff;
+			-webkit-transform: rotate(-135deg);
+			transform: rotate(-135deg);
+		}
+	}
+}
+.product-main {
+	@include sp {
+		margin-left:0!important;
+	}	
+	@include pc {
+		max-width: 820px;
+		width: 70%;
+		float: right;
+	}
+}
+
+@include pc {
+.fixed-side {
+  position: fixed;
+  top:0;
+}
+.bottom-side {
+  position: absolute;
+  bottom: 0;
+}
+.static-side {
+  position: static;
+}
+}
+
+.product-h1area {
+	background: #1a468f;
+	padding: 15px 4%;
+	text-align: center;
+	margin-bottom: 30px;
+	@include pc {
+		padding: 20px;
+		@include flex;
+		@include flex-sb;
+		margin-bottom: 50px;
+		min-height: 130px;
+		@media print, screen and (min-width: 769px) and (max-width: 1200px) {
+			display: block;
+		}
+	}
+	h1,.h1 {
+		color: #fff;
+		font-size: 1.8rem;
+		font-weight: 500;
+		margin-bottom: 0.8em;
+		text-align: left;
+		@include pc {
+			font-size: 2rem;
+		}
+	}
+	ul {
+		margin-left: 1em;
+		}
+	li a {
+		color: #1f57b2;
+		text-decoration: none;
+		background: #fff;
+		width: 280px;
+		height: 38px;
+		line-height: 38px;
+		border: 1px solid #1a468f;
+		border-radius: 1.5em;
+		font-size: 1.3rem;
+		font-weight: 500;
+		display: block;
+		padding: 0 0.5em;
+		margin: 0 auto;
+		text-align: center;
+		-webkit-transform: perspective(1px) translateZ(0);
+		transform: perspective(1px) translateZ(0);
+		box-shadow: 0 0 1px rgba(255, 255, 255, 0);
+		position: relative;
+		-webkit-transition-property: color;
+		transition-property: color;
+		-webkit-transition-duration: 0.3s;
+		transition-duration: 0.3s;
+		overflow: hidden;
+		&.i-pdf {
+			&:before {
+				content: url("../img/common/i_pdf.png");
+				margin-right: 5px;
+				position: relative;
+				top: 6px;
+			}
+		}
+		&:after {
+			content: "";
+			position: absolute;
+			z-index: -1;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			background: #dee6f3;
+			-webkit-transform: scaleX(0);
+			transform: scaleX(0);
+			-webkit-transform-origin: 0 50%;
+			transform-origin: 0 50%;
+			-webkit-transition-property: transform;
+			transition-property: transform;
+			-webkit-transition-duration: 0.3s;
+			transition-duration: 0.3s;
+			-webkit-transition-timing-function: ease-out;
+			transition-timing-function: ease-out;	
+			}
+		&:hover, &:focus, &:active{
+			color: #1f57b2;
+			text-decoration: none;
+		}
+		&:hover:after, &:focus:after, &:active:after{
+			-webkit-transform: scaleX(1);
+			transform: scaleX(1);
+		}
+	}
+	li:first-child a {
+		margin-bottom: 10px;
+	}
+	&.sub-ttl {
+		background: #dee6f4;
+		.h1 {
+			color: #1a468f;
+		}
+	}
+}
+
+.flow01 li {
+	border: 2px solid #4e74ff;
+	padding: 1.5em;
+	border-radius: 6px;
+	margin-bottom: 30px;
+	position: relative;
+	&:after {
+		content: "";
+		width: 0;
+		height: 0;
+		border-style: solid;
+		border-width: 13px 11px 0 11px;
+		border-color: #4e74ff transparent transparent transparent;
+		position: absolute;
+		bottom: -20px;
+		left: 50%;
+		transform: translateX(-50%);
+		-webkit-transform: translateX(-50%);
+	}
+	&:last-child:after {
+		display: none;
+	}
+}
+
+
+
+/* 取扱いメーカー */
+.manufacturer-contents {
+	.layout {
+		max-width: 1060px;
+		margin: 0 auto;
+		&:first-child {
+			@include pc {
+				margin-bottom: 60px;
+			}
+		}
+		.col {
+			border: 1px solid #1a468f;
+			padding: 3em 2em;
+			.btn01 {
+				width: 100%;
+				max-width: 300px;
+				display: block!important;
+				@include pc {		
+					position: absolute;
+					bottom: 3em;
+					left: 50%;
+					transform: translateX(-50%);
+					-webkit-transform: translateX(-50%);
+				}
+			}
+			@include pc {
+				position: relative;
+				min-height: 600px;
+				h2 {
+					height: 73px;
+				}
+			}
+		}
+	}
+}
+
