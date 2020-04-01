@@ -345,7 +345,7 @@ img {
       color: #fff; } }
 .gnav-ul > li.current > a, .gnav-ul > li.current > span, .gnav-ul > li.current2 > a, .gnav-ul > li.current2 > span {
   cursor: default;
-  color: #423b38; }
+  color: #fff; }
   @media print, screen and (min-width: 1001px) {
     .gnav-ul > li.current > a:after, .gnav-ul > li.current > span:after, .gnav-ul > li.current2 > a:after, .gnav-ul > li.current2 > span:after {
       content: "";

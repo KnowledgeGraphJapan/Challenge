@@ -267,7 +267,7 @@ img {
 	}
 	&.current > a,&.current > span,&.current2 > a,&.current2 > span{
 		cursor : default;
-		color: #423b38;
+		color: #fff;
 		@include pc-nav {
 			&:after {
 				content: "";
