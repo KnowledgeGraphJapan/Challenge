@@ -1,0 +1,132 @@
+﻿<!DOCTYPE html>
+<html lang="ja"><!-- InstanceBegin template="/Templates/jp.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Reference Approaches | Knowledge Graph Reasoning Challenge</title>
+<!-- InstanceEndEditable -->
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="format-detection" content="telephone=no" />
+<link rel="shortcut icon" href="../favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="icon" href="../favicon.ico" type="image/vnd.microsoft.icon">
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:300,400,500,700&display=swap&subset=japanese" rel="stylesheet">
+<link rel="stylesheet" href="../assets/css/style.css">
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<!-- InstanceParam name="pageId" type="text" value="sample" -->
+<!-- InstanceParam name="indexId" type="text" value="" -->
+</head>
+<body id="sample">
+<!-- InstanceBeginEditable name="bodyTop" --><!-- InstanceEndEditable --> 
+<!-- サイドオープン時メインコンテンツを覆う -->
+<div class="overlay" id="js__overlay"></div>
+<!-- メインコンテンツ -->
+<div id="wrapper" class="wrapper"><!-- InstanceBeginEditable name="pageImg" --><!-- InstanceEndEditable -->
+  <header id="header">
+    <div class="header-inner">
+      <div class="header-logo"> <a href="index.html"> <img class="rpimg" src="../assets/img/common/logo.png" alt="ナレッジグラフ推論チャレンジ"/> </a> </div>
+      <!-- 開閉用ボタン -->
+      <div class="nav_toggle" id="js__sideMenuBtn">
+        <div class="ellipsis-v"> <span class="point top"></span> <span class="point mid"></span> <span class="point bot"></span> </div>
+      </div>
+      <!-- グローバルナビゲーション -->
+      <nav class="gnav" id="js_gnav">
+        <ul class="gnav-ul">
+          <li><a href="application.html">How to Enter</a></li>
+          <li><a target="_blank" href="https://github.com/KnowledgeGraphJapan/KGRC-RDF">Open Knowledge Graph</a></li>
+          <li class="current"><a href="sample.html">Reference<br>Approaches</a></li>
+          <li><a href="../reference.html">For 1st Time Entrants:<br>Reference Materials</a></li>
+          <li><a href="history.html">Archives</a></li>
+        </ul>
+      </nav>
+    </div>
+    <!-- .headerInner --> 
+  </header>
+</div>
+<!-- InstanceBeginEditable name="toppage" -->
+
+<!-- InstanceEndEditable -->
+<main class="main-contents" id="main-contents"> <!-- InstanceBeginEditable name="content" -->
+<div class="key-common">
+  <div class="key-common-inner">
+    <h1 class="ttl">Reference Approaches</h1>
+  </div>
+</div>
+  <div class="inner">
+	  <h2 class="h02">Reference Approaches</h2>
+	  <div class="contents">
+		  <section>
+		  <h3 class="h03">Updates</h3>
+		  <dl class="newinfo">
+<dt>Jun. 22, 2018</dt><dd>Here are introduced some approaches that can be helpful to enter the Challenge (spoiler-free).</dd>
+</dl>
+		  </section>
+		  <section>
+		  <h3 class="h03">Searching Approach</h3>
+			  <h4 class="h04">Identification of the criminal by searching with SPARQL queries</h4>
+		  <p>Spot a person who was present at a certain place and time.<br>
+        This is an approach introduced at JSAI2018@Kagoshima. In order to identify the one who has a motive for murder, characters were listed up with reference to the time when the incident occurred and the abstract time. <br>
+        You may need, however, to add some other facts and rules to conclude what can be the motive of murder. In the Challenge, you can add facts and rules freely.</p>
+		  </section>
+		  <section>
+		  <h3 class="h03">Reasoning Approach</h3>
+			  <h4 class="h04">Reasoning by additional rules based on a first order predicate logic</h4>
+		  <p class="mb2">His/her Fingerprints were found on the knife. He/she is the criminal?<br>
+        It is clear who the criminal in this story is. Nevertheless, reasoning rules should be created not only to be able to trace this criminal, but to be applicable to other stories (applicability). You may make good use of a small number of rules for reasoning, or you may reason with fewer steps using a large number of rules.</p>
+			  <h4 class="h04">Reasoning with the description theory based on ontology</h4>
+		  <p>Prepare a simple ontology and introduce a class definition into the rules.<br>
+        In preparation of a set of general rules, try considering the use of ontology. (It is important.)</p>
+		  </section>
+		  <section>
+		  <h3 class="h03">Machine Learning Approach</h3>
+			  <h4 class="h04">Categorization of the criminals using supervised learning</h4>
+      <p class="mb2">Learn and reason from the characterizing group of the criminals in other cases.<br>
+        Although only one knowledge graph from one story is published now, you may be able to pick up factors that lead to the identification of the criminal (financial matters, feelings of resentment, etc.) from other movies, dramas or stories, and use them as supervising data to generate a model. And then, in the model, you enter the characteristics of each person in this story to estimate the probability of being the criminal. In this case, you are required to clarify which characteristics was the most effective factor in estimating the criminal (explainability in machine learning).</p>
+			  <h4 class="h04">Clusterization using unsupervised learning</h4>
+		  <p>Learn from the characterizing group of the criminals in other cases.<br>
+        Once you have made a list of characters and characterizing groups from other movies, dramas and stories, it may be an interesting attempt to use a clustering approach entering the characters and their characteristics of this story. The criminal cluster may include the criminal of this case.</p>
+		  </section>
+	  </div>   
+    </div>
+    <!-- / .inner --> 
+  <!-- InstanceEndEditable --> </main>
+	
+  <footer id="footer"> <a href="#wrapper" id="page-top"></a>
+    <div class="inner">
+      <div class="foot-add">
+          <p class="logo"><a href="../index.html"><img src="../assets/img/common/logo.png" alt="ナレッジグラフ推論チャレンジ"/></a></p>
+          <p class="cop-name">kgrc@knowledge-graph.jp</p>
+      </div>
+      <div class="foot-nav">
+        <ul>
+          <li><a href="application.html">How to Enter</a></li>
+      <li><a href="../reference.html">For 1st Time Entrants:<br>(Reference Information)</a></li>
+        </ul>
+      <ul>
+            <li><a target="_blank" href="https://github.com/KnowledgeGraphJapan/KGRC-RDF">Open Knowledge Graph</a></li>
+            <li><a href="history.html">Archives</a></li>
+        </ul>
+      <ul>
+            <li><a href="sample.html">Reference Approaches</a></li>
+        </ul>
+      </div>
+    </div>
+    <small>Copyright</small> </footer>
+
+<!-- .wrapper --> 
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]--> 
+<script src="../assets/vendor/js/jquery-3.4.1.min.js"></script> 
+<script src="../assets/vendor/js/jquery-migrate-3.1.0.min.js"></script> 
+<script src="../assets/js/menu.js"></script> 
+<script src="../assets/js/common.js"></script> 
+<script type="text/javascript" src="../assets/js/smoothScrollEx.js"></script> 
+<!-- InstanceBeginEditable name="jvs" --> 
+<!-- InstanceEndEditable -->
+</body>
+<!-- InstanceEnd --></html>
