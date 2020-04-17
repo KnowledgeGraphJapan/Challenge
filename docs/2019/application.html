@@ -1,144 +1,187 @@
-<!DOCTYPE html>
-<html lang="ja">
+﻿<!DOCTYPE html>
+<html lang="ja"><!-- InstanceBegin template="/Templates/jp.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
-<meta charset="UTF-8">
+<meta charset="utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>ナレッジグラフ推論チャレンジ</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="ナレッジグラフ推論チャレンジ">
-<meta name="keywords" content="ナレッジグラフ,Linked Data,Linked Open Data,Semantic,Ontlogy">
-<link rel="stylesheet" href="css/style.css">
-<script type="text/javascript" src="js/openclose.js"></script>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>応募要領 | ナレッジグラフ推論チャレンジ</title>
+<!-- InstanceEndEditable -->
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="format-detection" content="telephone=no" />
+<link rel="shortcut icon" href="../favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="icon" href="../favicon.ico" type="image/vnd.microsoft.icon">
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:300,400,500,700&display=swap&subset=japanese" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<!-- InstanceParam name="pageId" type="text" value="application" -->
+<!-- InstanceParam name="indexId" type="text" value="" -->
+</head>
+<body id="application">
+<!-- InstanceBeginEditable name="bodyTop" --><!-- InstanceEndEditable --> 
+<!-- サイドオープン時メインコンテンツを覆う -->
+<div class="overlay" id="js__overlay"></div>
+<!-- メインコンテンツ -->
+<div id="wrapper" class="wrapper"><!-- InstanceBeginEditable name="pageImg" --><!-- InstanceEndEditable -->
+  <header id="header">
+    <div class="header-inner">
+      <div class="header-logo"> <a href="index.html"> <img class="rpimg" src="assets/img/common/logo.png" alt="ナレッジグラフ推論チャレンジ"/> </a> </div>
+      <!-- 開閉用ボタン -->
+      <div class="nav_toggle" id="js__sideMenuBtn">
+        <div class="ellipsis-v"> <span class="point top"></span> <span class="point mid"></span> <span class="point bot"></span> </div>
+      </div>
+      <!-- グローバルナビゲーション -->
+      <nav class="gnav" id="js_gnav">
+        <ul class="gnav-ul">
+          <li class="current"><a href="application.html">応募要領</a></li>
+          <li><a target="_blank" href="https://github.com/KnowledgeGraphJapan/KGRC-RDF">ナレッジグラフ公開</a></li>
+          <li><a href="sample.html">参考アプローチ</a></li>
+          <li><a href="reference.html">初めての方へ</a></li>
+          <li><a href="history.html">過去のページ</a></li>
+        </ul>
+      </nav>
+    </div>
+    <!-- .headerInner --> 
+  </header>
+</div>
+<!-- InstanceBeginEditable name="toppage" -->
+
+<!-- InstanceEndEditable -->
+<main class="main-contents" id="main-contents"> <!-- InstanceBeginEditable name="content" -->
+<div class="key-common">
+  <div class="key-common-inner">
+    <h1 class="ttl">応募要領</h1>
+  </div>
+</div>
+  <div class="inner">
+	  <h2 class="h02">応募要領</h2>
+	  <div class="contents">
+		  <section>
+		  <h3 class="h03">チャレンジ全体で目指すこと</h3>
+		  <p>本チャレンジを通して説明付きで質問に答えるAIシステムの実現を目指す。</p>
+		  </section>
+		  <section>
+		  <h3 class="h03">チャレンジタスクの設定</h3>
+		  <p>今回は，シャーロック・ホームズ短編集におけるホームズが解決した事件を題材として行う。<br>
+対象とする<a href="https://github.com/KnowledgeGraphJapan/Challenge/tree/master/rdf/2019/" target="_blank">ナレッジグラフ</a>を用いて、事件の真相を推論（推理）し、真相と判断した理由の説明と共に示す。<br>
+タスクの正解としては、ホームズと同じ結論に辿り着けること。<br>
+（ホームズが解決した事件の真相を説明する）<br>
+<br>
+			  <span class="h04">前年のチャレンジとの違い</span><br>
+2019年のナレッジグラフ推論チャレンジは前年に提供した「まだらの紐」のナレッジグラフに加えて、新たに「踊る人形」「同一事件（花婿失踪事件）」「悪魔の足」「背中の曲がった男（曲れる者）」の4作品のナレッジグラフを提供し，計5作品のナレッジグラフを対象とする。<br>
+（どれか１つだけ，２つだけ…などでもOK）<br>
+また、2019年では新たにツール部門を新設します．ツール部門では、いずれかのタスクを部分的に解くツールの開発でも応募を可能とします。<br>
+　 例）容疑者の推定、アリバイ検証、動機説明など。<br>
+　　★「自然言語文をトリプル化」するナレッジグラフ構築支援ツールの応募も可</p>
+		  </section>
+		  <section>
+		  <h3 class="h03">個人タスクの設定</h3>
+		  <p>まだらの紐：ヘレンを殺したのは誰か？（犯人＋説明）<br>
+悪魔の足：各人物を殺したのは誰か？（犯人＋説明）<br>
+同一事件：花婿はなぜ消えたか？（説明）<br>
+背中の曲がった男：バークリはなぜ死んだのか？（説明）<br>
+踊る人形：暗号を解け（暗号の解読）</p>
+		  </section>
+		  <section>
+		  <h3 class="h03">タスク実行条件</h3>
+			  <ul class="ul01"><li>１．推論は，ナレッジグラフの使用する範囲を段階的に変えた条件下で行う。
+				  <ul class="ul02"><li>a）完全：すべてのナレッジグラフを使用する。</li>
+					  <li>b）不完全(10%)：IDの先頭から末尾の10%手前までのトリプルのみを使う。</li>
+	<li>c）不完全(25%)：IDの先頭から末尾の25%手前までのトリプルのみを使う。<br>
+		（判定の目安とするID番号は，後日，公開予定です）</li></ul>
+				  </li>
+				  <li>２．ナレッジグラフを独自に拡張することも可能（常識知識の追加など）</li>
+				  <li>３．対象ナレッジグラフに不具合(誤字，一貫性の不備，その他ミス)があればプルリクエスト可</li>
+			  </ul>
+
+		  </section>
+		  <section>
+		  <h3 class="h03">応募部門</h3>
+			  <ul class="ul01"><li>１．本部門：対象小説１つ以上のタスクを解くシステムを開発</li>
+<li>2．ツール部門：いずれかのタスクを部分的に解くツールを開発<br>
+	例）容疑者の推定，アリバイ検証，動機説明など。<br>
+	★「自然言語文をトリプル化」するナレッジグラフ構築支援ツールの応募も可</li>
+				  <li>3．アイデア部門：①，②の実現方法のアイデア（実装なしでOK）</li></ul>
+		  </section>
+		  <section>
+		  <h3 class="h03">提出物</h3>
+		 <p>応募シート（<a href="file/kgrc_application.doc">doc</a>, <a href="file/kgrc_application.pdf">pdf</a>）に沿って以下の情報をご提供ください。<br>
+<span class="h04">応募は本部門，ツール部門，アイデア部門に分かれています。<br>
+	アイデア部門は以下の１，２，4のみで結構です。</span></p>
+			  <ul class="ul01"><li>１．応募者に関する情報</li>
+				  <li>２．推論・推理過程の説明
+					  <ul class="ul04"><li>-プログラムのログなどを用いてポイントを解説してください．アイデアの場合は自由形式で結構です．</li>
+						  <li>-どのIDまでの知識を使ったかや，推論・推理のために応募者が追加した知識について記載してください。（ただし，追加した知識の公開は必須ではありません）</li></ul>
+				  </li>
+<li>３．実行プログラム
+　<ul class="ul04"><li>-スタンドアロンアプリケーション,、またはサービス<br>
+	 （ただし，ソースコードの提出は必須ではありません）</li></ul>
+	 </li>
+				  <li>４．資料の共有の可否</li>
+			  </ul>
+				  <p>応募いただいた「作品応募シート」および「プログラム等」について，可能であれば，ナレッジグラフ推論チャレンジのサイトで公開させていただきたいと考えております(※)．応募シートのフォームにご入力の上お知らせください。</p>
+				  <ul class="ul03"><li>※ナレッジグラフ推論チャレンジ関連イベントで応募資料の一部を使用させていただくこともあります。</li>
+<li><span class="h04">※応募シートの内容を記載したPDFファイルを電子メールにて以下にご提出下さい（シート作成に使用するソフトウェアは問いません）。<br>
+	送付先：knowledge-graph.jp</span></li></ul>
+		  </section>
+		  <section>
+		  <h3 class="h03">審査基準（詳細は後日公開）</h3>
+			  <ul class="ul01 mb1"><li>１．ホームズの推理を再現できるか？</li>
+				  <li>２．説明が納得できるか？</li>
+<li>３．技術的な工夫
+	<ul class="ul04"><li>-推論の仕方</li>
+		<li>-拡張した知識</li></ul>
+		</li>
+<li>４．評価観点
+	<ul class="ul04"><li>-すべての小説を同じ仕組みで解ける vs. 個別タスクに特化した手法の提案？</li>
+		<li>-少ない知識をうまく使う　vs.　多量の知識？</li></ul>
+		</li>
+				  <li>５．書類審査＋プレゼンで評価</li>
+			  </ul>
+<ul class="ul03"><li><span class="h04">※参加者による当日審査を実施する予定です。<br>
+	チームから少なくとも1名は審査会（12月26日、東京都内で開催予定）にご参加ください（遠方の場合はオンライン発表も可）。<br>
+	但し，応募多数の場合は，発表は書類審査による優秀作品に限らせていただきます。</span></li></ul>
+		  </section>
+	  </div>   
+    </div>
+    <!-- / .inner --> 
+  <!-- InstanceEndEditable --> </main>
+	
+<footer id="footer"> <a href="#wrapper" id="page-top"></a>
+  <div class="inner">
+    <div class="foot-add">
+        <p class="logo"><a href="index.html"><img src="assets/img/common/logo.png" alt="ナレッジグラフ推論チャレンジ"/></a></p>
+        <p class="cop-name">kgrc@knowledge-graph.jp</p>
+    </div>
+    <div class="foot-nav">
+      <ul>
+        <li><a href="application.html">応募要領</a></li>
+          <li><a href="reference.html">初めての方へ</a></li>
+      </ul>
+		<ul>
+          <li><a target="_blank" href="https://github.com/KnowledgeGraphJapan/KGRC-RDF">ナレッジグラフ公開</a></li>
+          <li><a href="reference.html">初めての方へ</a></li>
+      </ul>
+		<ul>
+          <li><a href="sample.html">参考アプローチ</a></li>
+      </ul>
+    </div>
+  </div>
+  <small>Copyright</small> </footer>
+
+<!-- .wrapper --> 
 <!--[if lt IE 9]>
 <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-<![endif]-->
-</head>
-
-<body>
-
-<div id="container">
-
-<header>
-<h1 id="logo"><a href="index.html"><img src="images/kgc_logo.png" alt="ナレッジグラフ推論チャレンジ"></a></h1>
-</header>
-
-<nav id="menubar">
-<ul>
-<li><a href="index.html">Home</a></li>
-<li class="current"><a href="application.html">応募要項</a></li>
-<!--<li><a href="gallery.html">Gallery</a></li>-->
-<li><a href="https://github.com/KnowledgeGraphJapan/KGRC-RDF" target="_blank">ナレッジグラフ公開</a></li>
-<li><a href="sample.html">参考アプローチ</a></li>
-<li><a href="../reference.html">初めての方へ（参考資料）</a></li>
-<li><a href="history.html">過去のページ</a></li>
-</ul>
-</nav>
-
-<div id="contents">
-
-<section>
-
-<h2>応募要領</h2>
-<h3>チャレンジ全体で目指すこと</h3>
-<p>本チャレンジを通して説明付きで質問に答えるAIシステムの実現を目指す．</p>
-<h3>チャレンジタスクの設定</h3>
-<p>今回は，シャーロック・ホームズ短編集におけるホームズが解決した事件を題材として行う．
-  <br>対象とする<a href="https://github.com/KnowledgeGraphJapan/Challenge/tree/master/rdf/2019/">ナレッジグラフ</a>を用いて，
-  事件の<strong>真相を推論（推理）</strong>し，<strong>真相と判断した理由の説明</strong>と共に示す．
-  <br>タスクの正解としては，<b>ホームズと同じ結論に辿り着けること</b>．（ホームズが解決した事件の真相を説明する）</p>
-<h4 style="color: red;"><b>前年のチャレンジとの違い</b></h4>
-<p>
-  2019年のナレッジグラフ推論チャレンジは前年に提供した<b>「まだらの紐」</b>のナレッジグラフに加えて，新たに<b>「踊る人形」「同一事件（花婿失踪事件）」「悪魔の足」「背中の曲がった男（曲れる者）」</b>の4作品のナレッジグラフを提供し，<b>計5作品</b>のナレッジグラフを対象とする．（どれか１つだけ，２つだけ…などでもOK）<br>
-  また，2019年では新たに<b>ツール部門</b>を新設します．ツール部門では，いずれかのタスクを<b>部分的に解くツール</b>の開発でも応募を可能とします．<br>
-  　 例）容疑者の推定，アリバイ検証，動機説明など．<br>
-  　　★「自然言語文をトリプル化」する<b>ナレッジグラフ構築支援ツール</b>の応募も可
-</p>
-<h3>個別タスクの設定</h3>
-<p>
-  まだらの紐：ヘレンを殺したのは誰か？（犯人＋説明）<br>
-  悪魔の足：各人物を殺したのは誰か？（犯人＋説明）<br>
-  同一事件：花婿はなぜ消えたか？（説明）<br>
-  背中の曲がった男：バークリはなぜ死んだのか？（説明）<br>
-  踊る人形：暗号を解け（暗号の解読）
-</p>
-<h3>タスクの実行条件</h3>
-<p>
-１．推論は，ナレッジグラフの使用する範囲を段階的に変えた条件下で行う．<br>
-　a) 完全：すべてのナレッジグラフを使用する<br>
-　b) 不完全(10%)：IDの先頭から末尾の10%手前までのトリプルのみを使う．<br>
-　c) 不完全(25%)：IDの先頭から末尾の25%手前までのトリプルのみを使う．<br>
-　　（判定の目安とするID番号は，後日，公開予定です）<br>
-２．ナレッジグラフを独自に拡張することも可能（常識知識の追加など）<br>
-３．対象ナレッジグラフに不具合(誤字，一貫性の不備，その他ミス)があればプルリクエスト可<br>
-</p>
-<h3>応募部門</h3>
-<p>
-  ①本部門：対象小説１つ以上のタスクを解くシステムを開発<br>
-  ②ツール部門：いずれかのタスクを部分的に解くツールを開発<br>
-  　 例）容疑者の推定，アリバイ検証，動機説明など．<br>
-  　　★「自然言語文をトリプル化」するナレッジグラフ構築支援ツールの応募も可<br>
-  ③アイデア部門：①，②の実現方法のアイデア（実装なしでOK）
-</p>
-<h3>提出物</h3>
-<p>
-応募シート（<a href="kgrc_application.doc">doc</a>, <a href="kgrc_application.pdf">pdf</a>）に沿って以下の情報をご提供ください．<br>
-<strong><font color=red>応募は本部門，ツール部門，アイデア部門に分かれています．アイデア部門は以下の１，２，4のみで結構です．</font></strong><br>
-１．応募者に関する情報<br>
-２．推論・推理過程の説明<br>
-　- プログラムのログなどを用いてポイントを解説してください．アイデアの場合は自由形式で結構です．<br>
-　- どのIDまでの知識を使ったかや，推論・推理のために応募者が追加した知識について記載してください．<br>
-　　（ただし，追加した知識の公開は必須ではありません）<br>
-３．実行プログラム<br>
-　- スタンドアロンアプリケーション，またはサービス<br>
-　　（ただし，ソースコードの提出は必須ではありません）<br>
-４．資料の共有の可否<br>
-応募いただいた「作品応募シート」および「プログラム等」について，可能であれば，ナレッジグラフ推論チャレンジのサイトで公開させていただきたいと考えております(※)．応募シートのフォームにご入力の上お知らせください．<br>
-※ナレッジグラフ推論チャレンジ関連イベントで応募資料の一部を使用させていただくこともあります．
-</p>
-
-<p>
-<strong>
-※応募シートの内容を記載したPDFファイルを電子メールにて以下にご提出下さい（シート作成に使用するソフトウェアは問いません）．<br>
-　送付先：<img src="images/kgrcAT2.png" height="">knowledge-graph.jp<br>
-</strong>
-</p>
-  
-<h3>審査基準（詳細は後日公開）</h3>
-<p>
-１．ホームズの推理を再現できるか？<br>
-２．説明が納得できるか？<br>
-３．技術的な工夫<br>
-　- 推論の仕方<br>
-　- 拡張した知識<br>
-４．評価観点<br>
-　- すべての小説を同じ仕組みで解ける vs. 個別タスクに特化した手法の提案？<br>
-　- 少ない知識をうまく使う　vs.　多量の知識？<br>
-５．書類審査＋プレゼンで評価<br>
-</p>
-  
-<p>
-<strong><font color="red">
-※参加者による当日審査を実施する予定です．<br>
-　チームから少なくとも1名は審査会（12月26日，東京都内で開催予定）にご参加ください（遠方の場合はオンライン発表も可）．<br>
-　但し，応募多数の場合は，発表は書類審査による優秀作品に限らせていただきます．<br>
-</strong></font>
-</p>
-
-</section>
-
-
-
-</div>
-<!--/contents-->
-
-<footer>
-<small>CC-BY: <a href="index.html">JSAI SIG－SWO</a></small>
-<span class="pr">《<a href="https://template-party.com/" target="_blank">Web Design:Template-Party</a>》</span>
-</footer>
-
-</div>
-<!--/container-->
-
+<![endif]--> 
+<script src="assets/vendor/js/jquery-3.4.1.min.js"></script> 
+<script src="assets/vendor/js/jquery-migrate-3.1.0.min.js"></script> 
+<script src="assets/js/menu.js"></script> 
+<script src="assets/js/common.js"></script> 
+<script type="text/javascript" src="assets/js/smoothScrollEx.js"></script> 
+<!-- InstanceBeginEditable name="jvs" --> 
+<!-- InstanceEndEditable -->
 </body>
-</html>
+<!-- InstanceEnd --></html>
