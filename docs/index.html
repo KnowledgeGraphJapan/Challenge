@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="refresh" content="0; URL=./2019/">
+<title>ナレッジグラフ推論チャレンジ</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="ナレッジグラフ推論チャレンジ">
+<meta name="keywords" content="ナレッジグラフ,Linked Data,Linked Open Data,Semantic,Ontlogy,オントロジー,人工知能,AI,AI探偵,AI名探偵,人工知能探偵">
+
+<!--OGP設定-->
+<meta property="og:site_name" content="ナレッジグラフ推論チャレンジ" />
+<meta property="og:title" content="ナレッジグラフ推論チャレンジ" />
+<meta property="og:url" content="http://challenge.knowledge-graph.jp/" />
+<meta property="og:image" content="http://challenge.knowledge-graph.jp/images/kgc.png" />
+<meta property="og:description" content="ナレッジグラフ推論チャレンジ" />
+<meta property="og:type" content="website" />
+
+<!--Twitter Card設定-->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@koujikozaki">
+<meta name="twitter:creator" content="@koujikoaki">
+<meta name="twitter:title" content="ナレッジグラフ推論チャレンジ">
+<meta name="twitter:description" content="ナレッジグラフ推論チャレンジ">
+<meta name="twitter:image:src" content="http://challenge.knowledge-graph.jp/images/kgc.png">
+
+
+
+
+
+<link rel="stylesheet" href="css/style.css">
+<script type="text/javascript" src="js/openclose.js"></script>
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+
+<body id="top">
+
+<div id="container">
+
+<header>
+<h1 id="logo"><a href="index.html"><img src="images/kgc_logo_top2.png" alt="ナレッジグラフ推論チャレンジ"></a></h1>
+<p><img src="images/mainimg.jpg" alt="" id="mainimg"></p>
+</header>
+
+<nav id="menubar">
+<ul>
+<li class="current"><a href="index.html">Home</a></li>
+<li><a href="application.html">応募要項</a></li>
+<!--<li><a href="gallery.html">Gallery</a></li>-->
+<li><a href="https://github.com/KnowledgeGraphJapan/Challenge/tree/master/rdf/SpeckledBand" target="_blank">ナレッジグラフ公開</a></li>
+<li><a href="sample.html">参考アプローチ</a></li>
+<li><a href="reference.html">参考資料</a></li>
+</ul>
+</nav>
+
+<div id="contents">
+
+  <p style="font-size: 30px; text-align:center;"><b>第１回ナレッジグラフ推論チャレンジ2018へのご応募ありがとうございました。<br>
+      <a href="http://challenge.knowledge-graph.jp/results/results2018.html">結果発表</a></b><br>
+  第2回ナレッジグラフ推論チャレンジ2019 開催決定</p>
+<section id="new">
+<h2 id="newinfo_hdr" class="close">更新情報・お知らせ</h2>
+<dl id="newinfo">
+<dt>2018/12/26</dt><dd><a href="https://swo-ws-20181226.peatix.com/">「ナレッジグラフ推論チャレンジ2018ミートアップ＠東京」</a>を開催します.</dd>
+<dt>2018/12/13</dt><dd><a href="http://challenge.knowledge-graph.jp/results/results2018.html">結果発表ページ</a>を公開しました．</dd>
+<dt>2018/11/25</dt><dd>淡路夢舞台国際会議場で応募作品発表回を行いました．</dd>
+<dt>2018/11/01</dt><dd>応募締め切りを2018/11/11(日)まで延長いたしました．</dd>
+<dt>2018/10/18</dt><dd><a href="https://swo-ws-201810.peatix.com/">SWO研究会ワークショップ「ISWC2018参加報告＆推論チャレンジ技術勉強会」</a>を開催します.</dd>
+<dt>2018/08/07</dt><dd><a href="http://challenge.knowledge-graph.jp/event20180807.html">ナレッジグラフ推論チャレンジ：応募に向けた「技術勉強会」</a>を開催します.</dd>
+<dt>2018/07/20</dt><dd>「参考資料」ページをオープンしました．</dd>
+<dt>2018/06/22</dt><dd>「参考アプローチ」ページをオープンしました．</dd>
+<dt>2018/06/05</dt><dd>応募要項・ナレッジグラフを公開しました．</dd>
+<dt>2017/11/25</dt><dd>推論チャレンジ（仮称）開催予告～解釈可能な人工知能を目指して～</dd>
+</dl>
+</section>
+
+<section>
+
+<h2>開催概要</h2>
+<p>近年のDeep Learningを起爆剤とした人工知能（AI）技術への関心の高まりに伴い， AI技術が普及し様々な社会システムに埋め込まれるようになることが予想されます．</p>
+<p>そのような中にあって，AI技術を安全・安心に社会の中で活用していくためには， システムが正しく動作しているかの検証や品質保証のため，システムが判断に至った理由を説明できる （解釈可能性を有する）AI技術が必須となります．</p>
+<p>このよう背景のもと，人工知能学会セマンティックウェブとオントロジー研究会では， 人工知能技術による推論（推定）に関して，認識の共有と必要な 技術の開発・促進を図ることを目的としたコンテスト「ナレッジグラフ推論チャレンジ」を開催します．</p>
+
+<h3>開催内容</h3>
+<p>開催予告の発表資料：<b><a href="https://github.com/KnowledgeGraphJapan/Challenge/blob/master/SWO-Challenge20171125.pdf">推論チャレンジ（仮称）開催予告～解釈可能な人工知能を目指して～</b>（PDF形式）</a><br>
+をご覧ください．</p>
+
+<h3>開催スケジュール</h3>
+	
+	<p><span class="color1"><strong>2017/11/25 第１回公開WS：推論チャレンジ（仮称）開催予告～解釈可能な人工知能を目指して～</strong></color><br>
+	<a href="http://www.sigswo.org/papers/43program">人工知能学会合同研究会 第43回セマンティックウェブとオントロジー（SWO）研究会</a>内の特別企画として実施．
+	[<a href="https://github.com/KnowledgeGraphJapan/Challenge/blob/master/SWO-Challenge20171125.pdf">発表資料（PDF形式）</a>]</p>
+
+	<p><span class="color1"><strong>2017/12/19 第２回公開WS：<a href="https://sites.google.com/site/sigswo15/home/swo-ws-20171219">推論チャレンジ（仮称）に向けたスキーマ検討会</a></strong></color><br>
+	本チャレンジで使用するKnowledge Graph構築のためのスキーマ設計について議論する会を実施．<br>
+	<p style="padding-left:2em">
+        <b>日時</b>　12/19(火)14:00－17:30（13:30開場）<br>
+        <b>会場</b>　JST東京本部(サイエンスプラザ)・会議室（B1入札室）[<a href="http://www.jst.go.jp/koutsu.html#TOKYO">アクセス</a>]<br>
+        <b>参加対象</b>　推論チャレンジ（仮称）におけるスキーマ検討に関心のある人
+	</p></p>
+	
+	<p><span class="color1"><strong>2018/02/28 第３回公開WS：Knowledge Graphスキーマ設計会</strong></color> <a href="https://docs.google.com/presentation/d/14jyzKOtwT2VupcmCKERM0lDIq8FP0cgUh-X8CMVLbiY/edit#slide=id.g2c522d8d6f_1_10">検討資料</a><br></p>
+	<!--<p><span class="color1"><strong>2018/02 Knowledge Graph構築（完全・不完全）</strong></color><br></p>-->
+	<p><span class="color1"><strong>2018/03/18 第４回公開WS：第44回SWO研究会＠五島市（合宿）併設ワークショップ</strong></color><br></p>
+
+	<p><span class="color1"><strong>2018/04/23 第５回公開WS：<a href="https://sites.google.com/site/sigswo15/home/swo-ws-20180423">「推論チャレンジ」ワークショップ</a></strong></color><br>
+      	本チャレンジで使用するKnowledge Graph試験的な構築作業を実施し，構築方法を議論．<br>
+	<p style="padding-left:2em">
+        <b>日時</b>　4/23(月)16:00－18:00（15:30開場）<br>
+        <b>会場</b>　国立情報学研究所・講義室2005[20階][<a href="https://www.nii.ac.jp/about/access/" target="_blank">アクセス</a>]<br>
+        <b>参加対象</b>　「推論チャレンジ」におけるKnowledge Graph構築に関心のある人
+   	</p></p>
+
+	<p><span class="color1"><strong>2018/06/05 Knowledge Graph公開・チャレンジ開始</strong></color><br>
+      	<a href=https://confit.atlas.jp/guide/event/jsai2018/subject/1F1-01/tables?cryptoId=>第32回人工知能学会全国大会2018</a>にてチャレンジ開始をアナウンス！
+	[<a href=https://confit.atlas.jp/guide/event-img/jsai2018/1F1-01/public/pdf?type=in>発表資料（PDF形式）</a>]</p>
+	</p>
+	<p>
+      	<p>参加者各自でチャレンジに取り組んでください．<br>
+	<p>
+      	<p><span class="color1"><strong>2018/10/31 チャレンジ応募〆切</strong></color><br>
+	</p>	
+	<p><span class="color1"><strong>2018/11/25 授賞式</strong></color><br>
+	<a href="http://jist2018.knowledge-graph.jp/">8th Joint International Semantic Technology Conference (JIST2018)＠淡路島</a>での併設イベントを予定<br>
+	</p>
+	<p>
+	チャレンジ終了後，チャレンジ内容や応募作品について学術論文を執筆する予定です．<br>
+	優秀作品の応募者につきましては共著者に入っていただきたく，後日ご連絡させていただきます．<br>
+	</p> 
+<h2>お問い合わせ</h2>
+<p>
+<img src="images/kgrcAT2.png" height="">knowledge-graph.jp<br>
+人工知能学会・セマンティックウェブとオントロジー研究会・企画委員
+</p>
+      
+<!--   
+<p>このテンプレートは、<a href="https://template-party.com/">Template Party</a>にて無料配布している『初心者向けホームページテンプレート tp_beginner5』です。必ずダウンロード先のサイトの<a href="https://template-party.com/read.html">利用規約</a>をご一読の上でご利用下さい。</p>
+<p><span class="color1">■<strong>HP最下部の著作表示『Web Design:Template-Party』は無断で削除しないで下さい。</strong></span><br>
+わざと見えなく加工する事も禁止です。</p>
+<p><span class="color1">■<strong>下部の著作を外したい場合は</strong></span><br>
+<a href="https://template-party.com/">Template-Party</a>の<a href="https://template-party.com/member.html">ライセンス契約</a>を行う事でHP下部の著作を外す事ができます。</p>
+
+<h3>小さい端末で見た場合の「更新情報・お知らせ」用の開閉ブロック用プログラム（openclose.js）について</h3>
+<p>当テンプレートの開閉ブロックパーツは<a href="http://www.crytus.co.jp/">有限会社クリタス様</a>提供のプログラムを使用しています。openclose.jsファイルは改変せずにご利用下さい。<br>
+また、当サイトのテンプレート以外に使いたいなど、「プログラムのみ」を使う場合は<a href="https://template-party.com/free_program/openclose_license.html">こちらの規約</a>をお守り下さい。</p>
+
+<h3>当テンプレートの詳しい使い方は</h3>
+<p><a href="company.html#about">こちらをご覧下さい。</a></p>
+-->
+
+</section>
+
+</div>
+<!--/contents-->
+
+<footer>
+<small>CC-BY: <a href="index.html">JSAI SIG－SWO</a></small>
+<span class="pr">《<a href="https://template-party.com/" target="_blank">Web Design:Template-Party</a>》</span>
+</footer>
+
+</div>
+<!--/container-->
+
+<!--スマホ用更新情報　480px以下-->
+<script type="text/javascript">
+if (OCwindowWidth() <= 480) {
+	open_close("newinfo_hdr", "newinfo");
+}
+</script>
+
+</body>
+</html>
