@@ -18,6 +18,7 @@
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="pageId" type="text" value="sample" -->
 <!-- InstanceParam name="indexId" type="text" value="" -->
+<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
 </head>
 <body id="sample">
 <!-- InstanceBeginEditable name="bodyTop" --><!-- InstanceEndEditable --> 
@@ -92,7 +93,77 @@
 		  <h3 class="h03" id="query">サンプルSPARQLクエリ</h3>
 		  <p>ナレッジグラフ推論チャレンジ2019用の「ナレッジグラフ」を対象としたSPARQLクエリのサンプルです．</p>
 			  <h4 class="h04">｢まらだのひも」の場面36のhasPredicate（その場面の内容を表す述語）を取得する</h4>
-
+			  <p>
+			  <code class="prettyprint lang-sparql">
+				  SELECT ?o WHERE {<br>
+				  &lt;http://kgc.knowledge-graph.jp/data/SpeckledBand/36&gt; &lt;http://kgc.knowledge-graph.jp/ontology/kgc.owl#hasPredicate&gt; ?o .<br>
+			  }
+			  </code>
+			  </p>
+			  <br>
+			  
+			  <h4 class="h04">指定した場面（例：｢まらだのひも」の場面36）の内容（トリプル一覧）を取得する</h4>
+			  <p>
+			  <code class="prettyprint lang-sparql">
+				  SELECT ?p ?o WHERE {<br>
+				  &lt;http://kgc.knowledge-graph.jp/data/SpeckledBand/36&gt; ?p ?o .<br>
+				  }
+			  </code>
+			  </p>
+			  <br>
+			  <h4 class="h04">場面の一覧を取得する</h4>
+			  <p>
+			  <code class="prettyprint lang-sparql">
+				  PREFIX rdf:  &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;<br>
+				  PREFIX kgc: &lt;http://kgc.knowledge-graph.jp/ontology/kgc.owl#&gt;<br>
+				  SELECT ?s<br>
+				  WHERE{<br>
+				  ?s rdf:type kgc:Situation .<br>
+				  }
+			  </code>
+			  </p>
+			  <br>
+			  <h4 class="h04">場面の一覧を取得する（検索対象を「踊る人形」に限定）</h4>
+			  <p>
+			  <code class="prettyprint lang-sparql">
+				  PREFIX rdf:  &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;<br>
+				  PREFIX kgc: &lt;http://kgc.knowledge-graph.jp/ontology/kgc.owl#&gt;<br>
+				  SELECT ?s<br>
+				  FROM &lt;http://kgc.knowledge-graph.jp/data/DancingMen&gt;<br>
+				  WHERE{<br>
+				    ?s rdf:type kgc:Situation .<br>
+				  }
+			  </code>
+			  </p>
+			  <br>
+			  <h4 class="h04">条件を満たす場面の一覧を取得する</h4>
+			  <p>
+			  <code class="prettyprint lang-sparql">
+				  PREFIX rdf:  &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;<br>
+				  PREFIX kgc: &lt;http://kgc.knowledge-graph.jp/ontology/kgc.owl#&gt;<br>
+				  SELECT ?s ?sc<br>
+				  WHERE{<br>
+				  ?s kgc:subject	&lt;http://kgc.knowledge-graph.jp/data/DancingMen/Qubit&gt; ;<br>
+				  kgc:source  ?sc .<br>
+				  FILTER(lang(?sc)="ja")<br>
+				  }
+			  </code>
+			  </p>
+			  <br>
+			  <h4 class="h04">場面間のつながりを取得する</h4>
+			  <p>
+			  <code class="prettyprint lang-sparql">
+				  PREFIX rdf:  &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;<br>
+				  PREFIX kgc: &lt;http://kgc.knowledge-graph.jp/ontology/kgc.owl#&gt;<br>
+				  SELECT ?s ?p ?o<br>
+				  FROM &lt;http://kgc.knowledge-graph.jp/data/DancingMen&gt;<br>
+				  WHERE {<br>
+				  ?s ?p ?o .<br>
+				  ?s rdf:type kgc:Situation .<br>
+				  ?o rdf:type kgc:Situation .<br>
+				  }
+			  </code>
+			  </p>
 		  </section>
 	  </div>   
     </div>
@@ -133,5 +204,7 @@
 <script type="text/javascript" src="assets/js/smoothScrollEx.js"></script> 
 <!-- InstanceBeginEditable name="jvs" --> 
 <!-- InstanceEndEditable -->
+<script src="assets/js/lang-sparql.js"></script>
+<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
 </body>
 <!-- InstanceEnd --></html>
