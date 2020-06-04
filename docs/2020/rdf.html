@@ -59,13 +59,15 @@
 	  <h2 class="h02">ナレッジグラフ公開</h2>
 	  <div class="contents">
 		  <section>
-		  <h3 class="h03">更新情報</h3>
-		  <dl class="newinfo">
-<dt>2020/06/04</dt><dd>提供するナレッジグラフの説明や使用方法を追記していきます。</dd>
-</dl>
+		  <h3 class="h03">目次</h3>
+		  <ol>
+			  <li><a href="#use">ナレッジグラフの利用方法</a></li>
+			  <li><a href="#schema">ナレッジグラフの構造</a></li>
+			  <li><a href="#query">サンプルSPARQLクエリ</a></li>
+		  </ol>
 		  </section>
 		  <section>
-		  <h3 class="h03">ナレッジグラフの利用方法</h3>
+		  <h3 class="h03" id="use">ナレッジグラフの利用方法</h3>
 			  <h4 class="h04">GitHub</h4>
 			  <p>ナレッジグラフはResource Description Framework (RDF)形式とし，GitHubで公開しています。</p>
 			  <p><a href="https://github.com/KnowledgeGraphJapan/KGRC-RDF" target="_blank">https://github.com/KnowledgeGraphJapan/KGRC-RDF</a></p>
@@ -82,12 +84,12 @@
 
 		  </section>
 		  <section>
-		  <h3 class="h03">ナレッジグラフの構造</h3>
+		  <h3 class="h03" id="schema">ナレッジグラフの構造</h3>
 		  <p>推論チャレンジで提供するナレッジグラフは、「場面（シーン）」とそれに対応する「主語（subject）」「述語（predicate）」「目的語（what, whom, when, where, etc.）」「場面間の関係（if, then, because, etc.）」「絶対時間」「場面の原文」で表現されています。詳しくは下記スライドをご覧ください。</p>
 		  <iframe src="//www.slideshare.net/slideshow/embed_code/key/8YGh63f0ENgXx7?startSlide=11" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/KnowledgeGraph/20191122-swo" title="第２回ナレッジグラフ推論チャレンジ2019の紹介（11/22, SWO研究会）" target="_blank">第２回ナレッジグラフ推論チャレンジ2019の紹介（11/22, SWO研究会）</a> </strong> from <strong><a href="//www.slideshare.net/KnowledgeGraph" target="_blank">KnowledgeGraph</a></strong> </div>
 		  </section>
 		  <section>
-		  <h3 class="h03">サンプルSPARQLクエリ</h3>
+		  <h3 class="h03" id="query">サンプルSPARQLクエリ</h3>
 		  <p>ナレッジグラフ推論チャレンジ2019用の「ナレッジグラフ」を対象としたSPARQLクエリのサンプルです．</p>
 			  <h4 class="h04">｢まらだのひも」の場面36のhasPredicate（その場面の内容を表す述語）を取得する</h4>
 
