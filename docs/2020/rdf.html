@@ -73,12 +73,27 @@
 			  <p>ナレッジグラフはResource Description Framework (RDF)形式とし，GitHubで公開しています。</p>
 			  <p><a href="https://github.com/KnowledgeGraphJapan/KGRC-RDF" target="_blank">https://github.com/KnowledgeGraphJapan/KGRC-RDF</a></p>
 			  <br>
-			  <h4 class="h04">SPARQLエンドポイント</h4>
-			  <p>ナレッジグラフに対してSPARQLクエリで検索できるエンドポイントを提供しています。サーバに負荷がかかる大量の問い合わせはご遠慮ください。</p>
-			  <p><a href="http://kg.hozo.jp/fuseki/kgrc/sparql" target="_blank">http://kg.hozo.jp/fuseki/kgrc/sparql</a> (APIとして使う)<br>
-			  パラメータ：query={SPARQLクエリのURLエンコード}, format={データフォーマット(json, xml, csv, ...)} 
+			  <h4 class="h04">Webブラウザに取るナレッジグラフの閲覧</h4>
+			  <p class="mb2">ナレッジグラフをWebブラウザで閲覧できる簡易ツールを提供しています。
+				  <a href="http://kgc.knowledge-graph.jp/" target="_blank">http://kgc.knowledge-graph.jp/</a>から利用可能ですので，
+				  ナレッジグラフの内容を簡単に確認したい際はこちらをご利用ください。
 			  </p>
-			  <p><a href="http://knowledge-graph.jp/sparql.html" target="_blank">http://knowledge-graph.jp/sparql.html</a> (ブラウザから)</p>
+			  
+			  <h4 class="h04">SPARQLエンドポイント</h4>
+			  <p class="mb2">ナレッジグラフに対してSPARQLクエリで検索できるエンドポイントを提供しています。
+			  サーバに負荷がかかる大量の問い合わせはご遠慮ください。
+			  <li><b>APIとして使う</b> <br> 
+			   パラメータ：query={SPARQLクエリのURLエンコード}, format={データフォーマット(json, xml, csv, ...)} 
+			 <ol>
+					<li>[ver.1(2020/10/09版)] <a href="http://kg.hozo.jp/fuseki/kgrc/sparql" target="_blank">http://kg.hozo.jp/fuseki/kgrc/sparql</a></li> 
+					<li>[ver.2(2021/01/19版)] <a href="http://kg.hozo.jp/fuseki/kgrc2020v2/sparql" target="_blank">http://kg.hozo.jp/fuseki/kgrc2020v2/sparql</a></li> 
+				</ol>
+			 <li>ブラウザからクエリを実行
+				<ol>
+					<li>[ver.1(2020/10/09版)] <a href="http://knowledge-graph.jp/sparql.html" target="_blank">http://knowledge-graph.jp/sparql.html</a></li> 
+					<li>[ver.2(2021/01/19版)] <a href="http://knowledge-graph.jp/sparql2020v2.html" target="_blank">http://knowledge-graph.jp/sparql2020v2.html</a></li> 
+				</ol>
+			  </p>
 			  <br>
 			  <h4 class="h04">可視化ツール</h4>
 			  <p>簡易的な可視化ツールを用意しています。</p>
