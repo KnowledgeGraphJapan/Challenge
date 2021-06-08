@@ -1,0 +1,228 @@
+﻿<!DOCTYPE html>
+<html lang="ja"><!-- InstanceBegin template="/Templates/jp.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>ナレッジグラフ公開 | ナレッジグラフ推論チャレンジ</title>
+<!-- InstanceEndEditable -->
+<meta name="keywords" content="">
+<meta name="description" content="ナレッジグラフ推論チャレンジで提供するナレッジグラフについて">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="format-detection" content="telephone=no" />
+<link rel="shortcut icon" href="../favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="icon" href="../favicon.ico" type="image/vnd.microsoft.icon">
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:300,400,500,700&display=swap&subset=japanese" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<!-- InstanceParam name="pageId" type="text" value="sample" -->
+<!-- InstanceParam name="indexId" type="text" value="" -->
+<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
+</head>
+<body id="sample">
+<!-- InstanceBeginEditable name="bodyTop" --><!-- InstanceEndEditable --> 
+<!-- サイドオープン時メインコンテンツを覆う -->
+<div class="overlay" id="js__overlay"></div>
+<!-- メインコンテンツ -->
+<div id="wrapper" class="wrapper"><!-- InstanceBeginEditable name="pageImg" --><!-- InstanceEndEditable -->
+  <header id="header">
+    <div class="header-inner">
+      <div class="header-logo"> <a href="index.html"> <img class="rpimg" src="assets/img/common/logo.png" alt="ナレッジグラフ推論チャレンジ"/> </a> </div>
+      <!-- 開閉用ボタン -->
+      <div class="nav_toggle" id="js__sideMenuBtn">
+        <div class="ellipsis-v"> <span class="point top"></span> <span class="point mid"></span> <span class="point bot"></span> </div>
+      </div>
+      <!-- グローバルナビゲーション -->
+      <nav class="gnav" id="js_gnav">
+        <ul class="gnav-ul">
+          <li><a href="application.html">応募要領</a></li>
+          <li class="current"><a href="rdf.html">ナレッジグラフ公開</a></li>
+          <li><a href="sample.html">参考アプローチ</a></li>
+          <li><a href="reference.html">初めての方へ</a></li>
+          <li><a href="history.html">過去のページ</a></li>
+        </ul>
+      </nav>
+    </div>
+    <!-- .headerInner --> 
+  </header>
+</div>
+<!-- InstanceBeginEditable name="toppage" -->
+
+<!-- InstanceEndEditable -->
+<main class="main-contents" id="main-contents"> <!-- InstanceBeginEditable name="content" -->
+<div class="key-common">
+  <div class="key-common-inner">
+    <h1 class="ttl">ナレッジグラフ公開</h1>
+  </div>
+</div>
+  <div class="inner">
+	  <h2 class="h02">ナレッジグラフ公開</h2>
+	  <div class="contents">
+		  <section>
+		  <h3 class="h03">目次</h3>
+		  <ol>
+			  <li><a href="#use">ナレッジグラフの利用方法</a></li>
+			  <li><a href="#schema">ナレッジグラフの構造</a></li>
+			  <li><a href="#query">サンプルSPARQLクエリ</a></li>
+		  </ol>
+		  </section>
+		  <section>
+		  <h3 class="h03" id="use">ナレッジグラフの利用方法</h3>
+			  <h4 class="h04">GitHub</h4>
+			  <p>ナレッジグラフはResource Description Framework (RDF)形式とし，GitHubで公開しています。</p>
+			  <p><a href="https://github.com/KnowledgeGraphJapan/KGRC-RDF" target="_blank">https://github.com/KnowledgeGraphJapan/KGRC-RDF</a></p>
+			  <br>
+			  <h4 class="h04">Webブラウザに取るナレッジグラフの閲覧</h4>
+			  <p class="mb2">ナレッジグラフをWebブラウザで閲覧できる簡易ツールを提供しています。
+				  <a href="http://kgc.knowledge-graph.jp/" target="_blank">http://kgc.knowledge-graph.jp/</a>から利用可能ですので，
+				  ナレッジグラフの内容を簡単に確認したい際はこちらをご利用ください。
+			  </p>
+			  
+			  <h4 class="h04">SPARQLエンドポイント</h4>
+			  <p class="mb2">ナレッジグラフに対してSPARQLクエリで検索できるエンドポイントを提供しています。
+			  サーバに負荷がかかる大量の問い合わせはご遠慮ください。
+			  <li><b>APIとして使う</b> <br> 
+			   パラメータ：query={SPARQLクエリのURLエンコード}, format={データフォーマット(json, xml, csv, ...)} 
+			 <ol>
+					<li>[ver.1(2020/10/09版)] <a href="http://kg.hozo.jp/fuseki/kgrc/sparql" target="_blank">http://kg.hozo.jp/fuseki/kgrc/sparql</a></li> 
+					<li>[ver.2(2021/01/19版)] <a href="http://kg.hozo.jp/fuseki/kgrc2020v2/sparql" target="_blank">http://kg.hozo.jp/fuseki/kgrc2020v2/sparql</a></li> 
+				</ol>
+			 <li>ブラウザからクエリを実行
+				<ol>
+					<li>[ver.1(2020/10/09版)] <a href="http://knowledge-graph.jp/sparql.html" target="_blank">http://knowledge-graph.jp/sparql.html</a></li> 
+					<li>[ver.2(2021/01/19版)] <a href="http://knowledge-graph.jp/sparql2020v2.html" target="_blank">http://knowledge-graph.jp/sparql2020v2.html</a></li> 
+				</ol>
+			  </p>
+			  <br>
+			  <h4 class="h04">可視化ツール</h4>
+			  <p>簡易的な可視化ツールを用意しています。</p>
+			  <p><a href="http://knowledge-graph.jp/visualization/" target="_blank">http://knowledge-graph.jp/visualization/</a></p>
+			  <p>可視化ツールの使用方法については下記スライドをご覧ください。</p>
+			  			  <iframe src="//www.slideshare.net/slideshow/embed_code/key/3upAfQ2Enta8Z4?startSlide=59" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/KnowledgeGraph/ss-109468827" title="ナレッジグラフ推論チャレンジ：応募に向けた「技術勉強会」資料" target="_blank">ナレッジグラフ推論チャレンジ：応募に向けた「技術勉強会」資料</a> </strong> from <strong><a href="//www.slideshare.net/KnowledgeGraph" target="_blank">KnowledgeGraph</a></strong> </div>
+
+		  </section>
+		  <section>
+		  <h3 class="h03" id="schema">ナレッジグラフの構造</h3>
+		  <p>推論チャレンジで提供するナレッジグラフは、「場面（シーン）」とそれに対応する「主語（subject）」「述語（predicate）」「目的語（what, whom, when, where, etc.）」「場面間の関係（if, then, because, etc.）」「絶対時間」「場面の原文」で表現されています。詳しくは下記スライドをご覧ください。</p>
+		  <iframe src="//www.slideshare.net/slideshow/embed_code/key/8YGh63f0ENgXx7?startSlide=11" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/KnowledgeGraph/20191122-swo" title="第２回ナレッジグラフ推論チャレンジ2019の紹介（11/22, SWO研究会）" target="_blank">第２回ナレッジグラフ推論チャレンジ2019の紹介（11/22, SWO研究会）</a> </strong> from <strong><a href="//www.slideshare.net/KnowledgeGraph" target="_blank">KnowledgeGraph</a></strong> </div>
+		  </section>
+		  <section>
+		  <h3 class="h03" id="query">サンプルSPARQLクエリ</h3>
+		  <p>ナレッジグラフ推論チャレンジ2019用の「ナレッジグラフ」を対象としたSPARQLクエリのサンプルです．</p>
+			  <h4 class="h04">｢まらだのひも」の場面36のhasPredicate（その場面の内容を表す述語）を取得する</h4>
+			  <p>
+			  <code class="prettyprint lang-sparql">
+				  SELECT ?o WHERE {<br>
+				  &lt;http://kgc.knowledge-graph.jp/data/SpeckledBand/36&gt; &lt;http://kgc.knowledge-graph.jp/ontology/kgc.owl#hasPredicate&gt; ?o .<br>
+			  }
+			  </code>
+			  </p>
+			  <br>
+			  
+			  <h4 class="h04">指定した場面（例：｢まらだのひも」の場面36）の内容（トリプル一覧）を取得する</h4>
+			  <p>
+			  <code class="prettyprint lang-sparql">
+				  SELECT ?p ?o WHERE {<br>
+				  &lt;http://kgc.knowledge-graph.jp/data/SpeckledBand/36&gt; ?p ?o .<br>
+				  }
+			  </code>
+			  </p>
+			  <br>
+			  <h4 class="h04">場面の一覧を取得する</h4>
+			  <p>
+			  <code class="prettyprint lang-sparql">
+				  PREFIX rdf:  &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;<br>
+				  PREFIX kgc: &lt;http://kgc.knowledge-graph.jp/ontology/kgc.owl#&gt;<br>
+				  SELECT ?s<br>
+				  WHERE{<br>
+				  ?s rdf:type kgc:Situation .<br>
+				  }
+			  </code>
+			  </p>
+			  <br>
+			  <h4 class="h04">場面の一覧を取得する（検索対象を「踊る人形」に限定）</h4>
+			  <p>
+			  <code class="prettyprint lang-sparql">
+				  PREFIX rdf:  &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;<br>
+				  PREFIX kgc: &lt;http://kgc.knowledge-graph.jp/ontology/kgc.owl#&gt;<br>
+				  SELECT ?s<br>
+				  FROM &lt;http://kgc.knowledge-graph.jp/data/DancingMen&gt;<br>
+				  WHERE{<br>
+				    ?s rdf:type kgc:Situation .<br>
+				  }
+			  </code>
+			  </p>
+			  <br>
+			  <h4 class="h04">条件を満たす場面の一覧を取得する</h4>
+			  <p>
+			  <code class="prettyprint lang-sparql">
+				  PREFIX rdf:  &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;<br>
+				  PREFIX kgc: &lt;http://kgc.knowledge-graph.jp/ontology/kgc.owl#&gt;<br>
+				  SELECT ?s ?sc<br>
+				  WHERE{<br>
+				  ?s kgc:subject	&lt;http://kgc.knowledge-graph.jp/data/DancingMen/Qubit&gt; ;<br>
+				  kgc:source  ?sc .<br>
+				  FILTER(lang(?sc)="ja")<br>
+				  }
+			  </code>
+			  </p>
+			  <br>
+			  <h4 class="h04">場面間のつながりを取得する</h4>
+			  <p>
+			  <code class="prettyprint lang-sparql">
+				  PREFIX rdf:  &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;<br>
+				  PREFIX kgc: &lt;http://kgc.knowledge-graph.jp/ontology/kgc.owl#&gt;<br>
+				  SELECT ?s ?p ?o<br>
+				  FROM &lt;http://kgc.knowledge-graph.jp/data/DancingMen&gt;<br>
+				  WHERE {<br>
+				  ?s ?p ?o .<br>
+				  ?s rdf:type kgc:Situation .<br>
+				  ?o rdf:type kgc:Situation .<br>
+				  }
+			  </code>
+			  </p>
+		  </section>
+	  </div>   
+    </div>
+    <!-- / .inner --> 
+  <!-- InstanceEndEditable --> </main>
+	
+<footer id="footer"> <a href="#wrapper" id="page-top"></a>
+  <div class="inner">
+    <div class="foot-add">
+        <p class="logo"><a href="index.html"><img src="assets/img/common/logo.png" alt="ナレッジグラフ推論チャレンジ"/></a></p>
+        <p class="cop-name">kgrc@knowledge-graph.jp</p>
+    </div>
+    <div class="foot-nav">
+      <ul>
+        <li><a href="application.html">応募要領</a></li>
+          <li><a href="reference.html">初めての方へ</a></li>
+      </ul>
+		<ul>
+          <li><a href="rdf.html">ナレッジグラフ公開</a></li>
+          <li><a href="reference.html">初めての方へ</a></li>
+      </ul>
+		<ul>
+          <li><a href="sample.html">参考アプローチ</a></li>
+      </ul>
+    </div>
+  </div>
+  <small>Copyright</small> </footer>
+
+<!-- .wrapper --> 
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]--> 
+<script src="assets/vendor/js/jquery-3.4.1.min.js"></script> 
+<script src="assets/vendor/js/jquery-migrate-3.1.0.min.js"></script> 
+<script src="assets/js/menu.js"></script> 
+<script src="assets/js/common.js"></script> 
+<script type="text/javascript" src="assets/js/smoothScrollEx.js"></script> 
+<!-- InstanceBeginEditable name="jvs" --> 
+<!-- InstanceEndEditable -->
+<script src="assets/js/lang-sparql.js"></script>
+<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
+</body>
+<!-- InstanceEnd --></html>
