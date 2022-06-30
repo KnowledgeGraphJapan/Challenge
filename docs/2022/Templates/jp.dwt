@@ -29,10 +29,10 @@
     <div class="header-inner">
       <div class="header-logo"><!-- TemplateBeginIf cond="pageId=='home'" -->
         <h1>
-        <!-- TemplateEndIf --> <!-- TemplateBeginIf cond="pageId!=='home'" --><a href="../2019/index.html"><!-- TemplateEndIf --> <img class="rpimg" src="../assets/img/common/logo.png" alt="ナレッジグラフ推論チャレンジ"/> <!-- TemplateBeginIf cond="pageId!=='home'" --></a><!-- TemplateEndIf --> <!-- TemplateBeginIf cond="pageId=='home'" -->
+        <!-- TemplateEndIf --> <!-- TemplateBeginIf cond="pageId!=='home'" --><a href="../index.html"><!-- TemplateEndIf --> <img class="rpimg" src="../assets/img/common/logo.png" alt="ナレッジグラフ推論チャレンジ"/> <!-- TemplateBeginIf cond="pageId!=='home'" --></a><!-- TemplateEndIf --> <!-- TemplateBeginIf cond="pageId=='home'" -->
         </h1>
         <!-- TemplateEndIf --></div>
-      <!-- 開閉用ボタン -->
+      <!-- 開閉用　ボタン -->
       <div class="nav_toggle" id="js__sideMenuBtn">
         <div class="ellipsis-v"> <span class="point top"></span> <span class="point mid"></span> <span class="point bot"></span> </div>
       </div>
@@ -67,7 +67,6 @@
       </ul>
 		<ul>
           <li><a href="../rdf.html">ナレッジグラフ公開</a></li>
-          <!--<li><a href="../reference.html">初めての方へ</a></li>-->
       </ul>
 		<ul>
           <li><a href="../sample.html">参考アプローチ</a></li>
