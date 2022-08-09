@@ -97,36 +97,36 @@
                 <h3 class="h03" id="schema">ナレッジグラフの構造</h3>
                 <p>推論チャレンジで提供するナレッジグラフは、「イベント」とそれに対応する「行動（action）」「目的語（what, whom,
                     when, where, etc.）」「場面間の関係（nextEvent)」「時刻」などで表現されています。詳しくは下記スライドをご覧ください。</p>
-              <img src="Slide1.PNG"/>
+                <img src="Slide1.PNG"/>
                 <img src="Slide2.PNG"/>
                 <img src="Slide3.PNG"/>
-                </div>
-            </section>
-            <section>
-                <h3 class="h03" id="query">サンプルSPARQLクエリ</h3>
-                <h4 class="h04">｢インターネットをブラウズする」というアクティビティ中のイベントを取得する</h4>
-                <p>
-                    <code class="prettyprint lang-sparql">
-                        PREFIX ex: &lt;http://example.org/virtualhome2kg/instance/&gt;<br>
-                        PREFIX vh2kg: &lt;http://example.org/virtualhome2kg/ontology/&gt;<br>
-                        select DISTINCT * where {<br>
-                        ex:browse_internet_scene1 vh2kg:hasEvent ?event .<br>
-                        ?event vh2kg:action ?action .<br>
-                        }
-                    </code>
-                </p>
-                <h4 class="h04">アクティビティの一覧を取得する</h4>
-                <p>
-                    <code class="prettyprint lang-sparql">
-                        PREFIX vh2kg: &lt;http://example.org/virtualhome2kg/ontology/&gt;<br>
-                        select DISTINCT * where {<br>
-                        ?activity vh2kg:virtualHome ex:scene1  .<br>
-                        }
-                    </code>
-                </p>
-                <br>
-            </section>
         </div>
+        </section>
+        <section>
+            <h3 class="h03" id="query">サンプルSPARQLクエリ</h3>
+            <h4 class="h04">｢インターネットをブラウズする」というアクティビティ中のイベントを取得する</h4>
+            <p>
+                <code class="prettyprint lang-sparql">
+                    PREFIX ex: &lt;http://example.org/virtualhome2kg/instance/&gt;<br>
+                    PREFIX vh2kg: &lt;http://example.org/virtualhome2kg/ontology/&gt;<br>
+                    select DISTINCT * where {<br>
+                    ex:browse_internet_scene1 vh2kg:hasEvent ?event .<br>
+                    ?event vh2kg:action ?action .<br>
+                    }
+                </code>
+            </p>
+            <h4 class="h04">アクティビティの一覧を取得する</h4>
+            <p>
+                <code class="prettyprint lang-sparql">
+                    PREFIX vh2kg: &lt;http://example.org/virtualhome2kg/ontology/&gt;<br>
+                    select DISTINCT * where {<br>
+                    ?activity vh2kg:virtualHome ex:scene1 .<br>
+                    }
+                </code>
+            </p>
+            <br>
+        </section>
+    </div>
     </div>
     <!-- / .inner -->
     <!-- InstanceEndEditable --> </main>
