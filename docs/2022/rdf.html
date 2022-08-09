@@ -110,17 +110,20 @@
                     PREFIX ex: &lt;http://example.org/virtualhome2kg/instance/&gt;<br>
                     PREFIX vh2kg: &lt;http://example.org/virtualhome2kg/ontology/&gt;<br>
                     select DISTINCT * where {<br>
-                    ex:browse_internet_scene1 vh2kg:hasEvent ?event .<br>
-                    ?event vh2kg:action ?action .<br>
+                      ex:browse_internet_scene1 vh2kg:hasEvent ?event .<br>
+                      ?event vh2kg:action ?action .<br>
                     }
                 </code>
+　　　　　　　　　　<br>
+                <a href="https://colab.research.google.com/drive/1hu39sJ94B2MMiWiLsZaCz4fSjNPz3aWv?usp=sharing">Python(rdflib)を用いた実行例</a>
             </p>
             <h4 class="h04">アクティビティの一覧を取得する</h4>
             <p>
                 <code class="prettyprint lang-sparql">
+                    PREFIX ex: &lt;http://example.org/virtualhome2kg/instance/&gt;<br>
                     PREFIX vh2kg: &lt;http://example.org/virtualhome2kg/ontology/&gt;<br>
                     select DISTINCT * where {<br>
-                    ?activity vh2kg:virtualHome ex:scene1 .<br>
+                      ?activity vh2kg:virtualHome ex:scene1 .<br>
                     }
                 </code>
             </p>
