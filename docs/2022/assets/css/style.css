@@ -321,11 +321,11 @@ png{
   .gnav-ul > li > a, .gnav-ul > li > span {
     display: block;
     padding: 1.5em 0 1.5em 20px;
-    background: #555555;
-    border-bottom: 1px solid #555555;
-    color: #423b38; }
+    background: #fff;
+    border-bottom: 1px solid #fff;
+    color: #555555; }
     .gnav-ul > li > a:hover, .ß > li > span:hover {
-      color: #423b38; } }
+      color: #555555; } }
 @media print, screen and (min-width: 1001px) {
   .gnav-ul > li > a, .gnav-ul > li > span {
     display: inline-block;
@@ -344,6 +344,7 @@ png{
       height: 2px;
       background-color: #555555;
       bottom: 0;
+      right: -100%;
       right: -100%;
       -webkit-transition: all 0.3s ease-in-out;
       -o-transition: all 0.3s ease-in-out;
