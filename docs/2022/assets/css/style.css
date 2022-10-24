@@ -922,7 +922,7 @@ dl.newinfo {
     margin-bottom: 0.5em; }
     @media print, screen and (min-width: 769px) {
       dl.newinfo dt {
-        float: left; clear: left;} }
+        float: left; } }
   dl.newinfo dd {
     margin-bottom: 1.5em; }
     @media print, screen and (min-width: 769px) {
