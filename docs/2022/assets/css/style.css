@@ -1,4 +1,6 @@
 F@charset "UTF-8";
+*{margin:0;padding:0;}
+
 /* Scss Document */
 @keyframes fadeIn {
   0% {
@@ -924,9 +926,25 @@ dl.newinfo {
       dl.newinfo dt {
         float: left; } }
   dl.newinfo dd {
-    margin-bottom: 1.5em; }
+    margin-bottom: 2em; }
     @media print, screen and (min-width: 769px) {
       dl.newinfo dd {
+        margin-left: 6em;
+        margin-bottom: 1.5em; } }
+
+dl.newinfo2 {
+  text-align: left; }
+
+  dl.newinfo2 dt {
+    margin-bottom: 0.5em; }
+　 @media print, screen and (min-width: 769px) 
+	  
+  dl.newinfo2 dt {float: left; } 
+
+  dl.newinfo2 dd {
+    margin-bottom: 1.5em; }
+    @media print, screen and (min-width: 769px) {
+      dl.newinfo2 dd {
         margin-left: 6em;
         margin-bottom: 0.5em; } }
 
