@@ -86,7 +86,7 @@
                     <b>APIとして使う</b> <br>
                         パラメータ：query={SPARQLクエリのURLエンコード}, format={データフォーマット(json, xml, csv, ...)}
                 <ol>
-                    <li><a href="https://kgrc4si.ml:7200/repositories/KGRC4SIv03" target="_blank">https://kgrc4si.ml:7200/repositories/KGRC4SIv03</a>
+                    <li><a href="https://kgrc4si.ml:7200/repositories/KGRC4SIv04" target="_blank">https://kgrc4si.ml:7200/repositories/KGRC4SIv04</a>
                     </li>
 
                 </ol>
@@ -120,8 +120,8 @@
             <h4 class="h04">｢インターネットをブラウズする」というアクティビティ中のイベントを取得する</h4>
             <p>
                 <code class="prettyprint lang-sparql">
-                    PREFIX ex: &lt;http://example.org/virtualhome2kg/instance/&gt;<br>
-                    PREFIX vh2kg: &lt;http://example.org/virtualhome2kg/ontology/&gt;<br>
+                    PREFIX ex: &lt;http://kgrc4si.ml/virtualhome2kg/instance/&gt;<br>
+                    PREFIX vh2kg: &lt;http://kgrc4si.ml/virtualhome2kg/ontology/&gt;<br>
                     select DISTINCT * where {<br>
                       ex:browse_internet_scene1 vh2kg:hasEvent ?event .<br>
                       ?event vh2kg:action ?action .<br>
@@ -132,8 +132,8 @@
             <h4 class="h04">アクティビティの一覧を取得する</h4>
             <p>
                 <code class="prettyprint lang-sparql">
-                    PREFIX ex: &lt;http://example.org/virtualhome2kg/instance/&gt;<br>
-                    PREFIX vh2kg: &lt;http://example.org/virtualhome2kg/ontology/&gt;<br>
+                    PREFIX ex: &lt;http://kgrc4si.ml/virtualhome2kg/instance/&gt;<br>
+                    PREFIX vh2kg: &lt;http://kgrc4si.ml/virtualhome2kg/ontology/&gt;<br>
                     select DISTINCT * where {<br>
                       ?activity vh2kg:virtualHome ex:scene1 .<br>
                     }
