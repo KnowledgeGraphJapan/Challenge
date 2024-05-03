@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OE_FILE filename="評価用家具深さ4幅5isaonly.xml" ont_id="1706092746895ont" >
+<FILENAME_ONT>評価用家具深さ4幅5isaonly.xml</FILENAME_ONT>
+<W_CONCEPTS>
+<CANVAS_SIZE w="2000" h="112679" x="0" y="0" />
+<CONCEPT id="1706092746895_n0" >
+<LABEL>Any</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n1" >
+<LABEL>家具</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="51"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n2" >
+<LABEL>ソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="543"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n3" >
+<LABEL>テーブル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="625"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n4" >
+<LABEL>椅子</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="707"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n5" >
+<LABEL>ベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="789"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n6" >
+<LABEL>棚</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="871"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n7" >
+<LABEL>ラブシート</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="953"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n8" >
+<LABEL>スリーパーソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1035"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n9" >
+<LABEL>リクライニングソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1117"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n10" >
+<LABEL>チェスターフィールドソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1199"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n11" >
+<LABEL>セクショナルソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1281"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n12" >
+<LABEL>ダイニングテーブル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1363"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n13" >
+<LABEL>コーヒーテーブル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1445"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n14" >
+<LABEL>勉強机</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1527"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n15" >
+<LABEL>サイドテーブル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1609"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n16" >
+<LABEL>ナイトスタンド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1691"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n17" >
+<LABEL>アームチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1773"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n18" >
+<LABEL>リクライニングチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1855"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n19" >
+<LABEL>スツール</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1937"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n20" >
+<LABEL>折りたたみ椅子</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2019"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n21" >
+<LABEL>オフィスチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2101"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n22" >
+<LABEL>プラットフォームベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2183"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n23" >
+<LABEL>キャノピーベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2265"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n24" >
+<LABEL>ロフトベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2347"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n25" >
+<LABEL>二段ベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2429"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n26" >
+<LABEL>折りたたみベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2511"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n27" >
+<LABEL>本棚</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2593"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n28" >
+<LABEL>食器棚</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2675"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n29" >
+<LABEL>靴棚</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2757"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n30" >
+<LABEL>工具棚</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2839"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n31" >
+<LABEL>書類棚</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2921"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n32" >
+<LABEL>2人掛けソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3003"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n33" >
+<LABEL>コンパクトラブシート</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3085"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n34" >
+<LABEL>リクライニングラブシート</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3167"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n35" >
+<LABEL>コーナーラブシート</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3249"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n36" >
+<LABEL>折りたたみラブシート</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3331"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n37" >
+<LABEL>コンバーチブルソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3413"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n38" >
+<LABEL>フトンソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3495"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n39" >
+<LABEL>セクショナルスリーパーソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3577"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n40" >
+<LABEL>ラブシートスリーパー</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3659"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n41" >
+<LABEL>プルアウトソファベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3741"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n42" >
+<LABEL>ラブシートリクライナー</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3823"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n43" >
+<LABEL>パワーリクライニングソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3905"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n44" >
+<LABEL>ホームシアターリクライナー</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3987"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n45" >
+<LABEL>リクライナーコーナーソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4069"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n46" >
+<LABEL>レザーチェスターフィールドソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4151"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n47" >
+<LABEL>ベルベットチェスターフィールドソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4233"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n48" >
+<LABEL>ファブリックチェスターフィールドソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4315"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n49" >
+<LABEL>２シーターチェスターフィールドソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4397"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n50" >
+<LABEL>３シーターチェスターフィールドソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4479"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n51" >
+<LABEL>L字型セクショナルソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4561"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n52" >
+<LABEL>U字型セクショナルソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4643"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n53" >
+<LABEL>モジュラーセクショナルソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4725"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n54" >
+<LABEL>リクライニングセクショナルソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4807"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n55" >
+<LABEL>スリーパーセクショナルソファ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4889"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n56" >
+<LABEL>伸縮式ダイニングテーブル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4971"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n57" >
+<LABEL>丸型ダイニングテーブル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5053"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n58" >
+<LABEL>長方形ダイニングテーブル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5135"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n59" >
+<LABEL>折りたたみダイニングテーブル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5217"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n60" >
+<LABEL>カウンターダイニングテーブル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5299"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n61" >
+<LABEL>ガラスコーヒーテーブル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5381"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n62" >
+<LABEL>木製コーヒーテーブル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5463"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n63" >
+<LABEL>オットマンコーヒーテーブル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5545"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n64" >
+<LABEL>リフトトップコーヒーテーブル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5627"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n65" >
+<LABEL>ラウンドコーヒーテーブル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5709"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n66" >
+<LABEL>調節可能な学習机</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5791"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n67" >
+<LABEL>折りたたみ可能な学習机</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5873"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n68" >
+<LABEL>コンピュータ学習机</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5955"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n69" >
+<LABEL>子供用学習机</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6037"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n70" >
+<LABEL>埋め込み型学習机</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6119"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n71" >
+<LABEL>エンドテーブル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6201"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n72" >
+<LABEL>ドリンクテーブル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6283"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n73" >
+<LABEL>アクセントテーブル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6365"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n74" >
+<LABEL>ソファサイドテーブル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6447"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n75" >
+<LABEL>モダンナイトスタンド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6529"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n76" >
+<LABEL>トラディショナルナイトスタンド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6611"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n77" >
+<LABEL>フローティングナイトスタンド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6693"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n78" >
+<LABEL>キャビネットナイトスタンド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6775"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n79" >
+<LABEL>折りたたみ式ナイトスタンド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6857"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n80" >
+<LABEL>リクライニングアームチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6939"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n81" >
+<LABEL>クラブアームチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7021"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n82" >
+<LABEL>ウィングバックアームチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7103"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n83" >
+<LABEL>チェスターフィールドアームチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7185"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n84" >
+<LABEL>スリッパアームチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7267"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n85" >
+<LABEL>ロッキングチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7349"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n86" >
+<LABEL>リフトチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7431"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n87" >
+<LABEL>ガーデンラウンジチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7513"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n88" >
+<LABEL>ゼログラビティチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7595"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n89" >
+<LABEL>バースツール</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7677"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n90" >
+<LABEL>ステップスツール</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7759"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n91" >
+<LABEL>折りたたみスツール</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7841"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n92" >
+<LABEL>バックレスト付きスツール</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7923"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n93" >
+<LABEL>アジャスタブルスツール</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8005"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n94" >
+<LABEL>ビーチチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8087"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n95" >
+<LABEL>キャンプチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8169"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n96" >
+<LABEL>ディレクターズチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8251"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n97" >
+<LABEL>ガーデンチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8333"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n98" >
+<LABEL>バタフライチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8415"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n99" >
+<LABEL>エルゴノミックチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8497"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n100" >
+<LABEL>エグゼクティブチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8579"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n101" >
+<LABEL>タスクチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8661"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n102" >
+<LABEL>メッシュチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8743"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n103" >
+<LABEL>コンピュータチェア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8825"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n104" >
+<LABEL>プラットフォームストレージベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8907"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n105" >
+<LABEL>フローティングプラットフォームベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8989"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n106" >
+<LABEL>ヘッドボード付きプラットフォームベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9071"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n107" >
+<LABEL>ロープラットフォームベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9153"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n108" >
+<LABEL>キャノピープラットフォームベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9235"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n109" >
+<LABEL>フォーストポスターベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9317"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n110" >
+<LABEL>プラットフォームキャノピーベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9399"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n111" >
+<LABEL>アーチ型キャノピーベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9481"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n112" >
+<LABEL>トラディショナルキャノピーベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9563"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n113" >
+<LABEL>コンテンポラリーキャノピーベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9645"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n114" >
+<LABEL>スタディロフトベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9727"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n115" >
+<LABEL>システムロフトベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9809"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n116" >
+<LABEL>キッズロフトベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9891"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n117" >
+<LABEL>フルサイズロフトベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9973"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n118" >
+<LABEL>収納付きロフトベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10055"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n119" >
+<LABEL>L字型ベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10137"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n120" >
+<LABEL>三段ベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10219"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n121" >
+<LABEL>スライド式ベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10301"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n122" >
+<LABEL>階段付きベッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10383"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n123" >
+<LABEL>ウォールベッド（壁に取り付けて使用時以外に壁に収納するタイプ）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10465"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n124" >
+<LABEL>キャビネットベッド（収納家具に見えるが開くとベッドになるタイプ）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10547"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n125" >
+<LABEL>折りたたみソファベッド（ソファとしても使用でき、ベッドに変形できるタイプ）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10629"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n126" >
+<LABEL>ロールアウェイベッド（折りたたんで移動可能なキャスター付きタイプ）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10711"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n127" >
+<LABEL>オットマンベッド（オットマンやベンチとしても使用できる収納付き折りたたみベッド）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10793"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n128" >
+<LABEL>書籍棚</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10875"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n129" >
+<LABEL>マガジンラック</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10957"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n130" >
+<LABEL>ディスプレイシェルフ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11039"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n131" >
+<LABEL>子供用本棚</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11121"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n132" >
+<LABEL>コーナー本棚</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11203"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n133" >
+<LABEL>カップボード</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11285"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n134" >
+<LABEL>キャビネット</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11367"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n135" >
+<LABEL>引き出し</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11449"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n136" >
+<LABEL>シューズラック</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11531"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n137" >
+<LABEL>靴箱</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11613"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n138" >
+<LABEL>シューズキャビネット</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11695"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n139" >
+<LABEL>シューズオーガナイザー</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11777"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n140" >
+<LABEL>シューズベンチ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11859"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n141" >
+<LABEL>ハンマー</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11941"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n142" >
+<LABEL>ノコギリ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="12023"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n143" >
+<LABEL>ドライバー</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="12105"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n144" >
+<LABEL>レンチ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="12187"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n145" >
+<LABEL>シャベル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="12269"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n146" >
+<LABEL>ファイルキャビネット</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="12351"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n147" >
+<LABEL>書類ボックス</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="12433"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n148" >
+<LABEL>オープンシェルフ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="12515"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706092746895_n149" >
+<LABEL>ドキュメントケース</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="12597"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<ISA id="1706092746895_isa150" parent="Any" child="家具" />
+<ISA id="1706092746895_isa151" parent="家具" child="ソファ" />
+<ISA id="1706092746895_isa152" parent="家具" child="テーブル" />
+<ISA id="1706092746895_isa153" parent="家具" child="椅子" />
+<ISA id="1706092746895_isa154" parent="家具" child="ベッド" />
+<ISA id="1706092746895_isa155" parent="家具" child="棚" />
+<ISA id="1706092746895_isa156" parent="ソファ" child="ラブシート" />
+<ISA id="1706092746895_isa157" parent="ソファ" child="スリーパーソファ" />
+<ISA id="1706092746895_isa158" parent="ソファ" child="リクライニングソファ" />
+<ISA id="1706092746895_isa159" parent="ソファ" child="チェスターフィールドソファ" />
+<ISA id="1706092746895_isa160" parent="ソファ" child="セクショナルソファ" />
+<ISA id="1706092746895_isa161" parent="テーブル" child="ダイニングテーブル" />
+<ISA id="1706092746895_isa162" parent="テーブル" child="コーヒーテーブル" />
+<ISA id="1706092746895_isa163" parent="テーブル" child="勉強机" />
+<ISA id="1706092746895_isa164" parent="テーブル" child="サイドテーブル" />
+<ISA id="1706092746895_isa165" parent="テーブル" child="ナイトスタンド" />
+<ISA id="1706092746895_isa166" parent="椅子" child="アームチェア" />
+<ISA id="1706092746895_isa167" parent="椅子" child="リクライニングチェア" />
+<ISA id="1706092746895_isa168" parent="椅子" child="スツール" />
+<ISA id="1706092746895_isa169" parent="椅子" child="折りたたみ椅子" />
+<ISA id="1706092746895_isa170" parent="椅子" child="オフィスチェア" />
+<ISA id="1706092746895_isa171" parent="ベッド" child="プラットフォームベッド" />
+<ISA id="1706092746895_isa172" parent="ベッド" child="キャノピーベッド" />
+<ISA id="1706092746895_isa173" parent="ベッド" child="ロフトベッド" />
+<ISA id="1706092746895_isa174" parent="ベッド" child="二段ベッド" />
+<ISA id="1706092746895_isa175" parent="ベッド" child="折りたたみベッド" />
+<ISA id="1706092746895_isa176" parent="棚" child="本棚" />
+<ISA id="1706092746895_isa177" parent="棚" child="食器棚" />
+<ISA id="1706092746895_isa178" parent="棚" child="靴棚" />
+<ISA id="1706092746895_isa179" parent="棚" child="工具棚" />
+<ISA id="1706092746895_isa180" parent="棚" child="書類棚" />
+<ISA id="1706092746895_isa181" parent="ラブシート" child="2人掛けソファ" />
+<ISA id="1706092746895_isa182" parent="ラブシート" child="コンパクトラブシート" />
+<ISA id="1706092746895_isa183" parent="ラブシート" child="リクライニングラブシート" />
+<ISA id="1706092746895_isa184" parent="ラブシート" child="コーナーラブシート" />
+<ISA id="1706092746895_isa185" parent="ラブシート" child="折りたたみラブシート" />
+<ISA id="1706092746895_isa186" parent="スリーパーソファ" child="コンバーチブルソファ" />
+<ISA id="1706092746895_isa187" parent="スリーパーソファ" child="フトンソファ" />
+<ISA id="1706092746895_isa188" parent="スリーパーソファ" child="セクショナルスリーパーソファ" />
+<ISA id="1706092746895_isa189" parent="スリーパーソファ" child="ラブシートスリーパー" />
+<ISA id="1706092746895_isa190" parent="スリーパーソファ" child="プルアウトソファベッド" />
+<ISA id="1706092746895_isa191" parent="リクライニングソファ" child="ラブシートリクライナー" />
+<ISA id="1706092746895_isa192" parent="リクライニングソファ" child="パワーリクライニングソファ" />
+<ISA id="1706092746895_isa193" parent="リクライニングソファ" child="ホームシアターリクライナー" />
+<ISA id="1706092746895_isa194" parent="リクライニングソファ" child="リクライナーコーナーソファ" />
+<ISA id="1706092746895_isa195" parent="チェスターフィールドソファ" child="レザーチェスターフィールドソファ" />
+<ISA id="1706092746895_isa196" parent="チェスターフィールドソファ" child="ベルベットチェスターフィールドソファ" />
+<ISA id="1706092746895_isa197" parent="チェスターフィールドソファ" child="ファブリックチェスターフィールドソファ" />
+<ISA id="1706092746895_isa198" parent="チェスターフィールドソファ" child="２シーターチェスターフィールドソファ" />
+<ISA id="1706092746895_isa199" parent="チェスターフィールドソファ" child="３シーターチェスターフィールドソファ" />
+<ISA id="1706092746895_isa200" parent="セクショナルソファ" child="L字型セクショナルソファ" />
+<ISA id="1706092746895_isa201" parent="セクショナルソファ" child="U字型セクショナルソファ" />
+<ISA id="1706092746895_isa202" parent="セクショナルソファ" child="モジュラーセクショナルソファ" />
+<ISA id="1706092746895_isa203" parent="セクショナルソファ" child="リクライニングセクショナルソファ" />
+<ISA id="1706092746895_isa204" parent="セクショナルソファ" child="スリーパーセクショナルソファ" />
+<ISA id="1706092746895_isa205" parent="ダイニングテーブル" child="伸縮式ダイニングテーブル" />
+<ISA id="1706092746895_isa206" parent="ダイニングテーブル" child="丸型ダイニングテーブル" />
+<ISA id="1706092746895_isa207" parent="ダイニングテーブル" child="長方形ダイニングテーブル" />
+<ISA id="1706092746895_isa208" parent="ダイニングテーブル" child="折りたたみダイニングテーブル" />
+<ISA id="1706092746895_isa209" parent="ダイニングテーブル" child="カウンターダイニングテーブル" />
+<ISA id="1706092746895_isa210" parent="コーヒーテーブル" child="ガラスコーヒーテーブル" />
+<ISA id="1706092746895_isa211" parent="コーヒーテーブル" child="木製コーヒーテーブル" />
+<ISA id="1706092746895_isa212" parent="コーヒーテーブル" child="オットマンコーヒーテーブル" />
+<ISA id="1706092746895_isa213" parent="コーヒーテーブル" child="リフトトップコーヒーテーブル" />
+<ISA id="1706092746895_isa214" parent="コーヒーテーブル" child="ラウンドコーヒーテーブル" />
+<ISA id="1706092746895_isa215" parent="勉強机" child="調節可能な学習机" />
+<ISA id="1706092746895_isa216" parent="勉強机" child="折りたたみ可能な学習机" />
+<ISA id="1706092746895_isa217" parent="勉強机" child="コンピュータ学習机" />
+<ISA id="1706092746895_isa218" parent="勉強机" child="子供用学習机" />
+<ISA id="1706092746895_isa219" parent="勉強机" child="埋め込み型学習机" />
+<ISA id="1706092746895_isa220" parent="サイドテーブル" child="エンドテーブル" />
+<ISA id="1706092746895_isa221" parent="サイドテーブル" child="ドリンクテーブル" />
+<ISA id="1706092746895_isa222" parent="サイドテーブル" child="アクセントテーブル" />
+<ISA id="1706092746895_isa223" parent="サイドテーブル" child="ソファサイドテーブル" />
+<ISA id="1706092746895_isa224" parent="ナイトスタンド" child="モダンナイトスタンド" />
+<ISA id="1706092746895_isa225" parent="ナイトスタンド" child="トラディショナルナイトスタンド" />
+<ISA id="1706092746895_isa226" parent="ナイトスタンド" child="フローティングナイトスタンド" />
+<ISA id="1706092746895_isa227" parent="ナイトスタンド" child="キャビネットナイトスタンド" />
+<ISA id="1706092746895_isa228" parent="ナイトスタンド" child="折りたたみ式ナイトスタンド" />
+<ISA id="1706092746895_isa229" parent="アームチェア" child="リクライニングアームチェア" />
+<ISA id="1706092746895_isa230" parent="アームチェア" child="クラブアームチェア" />
+<ISA id="1706092746895_isa231" parent="アームチェア" child="ウィングバックアームチェア" />
+<ISA id="1706092746895_isa232" parent="アームチェア" child="チェスターフィールドアームチェア" />
+<ISA id="1706092746895_isa233" parent="アームチェア" child="スリッパアームチェア" />
+<ISA id="1706092746895_isa234" parent="リクライニングチェア" child="ロッキングチェア" />
+<ISA id="1706092746895_isa235" parent="リクライニングチェア" child="リフトチェア" />
+<ISA id="1706092746895_isa236" parent="リクライニングチェア" child="ガーデンラウンジチェア" />
+<ISA id="1706092746895_isa237" parent="リクライニングチェア" child="ゼログラビティチェア" />
+<ISA id="1706092746895_isa238" parent="スツール" child="バースツール" />
+<ISA id="1706092746895_isa239" parent="スツール" child="ステップスツール" />
+<ISA id="1706092746895_isa240" parent="スツール" child="折りたたみスツール" />
+<ISA id="1706092746895_isa241" parent="スツール" child="バックレスト付きスツール" />
+<ISA id="1706092746895_isa242" parent="スツール" child="アジャスタブルスツール" />
+<ISA id="1706092746895_isa243" parent="折りたたみ椅子" child="ビーチチェア" />
+<ISA id="1706092746895_isa244" parent="折りたたみ椅子" child="キャンプチェア" />
+<ISA id="1706092746895_isa245" parent="折りたたみ椅子" child="ディレクターズチェア" />
+<ISA id="1706092746895_isa246" parent="折りたたみ椅子" child="ガーデンチェア" />
+<ISA id="1706092746895_isa247" parent="折りたたみ椅子" child="バタフライチェア" />
+<ISA id="1706092746895_isa248" parent="オフィスチェア" child="エルゴノミックチェア" />
+<ISA id="1706092746895_isa249" parent="オフィスチェア" child="エグゼクティブチェア" />
+<ISA id="1706092746895_isa250" parent="オフィスチェア" child="タスクチェア" />
+<ISA id="1706092746895_isa251" parent="オフィスチェア" child="メッシュチェア" />
+<ISA id="1706092746895_isa252" parent="オフィスチェア" child="コンピュータチェア" />
+<ISA id="1706092746895_isa253" parent="プラットフォームベッド" child="プラットフォームストレージベッド" />
+<ISA id="1706092746895_isa254" parent="プラットフォームベッド" child="フローティングプラットフォームベッド" />
+<ISA id="1706092746895_isa255" parent="プラットフォームベッド" child="ヘッドボード付きプラットフォームベッド" />
+<ISA id="1706092746895_isa256" parent="プラットフォームベッド" child="ロープラットフォームベッド" />
+<ISA id="1706092746895_isa257" parent="プラットフォームベッド" child="キャノピープラットフォームベッド" />
+<ISA id="1706092746895_isa258" parent="キャノピーベッド" child="フォーストポスターベッド" />
+<ISA id="1706092746895_isa259" parent="キャノピーベッド" child="プラットフォームキャノピーベッド" />
+<ISA id="1706092746895_isa260" parent="キャノピーベッド" child="アーチ型キャノピーベッド" />
+<ISA id="1706092746895_isa261" parent="キャノピーベッド" child="トラディショナルキャノピーベッド" />
+<ISA id="1706092746895_isa262" parent="キャノピーベッド" child="コンテンポラリーキャノピーベッド" />
+<ISA id="1706092746895_isa263" parent="ロフトベッド" child="スタディロフトベッド" />
+<ISA id="1706092746895_isa264" parent="ロフトベッド" child="システムロフトベッド" />
+<ISA id="1706092746895_isa265" parent="ロフトベッド" child="キッズロフトベッド" />
+<ISA id="1706092746895_isa266" parent="ロフトベッド" child="フルサイズロフトベッド" />
+<ISA id="1706092746895_isa267" parent="ロフトベッド" child="収納付きロフトベッド" />
+<ISA id="1706092746895_isa268" parent="二段ベッド" child="L字型ベッド" />
+<ISA id="1706092746895_isa269" parent="二段ベッド" child="三段ベッド" />
+<ISA id="1706092746895_isa270" parent="二段ベッド" child="スライド式ベッド" />
+<ISA id="1706092746895_isa271" parent="二段ベッド" child="階段付きベッド" />
+<ISA id="1706092746895_isa272" parent="折りたたみベッド" child="ウォールベッド（壁に取り付けて使用時以外に壁に収納するタイプ）" />
+<ISA id="1706092746895_isa273" parent="折りたたみベッド" child="キャビネットベッド（収納家具に見えるが開くとベッドになるタイプ）" />
+<ISA id="1706092746895_isa274" parent="折りたたみベッド" child="折りたたみソファベッド（ソファとしても使用でき、ベッドに変形できるタイプ）" />
+<ISA id="1706092746895_isa275" parent="折りたたみベッド" child="ロールアウェイベッド（折りたたんで移動可能なキャスター付きタイプ）" />
+<ISA id="1706092746895_isa276" parent="折りたたみベッド" child="オットマンベッド（オットマンやベンチとしても使用できる収納付き折りたたみベッド）" />
+<ISA id="1706092746895_isa277" parent="本棚" child="書籍棚" />
+<ISA id="1706092746895_isa278" parent="本棚" child="マガジンラック" />
+<ISA id="1706092746895_isa279" parent="本棚" child="ディスプレイシェルフ" />
+<ISA id="1706092746895_isa280" parent="本棚" child="子供用本棚" />
+<ISA id="1706092746895_isa281" parent="本棚" child="コーナー本棚" />
+<ISA id="1706092746895_isa282" parent="食器棚" child="カップボード" />
+<ISA id="1706092746895_isa283" parent="食器棚" child="キャビネット" />
+<ISA id="1706092746895_isa284" parent="食器棚" child="引き出し" />
+<ISA id="1706092746895_isa285" parent="靴棚" child="シューズラック" />
+<ISA id="1706092746895_isa286" parent="靴棚" child="靴箱" />
+<ISA id="1706092746895_isa287" parent="靴棚" child="シューズキャビネット" />
+<ISA id="1706092746895_isa288" parent="靴棚" child="シューズオーガナイザー" />
+<ISA id="1706092746895_isa289" parent="靴棚" child="シューズベンチ" />
+<ISA id="1706092746895_isa290" parent="工具棚" child="ハンマー" />
+<ISA id="1706092746895_isa291" parent="工具棚" child="ノコギリ" />
+<ISA id="1706092746895_isa292" parent="工具棚" child="ドライバー" />
+<ISA id="1706092746895_isa293" parent="工具棚" child="レンチ" />
+<ISA id="1706092746895_isa294" parent="工具棚" child="シャベル" />
+<ISA id="1706092746895_isa295" parent="書類棚" child="ファイルキャビネット" />
+<ISA id="1706092746895_isa296" parent="書類棚" child="書類ボックス" />
+<ISA id="1706092746895_isa297" parent="書類棚" child="オープンシェルフ" />
+<ISA id="1706092746895_isa298" parent="書類棚" child="ドキュメントケース" />
+</W_CONCEPTS>
+<R_CONCEPTS>
+<CANVAS_SIZE w="2000" h="3000" />
+</R_CONCEPTS>
+<PRINTER>
+<PAGE_SETTINGS header="true" footer="true" cropmarks="true" scale="100" />
+<PAGE_FORMAT w="595.1905511811024" h="841.8047244094488" iw="451.19055118110236" ih="697.8047244094488" ix="72.0" iy="72.0" />
+<PRINTER_SETTINGS orientation="1" printername="EPSON EP-883A Series" />
+</PRINTER>
+</OE_FILE>

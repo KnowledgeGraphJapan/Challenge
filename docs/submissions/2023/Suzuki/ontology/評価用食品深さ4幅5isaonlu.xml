@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OE_FILE filename="評価用食品深さ4幅5isaonlu.xml" ont_id="1706091940562ont" >
+<FILENAME_ONT>評価用食品深さ4幅5isaonlu.xml</FILENAME_ONT>
+<W_CONCEPTS>
+<CANVAS_SIZE w="2000" h="113253" x="0" y="0" />
+<CONCEPT id="1706091940562_n0" >
+<LABEL>Any</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n1" >
+<LABEL>食品</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="78" y="35"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n2" >
+<LABEL>果物</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="60"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n3" >
+<LABEL>野菜</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="1610"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n4" >
+<LABEL>穀物</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="3160"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n5" >
+<LABEL>肉類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="4710"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n6" >
+<LABEL>乳製品</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="6260"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n7" >
+<LABEL>リンゴ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="85"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n8" >
+<LABEL>バナナ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="385"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n9" >
+<LABEL>イチゴ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="685"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n10" >
+<LABEL>オレンジ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="985"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n11" >
+<LABEL>メロン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="1285"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n12" >
+<LABEL>根菜類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="1635"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n13" >
+<LABEL>葉菜類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="1935"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n14" >
+<LABEL>果菜類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="2235"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n15" >
+<LABEL>豆類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="2535"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n16" >
+<LABEL>茎菜類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="2835"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n17" >
+<LABEL>米</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="3185"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n18" >
+<LABEL>小麦</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="3485"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n19" >
+<LABEL>トウモロコシ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="3785"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n20" >
+<LABEL>大麦</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="4085"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n21" >
+<LABEL>ライ麦</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="4385"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n22" >
+<LABEL>牛肉</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="4735"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n23" >
+<LABEL>豚肉</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="5035"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n24" >
+<LABEL>鶏肉</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="5335"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n25" >
+<LABEL>羊肉</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="5635"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n26" >
+<LABEL>馬肉</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="218" y="5935"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n27" >
+<LABEL>チーズ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="232" y="6285"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n28" >
+<LABEL>ヨーグルト</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="232" y="6585"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n29" >
+<LABEL>バター</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="232" y="6885"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n30" >
+<LABEL>アイスクリーム</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="232" y="7185"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n31" >
+<LABEL>ケフィア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="232" y="7485"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n32" >
+<LABEL>フジリンゴ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="290" y="110"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n33" >
+<LABEL>グラニースミス</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="290" y="160"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n34" >
+<LABEL>ガラ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="290" y="210"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n35" >
+<LABEL>ピンクレディ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="290" y="260"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n36" >
+<LABEL>ハニークリスプ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="290" y="310"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n37" >
+<LABEL>キャベンディッシュバナナ(Cavendishbanana)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="294" y="410"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n38" >
+<LABEL>プラターノ(Plantain)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="294" y="460"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n39" >
+<LABEL>レッドバナナ(Redbanana)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="294" y="510"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n40" >
+<LABEL>アップルバナナ(Applebanana)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="294" y="560"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n41" >
+<LABEL>グロスミッシェルバナナ(GrosMichelbanana)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="294" y="610"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n42" >
+<LABEL>野イチゴ(Fragariavesca)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="292" y="710"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n43" >
+<LABEL>セイヨウノイチゴ(Fragaria×ananassa)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="292" y="760"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n44" >
+<LABEL>ミヤマイチゴ(Fragarianipponica)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="292" y="810"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n45" >
+<LABEL>オランダイチゴ(Fragaria×hollandica)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="292" y="860"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n46" >
+<LABEL>ハナイチゴ(Fragariaviridis)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="292" y="910"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n47" >
+<LABEL>バレンシアオレンジ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="303" y="1010"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n48" >
+<LABEL>ブラッドオレンジ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="303" y="1060"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n49" >
+<LABEL>ナベルオレンジ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="303" y="1110"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n50" >
+<LABEL>マンダリンオレンジ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="303" y="1160"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n51" >
+<LABEL>カラマンダリンオレンジ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="303" y="1210"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n52" >
+<LABEL>カンタロープ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="290" y="1310"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n53" >
+<LABEL>ハネデュー</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="290" y="1360"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n54" >
+<LABEL>ガリアメロン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="290" y="1410"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n55" >
+<LABEL>カサバメロン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="290" y="1460"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n56" >
+<LABEL>サンタクロースメロン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="290" y="1510"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n57" >
+<LABEL>ニンジン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="1660"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n58" >
+<LABEL>ダイコン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="1710"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n59" >
+<LABEL>ゴボウ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="1760"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n60" >
+<LABEL>カブ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="1810"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n61" >
+<LABEL>ビーツ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="1860"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n62" >
+<LABEL>ケール</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="1960"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n63" >
+<LABEL>スイスチャード</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="2010"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n64" >
+<LABEL>ほうれん草</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="2060"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n65" >
+<LABEL>アルグラ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="2110"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n66" >
+<LABEL>リーフレタス</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="2160"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n67" >
+<LABEL>トマト</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="2260"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n68" >
+<LABEL>人参</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="2310"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n69" >
+<LABEL>レタス</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="2360"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n70" >
+<LABEL>きゅうり</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="2410"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n71" >
+<LABEL>ピーマン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="2460"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n72" >
+<LABEL>大豆</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="2560"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n73" >
+<LABEL>レンズ豆</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="2610"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n74" >
+<LABEL>黒豆</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="2660"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n75" >
+<LABEL>インゲン豆</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="2710"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n76" >
+<LABEL>ひよこ豆</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="2760"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n77" >
+<LABEL>白菜類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="2860"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n78" >
+<LABEL>小松菜類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="2910"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n79" >
+<LABEL>ほうれん草類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="2960"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n80" >
+<LABEL>アスパラガス類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="3010"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n81" >
+<LABEL>セロリ類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="302" y="3060"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n82" >
+<LABEL>短粒種</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="274" y="3210"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n83" >
+<LABEL>中粒種</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="274" y="3260"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n84" >
+<LABEL>長粒種</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="274" y="3310"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n85" >
+<LABEL>玄米</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="274" y="3360"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n86" >
+<LABEL>白米</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="274" y="3410"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n87" >
+<LABEL>デュラム小麦（Triticumdurum）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="3510"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n88" >
+<LABEL>ハードレッド冬小麦（Triticumaestivumvar.lutescens）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="3560"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n89" >
+<LABEL>ソフトレッド冬小麦（Triticumaestivumvar.aestivum）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="3610"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n90" >
+<LABEL>ハードレッド春小麦（Triticumaestivumvar.erythrospermum）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="3660"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n91" >
+<LABEL>スペルト小麦（Triticumspelta）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="3710"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n92" >
+<LABEL>デントコーン（DentCorn）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="322" y="3810"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n93" >
+<LABEL>フリントコーン（FlintCorn）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="322" y="3860"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n94" >
+<LABEL>スイートコーン（SweetCorn）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="322" y="3910"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n95" >
+<LABEL>ポップコーン（Popcorn）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="322" y="3960"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n96" >
+<LABEL>ポッドコーン（PodCorn）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="322" y="4010"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n97" >
+<LABEL>二条大麦</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="4110"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n98" >
+<LABEL>六条大麦</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="4160"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n99" >
+<LABEL>裸麦</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="4210"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n100" >
+<LABEL>冬麦</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="4260"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n101" >
+<LABEL>春麦</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="4310"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n102" >
+<LABEL>ライ麦品種</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="294" y="4410"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n103" >
+<LABEL>ライ麦畑</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="294" y="4460"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n104" >
+<LABEL>ライ麦粉</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="294" y="4510"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n105" >
+<LABEL>ライ麦製パン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="294" y="4560"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n106" >
+<LABEL>ライ麦ウィスキー</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="294" y="4610"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n107" >
+<LABEL>サーロイン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="4760"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n108" >
+<LABEL>リブアイ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="4810"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n109" >
+<LABEL>テンダーロイン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="4860"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n110" >
+<LABEL>チャック</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="4910"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n111" >
+<LABEL>ブリスケット</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="4960"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n112" >
+<LABEL>バラ肉</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="5060"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n113" >
+<LABEL>肩ロース</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="5110"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n114" >
+<LABEL>ヒレ肉</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="5160"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n115" >
+<LABEL>モモ肉</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="5210"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n116" >
+<LABEL>豚バラ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="5260"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n117" >
+<LABEL>ささみ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="5360"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n118" >
+<LABEL>もも肉</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="5410"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n119" >
+<LABEL>むね肉</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="5460"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n120" >
+<LABEL>手羽先</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="5510"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n121" >
+<LABEL>砂肝</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="5560"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n122" >
+<LABEL>ラム</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="5660"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n123" >
+<LABEL>マトン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="5710"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n124" >
+<LABEL>ホゲット</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="5760"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n125" >
+<LABEL>羊脂身</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="5810"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n126" >
+<LABEL>羊しゃぶ肉</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="5860"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n127" >
+<LABEL>馬刺し</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="5960"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n128" >
+<LABEL>燻製馬肉</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="6010"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n129" >
+<LABEL>馬肉ソーセージ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="6060"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n130" >
+<LABEL>馬肉ハンバーグ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="6110"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n131" >
+<LABEL>馬肉コロッケ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="288" y="6160"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n132" >
+<LABEL>チェダー</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="308" y="6310"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n133" >
+<LABEL>ゴーダ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="308" y="6360"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n134" >
+<LABEL>ブルーチーズ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="308" y="6410"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n135" >
+<LABEL>モッツァレラ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="308" y="6460"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n136" >
+<LABEL>フェタ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="308" y="6510"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n137" >
+<LABEL>プレーンヨーグルト</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="327" y="6610"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n138" >
+<LABEL>ギリシャヨーグルト</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="327" y="6660"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n139" >
+<LABEL>ドリンクヨーグルト</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="327" y="6710"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n140" >
+<LABEL>フルーツヨーグルト</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="327" y="6760"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n141" >
+<LABEL>低脂肪ヨーグルト</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="327" y="6810"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n142" >
+<LABEL>無塩バター</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="307" y="6910"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n143" >
+<LABEL>有塩バター</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="307" y="6960"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n144" >
+<LABEL>カルチャードバター（発酵バター）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="307" y="7010"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n145" >
+<LABEL>クラリファイドバター（澄ましバター）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="307" y="7060"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n146" >
+<LABEL>ホイップバター</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="307" y="7110"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n147" >
+<LABEL>ソフトクリーム</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="346" y="7210"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n148" >
+<LABEL>シャーベット</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="346" y="7260"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n149" >
+<LABEL>ジェラート</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="346" y="7310"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n150" >
+<LABEL>サンデー</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="346" y="7360"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n151" >
+<LABEL>モチアイス</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="346" y="7410"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n152" >
+<LABEL>水ケフィア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="313" y="7510"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n153" >
+<LABEL>乳ケフィア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="313" y="7560"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n154" >
+<LABEL>穀物ケフィア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="313" y="7610"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n155" >
+<LABEL>ココナッツケフィア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="313" y="7660"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091940562_n156" >
+<LABEL>果実ケフィア</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="313" y="7710"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<ISA id="1706091940562_isa157" parent="Any" child="食品" />
+<ISA id="1706091940562_isa158" parent="食品" child="果物" />
+<ISA id="1706091940562_isa159" parent="食品" child="野菜" />
+<ISA id="1706091940562_isa160" parent="食品" child="穀物" />
+<ISA id="1706091940562_isa161" parent="食品" child="肉類" />
+<ISA id="1706091940562_isa162" parent="食品" child="乳製品" />
+<ISA id="1706091940562_isa163" parent="果物" child="リンゴ" />
+<ISA id="1706091940562_isa164" parent="果物" child="バナナ" />
+<ISA id="1706091940562_isa165" parent="果物" child="イチゴ" />
+<ISA id="1706091940562_isa166" parent="果物" child="オレンジ" />
+<ISA id="1706091940562_isa167" parent="果物" child="メロン" />
+<ISA id="1706091940562_isa168" parent="野菜" child="根菜類" />
+<ISA id="1706091940562_isa169" parent="野菜" child="葉菜類" />
+<ISA id="1706091940562_isa170" parent="野菜" child="果菜類" />
+<ISA id="1706091940562_isa171" parent="野菜" child="豆類" />
+<ISA id="1706091940562_isa172" parent="野菜" child="茎菜類" />
+<ISA id="1706091940562_isa173" parent="穀物" child="米" />
+<ISA id="1706091940562_isa174" parent="穀物" child="小麦" />
+<ISA id="1706091940562_isa175" parent="穀物" child="トウモロコシ" />
+<ISA id="1706091940562_isa176" parent="穀物" child="大麦" />
+<ISA id="1706091940562_isa177" parent="穀物" child="ライ麦" />
+<ISA id="1706091940562_isa178" parent="肉類" child="牛肉" />
+<ISA id="1706091940562_isa179" parent="肉類" child="豚肉" />
+<ISA id="1706091940562_isa180" parent="肉類" child="鶏肉" />
+<ISA id="1706091940562_isa181" parent="肉類" child="羊肉" />
+<ISA id="1706091940562_isa182" parent="肉類" child="馬肉" />
+<ISA id="1706091940562_isa183" parent="乳製品" child="チーズ" />
+<ISA id="1706091940562_isa184" parent="乳製品" child="ヨーグルト" />
+<ISA id="1706091940562_isa185" parent="乳製品" child="バター" />
+<ISA id="1706091940562_isa186" parent="乳製品" child="アイスクリーム" />
+<ISA id="1706091940562_isa187" parent="乳製品" child="ケフィア" />
+<ISA id="1706091940562_isa188" parent="リンゴ" child="フジリンゴ" />
+<ISA id="1706091940562_isa189" parent="リンゴ" child="グラニースミス" />
+<ISA id="1706091940562_isa190" parent="リンゴ" child="ガラ" />
+<ISA id="1706091940562_isa191" parent="リンゴ" child="ピンクレディ" />
+<ISA id="1706091940562_isa192" parent="リンゴ" child="ハニークリスプ" />
+<ISA id="1706091940562_isa193" parent="バナナ" child="キャベンディッシュバナナ(Cavendishbanana)" />
+<ISA id="1706091940562_isa194" parent="バナナ" child="プラターノ(Plantain)" />
+<ISA id="1706091940562_isa195" parent="バナナ" child="レッドバナナ(Redbanana)" />
+<ISA id="1706091940562_isa196" parent="バナナ" child="アップルバナナ(Applebanana)" />
+<ISA id="1706091940562_isa197" parent="バナナ" child="グロスミッシェルバナナ(GrosMichelbanana)" />
+<ISA id="1706091940562_isa198" parent="イチゴ" child="野イチゴ(Fragariavesca)" />
+<ISA id="1706091940562_isa199" parent="イチゴ" child="セイヨウノイチゴ(Fragaria×ananassa)" />
+<ISA id="1706091940562_isa200" parent="イチゴ" child="ミヤマイチゴ(Fragarianipponica)" />
+<ISA id="1706091940562_isa201" parent="イチゴ" child="オランダイチゴ(Fragaria×hollandica)" />
+<ISA id="1706091940562_isa202" parent="イチゴ" child="ハナイチゴ(Fragariaviridis)" />
+<ISA id="1706091940562_isa203" parent="オレンジ" child="バレンシアオレンジ" />
+<ISA id="1706091940562_isa204" parent="オレンジ" child="ブラッドオレンジ" />
+<ISA id="1706091940562_isa205" parent="オレンジ" child="ナベルオレンジ" />
+<ISA id="1706091940562_isa206" parent="オレンジ" child="マンダリンオレンジ" />
+<ISA id="1706091940562_isa207" parent="オレンジ" child="カラマンダリンオレンジ" />
+<ISA id="1706091940562_isa208" parent="メロン" child="カンタロープ" />
+<ISA id="1706091940562_isa209" parent="メロン" child="ハネデュー" />
+<ISA id="1706091940562_isa210" parent="メロン" child="ガリアメロン" />
+<ISA id="1706091940562_isa211" parent="メロン" child="カサバメロン" />
+<ISA id="1706091940562_isa212" parent="メロン" child="サンタクロースメロン" />
+<ISA id="1706091940562_isa213" parent="根菜類" child="ニンジン" />
+<ISA id="1706091940562_isa214" parent="根菜類" child="ダイコン" />
+<ISA id="1706091940562_isa215" parent="根菜類" child="ゴボウ" />
+<ISA id="1706091940562_isa216" parent="根菜類" child="カブ" />
+<ISA id="1706091940562_isa217" parent="根菜類" child="ビーツ" />
+<ISA id="1706091940562_isa218" parent="葉菜類" child="ケール" />
+<ISA id="1706091940562_isa219" parent="葉菜類" child="スイスチャード" />
+<ISA id="1706091940562_isa220" parent="葉菜類" child="ほうれん草" />
+<ISA id="1706091940562_isa221" parent="葉菜類" child="アルグラ" />
+<ISA id="1706091940562_isa222" parent="葉菜類" child="リーフレタス" />
+<ISA id="1706091940562_isa223" parent="果菜類" child="トマト" />
+<ISA id="1706091940562_isa224" parent="果菜類" child="人参" />
+<ISA id="1706091940562_isa225" parent="果菜類" child="レタス" />
+<ISA id="1706091940562_isa226" parent="果菜類" child="きゅうり" />
+<ISA id="1706091940562_isa227" parent="果菜類" child="ピーマン" />
+<ISA id="1706091940562_isa228" parent="豆類" child="大豆" />
+<ISA id="1706091940562_isa229" parent="豆類" child="レンズ豆" />
+<ISA id="1706091940562_isa230" parent="豆類" child="黒豆" />
+<ISA id="1706091940562_isa231" parent="豆類" child="インゲン豆" />
+<ISA id="1706091940562_isa232" parent="豆類" child="ひよこ豆" />
+<ISA id="1706091940562_isa233" parent="茎菜類" child="白菜類" />
+<ISA id="1706091940562_isa234" parent="茎菜類" child="小松菜類" />
+<ISA id="1706091940562_isa235" parent="茎菜類" child="ほうれん草類" />
+<ISA id="1706091940562_isa236" parent="茎菜類" child="アスパラガス類" />
+<ISA id="1706091940562_isa237" parent="茎菜類" child="セロリ類" />
+<ISA id="1706091940562_isa238" parent="米" child="短粒種" />
+<ISA id="1706091940562_isa239" parent="米" child="中粒種" />
+<ISA id="1706091940562_isa240" parent="米" child="長粒種" />
+<ISA id="1706091940562_isa241" parent="米" child="玄米" />
+<ISA id="1706091940562_isa242" parent="米" child="白米" />
+<ISA id="1706091940562_isa243" parent="小麦" child="デュラム小麦（Triticumdurum）" />
+<ISA id="1706091940562_isa244" parent="小麦" child="ハードレッド冬小麦（Triticumaestivumvar.lutescens）" />
+<ISA id="1706091940562_isa245" parent="小麦" child="ソフトレッド冬小麦（Triticumaestivumvar.aestivum）" />
+<ISA id="1706091940562_isa246" parent="小麦" child="ハードレッド春小麦（Triticumaestivumvar.erythrospermum）" />
+<ISA id="1706091940562_isa247" parent="小麦" child="スペルト小麦（Triticumspelta）" />
+<ISA id="1706091940562_isa248" parent="トウモロコシ" child="デントコーン（DentCorn）" />
+<ISA id="1706091940562_isa249" parent="トウモロコシ" child="フリントコーン（FlintCorn）" />
+<ISA id="1706091940562_isa250" parent="トウモロコシ" child="スイートコーン（SweetCorn）" />
+<ISA id="1706091940562_isa251" parent="トウモロコシ" child="ポップコーン（Popcorn）" />
+<ISA id="1706091940562_isa252" parent="トウモロコシ" child="ポッドコーン（PodCorn）" />
+<ISA id="1706091940562_isa253" parent="大麦" child="二条大麦" />
+<ISA id="1706091940562_isa254" parent="大麦" child="六条大麦" />
+<ISA id="1706091940562_isa255" parent="大麦" child="裸麦" />
+<ISA id="1706091940562_isa256" parent="大麦" child="冬麦" />
+<ISA id="1706091940562_isa257" parent="大麦" child="春麦" />
+<ISA id="1706091940562_isa258" parent="ライ麦" child="ライ麦品種" />
+<ISA id="1706091940562_isa259" parent="ライ麦" child="ライ麦畑" />
+<ISA id="1706091940562_isa260" parent="ライ麦" child="ライ麦粉" />
+<ISA id="1706091940562_isa261" parent="ライ麦" child="ライ麦製パン" />
+<ISA id="1706091940562_isa262" parent="ライ麦" child="ライ麦ウィスキー" />
+<ISA id="1706091940562_isa263" parent="牛肉" child="サーロイン" />
+<ISA id="1706091940562_isa264" parent="牛肉" child="リブアイ" />
+<ISA id="1706091940562_isa265" parent="牛肉" child="テンダーロイン" />
+<ISA id="1706091940562_isa266" parent="牛肉" child="チャック" />
+<ISA id="1706091940562_isa267" parent="牛肉" child="ブリスケット" />
+<ISA id="1706091940562_isa268" parent="豚肉" child="バラ肉" />
+<ISA id="1706091940562_isa269" parent="豚肉" child="肩ロース" />
+<ISA id="1706091940562_isa270" parent="豚肉" child="ヒレ肉" />
+<ISA id="1706091940562_isa271" parent="豚肉" child="モモ肉" />
+<ISA id="1706091940562_isa272" parent="豚肉" child="豚バラ" />
+<ISA id="1706091940562_isa273" parent="鶏肉" child="ささみ" />
+<ISA id="1706091940562_isa274" parent="鶏肉" child="もも肉" />
+<ISA id="1706091940562_isa275" parent="鶏肉" child="むね肉" />
+<ISA id="1706091940562_isa276" parent="鶏肉" child="手羽先" />
+<ISA id="1706091940562_isa277" parent="鶏肉" child="砂肝" />
+<ISA id="1706091940562_isa278" parent="羊肉" child="ラム" />
+<ISA id="1706091940562_isa279" parent="羊肉" child="マトン" />
+<ISA id="1706091940562_isa280" parent="羊肉" child="ホゲット" />
+<ISA id="1706091940562_isa281" parent="羊肉" child="羊脂身" />
+<ISA id="1706091940562_isa282" parent="羊肉" child="羊しゃぶ肉" />
+<ISA id="1706091940562_isa283" parent="馬肉" child="馬刺し" />
+<ISA id="1706091940562_isa284" parent="馬肉" child="燻製馬肉" />
+<ISA id="1706091940562_isa285" parent="馬肉" child="馬肉ソーセージ" />
+<ISA id="1706091940562_isa286" parent="馬肉" child="馬肉ハンバーグ" />
+<ISA id="1706091940562_isa287" parent="馬肉" child="馬肉コロッケ" />
+<ISA id="1706091940562_isa288" parent="チーズ" child="チェダー" />
+<ISA id="1706091940562_isa289" parent="チーズ" child="ゴーダ" />
+<ISA id="1706091940562_isa290" parent="チーズ" child="ブルーチーズ" />
+<ISA id="1706091940562_isa291" parent="チーズ" child="モッツァレラ" />
+<ISA id="1706091940562_isa292" parent="チーズ" child="フェタ" />
+<ISA id="1706091940562_isa293" parent="ヨーグルト" child="プレーンヨーグルト" />
+<ISA id="1706091940562_isa294" parent="ヨーグルト" child="ギリシャヨーグルト" />
+<ISA id="1706091940562_isa295" parent="ヨーグルト" child="ドリンクヨーグルト" />
+<ISA id="1706091940562_isa296" parent="ヨーグルト" child="フルーツヨーグルト" />
+<ISA id="1706091940562_isa297" parent="ヨーグルト" child="低脂肪ヨーグルト" />
+<ISA id="1706091940562_isa298" parent="バター" child="無塩バター" />
+<ISA id="1706091940562_isa299" parent="バター" child="有塩バター" />
+<ISA id="1706091940562_isa300" parent="バター" child="カルチャードバター（発酵バター）" />
+<ISA id="1706091940562_isa301" parent="バター" child="クラリファイドバター（澄ましバター）" />
+<ISA id="1706091940562_isa302" parent="バター" child="ホイップバター" />
+<ISA id="1706091940562_isa303" parent="アイスクリーム" child="ソフトクリーム" />
+<ISA id="1706091940562_isa304" parent="アイスクリーム" child="シャーベット" />
+<ISA id="1706091940562_isa305" parent="アイスクリーム" child="ジェラート" />
+<ISA id="1706091940562_isa306" parent="アイスクリーム" child="サンデー" />
+<ISA id="1706091940562_isa307" parent="アイスクリーム" child="モチアイス" />
+<ISA id="1706091940562_isa308" parent="ケフィア" child="水ケフィア" />
+<ISA id="1706091940562_isa309" parent="ケフィア" child="乳ケフィア" />
+<ISA id="1706091940562_isa310" parent="ケフィア" child="穀物ケフィア" />
+<ISA id="1706091940562_isa311" parent="ケフィア" child="ココナッツケフィア" />
+<ISA id="1706091940562_isa312" parent="ケフィア" child="果実ケフィア" />
+</W_CONCEPTS>
+<R_CONCEPTS>
+<CANVAS_SIZE w="2000" h="3000" />
+</R_CONCEPTS>
+<PRINTER>
+<PAGE_SETTINGS header="true" footer="true" cropmarks="true" scale="100" />
+<PAGE_FORMAT w="595.1905511811024" h="841.8047244094488" iw="451.19055118110236" ih="697.8047244094488" ix="72.0" iy="72.0" />
+<PRINTER_SETTINGS orientation="1" printername="EPSON EP-883A Series" />
+</PRINTER>
+</OE_FILE>

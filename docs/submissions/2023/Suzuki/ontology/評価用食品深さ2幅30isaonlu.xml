@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OE_FILE filename="評価用食品深さ2幅30isaonlu.xml" ont_id="1706091804635ont" >
+<FILENAME_ONT>評価用食品深さ2幅30isaonlu.xml</FILENAME_ONT>
+<W_CONCEPTS>
+<CANVAS_SIZE w="2000" h="105053" x="0" y="0" />
+<CONCEPT id="1706091804635_n0" >
+<LABEL>Any</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10"/>
+<SUB_TREE>open</SUB_TREE>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n1" >
+<LABEL>食品</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="78" y="35"/>
+<SUB_TREE>open</SUB_TREE>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n2" >
+<LABEL>野菜</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="60"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n3" >
+<LABEL>果物</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="110"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n4" >
+<LABEL>穀物</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="160"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n5" >
+<LABEL>肉類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="210"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n6" >
+<LABEL>魚介類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="260"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n7" >
+<LABEL>乳製品</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="310"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n8" >
+<LABEL>卵</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="360"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n9" >
+<LABEL>豆類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="410"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n10" >
+<LABEL>ナッツ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="460"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n11" >
+<LABEL>種子</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="510"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n12" >
+<LABEL>菌類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="560"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n13" >
+<LABEL>淡水産物</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="610"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n14" >
+<LABEL>海藻類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="660"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n15" >
+<LABEL>香辛料</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="710"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n16" >
+<LABEL>油脂</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="760"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n17" >
+<LABEL>スイーツ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="810"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n18" >
+<LABEL>スナック食品</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="860"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n19" >
+<LABEL>パン類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="910"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n20" >
+<LABEL>パスタ類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="960"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n21" >
+<LABEL>米飯類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="1010"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n22" >
+<LABEL>調理済み食品</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="1060"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n23" >
+<LABEL>冷凍食品</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="1110"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n24" >
+<LABEL>缶詰</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="1160"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n25" >
+<LABEL>乾燥食品</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="1210"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n26" >
+<LABEL>加工食品</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="1260"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n27" >
+<LABEL>飲料</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="1310"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n28" >
+<LABEL>スープ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="1360"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n29" >
+<LABEL>サラダ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="1410"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n30" >
+<LABEL>サンドイッチ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="1460"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091804635_n31" >
+<LABEL>ピザ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="148" y="1510"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<ISA id="1706091804635_isa32" parent="Any" child="食品" />
+<ISA id="1706091804635_isa33" parent="食品" child="野菜" />
+<ISA id="1706091804635_isa34" parent="食品" child="果物" />
+<ISA id="1706091804635_isa35" parent="食品" child="穀物" />
+<ISA id="1706091804635_isa36" parent="食品" child="肉類" />
+<ISA id="1706091804635_isa37" parent="食品" child="魚介類" />
+<ISA id="1706091804635_isa38" parent="食品" child="乳製品" />
+<ISA id="1706091804635_isa39" parent="食品" child="卵" />
+<ISA id="1706091804635_isa40" parent="食品" child="豆類" />
+<ISA id="1706091804635_isa41" parent="食品" child="ナッツ" />
+<ISA id="1706091804635_isa42" parent="食品" child="種子" />
+<ISA id="1706091804635_isa43" parent="食品" child="菌類" />
+<ISA id="1706091804635_isa44" parent="食品" child="淡水産物" />
+<ISA id="1706091804635_isa45" parent="食品" child="海藻類" />
+<ISA id="1706091804635_isa46" parent="食品" child="香辛料" />
+<ISA id="1706091804635_isa47" parent="食品" child="油脂" />
+<ISA id="1706091804635_isa48" parent="食品" child="スイーツ" />
+<ISA id="1706091804635_isa49" parent="食品" child="スナック食品" />
+<ISA id="1706091804635_isa50" parent="食品" child="パン類" />
+<ISA id="1706091804635_isa51" parent="食品" child="パスタ類" />
+<ISA id="1706091804635_isa52" parent="食品" child="米飯類" />
+<ISA id="1706091804635_isa53" parent="食品" child="調理済み食品" />
+<ISA id="1706091804635_isa54" parent="食品" child="冷凍食品" />
+<ISA id="1706091804635_isa55" parent="食品" child="缶詰" />
+<ISA id="1706091804635_isa56" parent="食品" child="乾燥食品" />
+<ISA id="1706091804635_isa57" parent="食品" child="加工食品" />
+<ISA id="1706091804635_isa58" parent="食品" child="飲料" />
+<ISA id="1706091804635_isa59" parent="食品" child="スープ" />
+<ISA id="1706091804635_isa60" parent="食品" child="サラダ" />
+<ISA id="1706091804635_isa61" parent="食品" child="サンドイッチ" />
+<ISA id="1706091804635_isa62" parent="食品" child="ピザ" />
+</W_CONCEPTS>
+<R_CONCEPTS>
+<CANVAS_SIZE w="2000" h="3000" />
+</R_CONCEPTS>
+<PRINTER>
+<PAGE_SETTINGS header="true" footer="true" cropmarks="true" scale="100" />
+<PAGE_FORMAT w="595.1905511811024" h="841.8047244094488" iw="451.19055118110236" ih="697.8047244094488" ix="72.0" iy="72.0" />
+<PRINTER_SETTINGS orientation="1" printername="EPSON EP-883A Series" />
+</PRINTER>
+</OE_FILE>

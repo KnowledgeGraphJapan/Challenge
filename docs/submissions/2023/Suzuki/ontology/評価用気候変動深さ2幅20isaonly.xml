@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OE_FILE filename="評価用気候変動深さ2幅20.xml" ont_id="1706091004188ont" >
+<FILENAME_ONT>評価用気候変動深さ2幅20.xml</FILENAME_ONT>
+<W_CONCEPTS>
+<CANVAS_SIZE w="2000" h="103413" x="0" y="2501" />
+<CONCEPT id="1706091004188_n0" >
+<LABEL>Any</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10"/>
+<SUB_TREE>open</SUB_TREE>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091004188_n1" >
+<LABEL>気候変動</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="51"/>
+<SUB_TREE>open</SUB_TREE>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091004188_n2" >
+<LABEL>温室効果ガス排出</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1773"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091004188_n3" >
+<LABEL>化石燃料利用</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1855"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091004188_n4" >
+<LABEL>森林伐採</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1937"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091004188_n5" >
+<LABEL>海面上昇</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2019"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091004188_n6" >
+<LABEL>気温上昇</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2101"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091004188_n7" >
+<LABEL>異常気象</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2183"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091004188_n8" >
+<LABEL>熱波</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2265"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091004188_n9" >
+<LABEL>干ばつ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2347"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091004188_n10" >
+<LABEL>洪水</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2429"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091004188_n11" >
+<LABEL>台風ハリケーン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2511"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091004188_n12" >
+<LABEL>食料不安</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2593"/>
+<RELATIONS>
+</RELATIONS>
+<SUB_L label="" def="" role_name="" class_const="" rh_name ="" value ="" />
+</CONCEPT>
+<CONCEPT id="1706091004188_n13" >
+<LABEL>生態系の変化</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2675"/>
+<RELATIONS>
+</RELATIONS>
+<SUB_L label="" def="" role_name="" class_const="" rh_name ="" value ="" />
+</CONCEPT>
+<CONCEPT id="1706091004188_n14" >
+<LABEL>永久凍土の融解</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2757"/>
+<RELATIONS>
+</RELATIONS>
+<SUB_L label="" def="" role_name="" class_const="" rh_name ="" value ="" />
+</CONCEPT>
+<CONCEPT id="1706091004188_n15" >
+<LABEL>気候難民</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2839"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091004188_n16" >
+<LABEL>地球温暖化</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2921"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091004188_n17" >
+<LABEL>二酸化炭素濃度の増加</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3003"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091004188_n18" >
+<LABEL>気候変動政策</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3085"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091004188_n19" >
+<LABEL>再生可能エネルギーの普及</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3167"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091004188_n20" >
+<LABEL>炭素排出権取引</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3249"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091004188_n21" >
+<LABEL>気候変動適応策</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3331"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<ISA id="1706091004188_isa22" parent="Any" child="気候変動" />
+<ISA id="1706091004188_isa23" parent="気候変動" child="温室効果ガス排出" />
+<ISA id="1706091004188_isa24" parent="気候変動" child="化石燃料利用" />
+<ISA id="1706091004188_isa25" parent="気候変動" child="森林伐採" />
+<ISA id="1706091004188_isa26" parent="気候変動" child="海面上昇" />
+<ISA id="1706091004188_isa27" parent="気候変動" child="気温上昇" />
+<ISA id="1706091004188_isa28" parent="気候変動" child="異常気象" />
+<ISA id="1706091004188_isa29" parent="気候変動" child="熱波" />
+<ISA id="1706091004188_isa30" parent="気候変動" child="干ばつ" />
+<ISA id="1706091004188_isa31" parent="気候変動" child="洪水" />
+<ISA id="1706091004188_isa32" parent="気候変動" child="台風ハリケーン" />
+<ISA id="1706091004188_isa33" parent="気候変動" child="食料不安" />
+<ISA id="1706091004188_isa34" parent="気候変動" child="生態系の変化" />
+<ISA id="1706091004188_isa35" parent="気候変動" child="永久凍土の融解" />
+<ISA id="1706091004188_isa36" parent="気候変動" child="気候難民" />
+<ISA id="1706091004188_isa37" parent="気候変動" child="地球温暖化" />
+<ISA id="1706091004188_isa38" parent="気候変動" child="二酸化炭素濃度の増加" />
+<ISA id="1706091004188_isa39" parent="気候変動" child="気候変動政策" />
+<ISA id="1706091004188_isa40" parent="気候変動" child="再生可能エネルギーの普及" />
+<ISA id="1706091004188_isa41" parent="気候変動" child="炭素排出権取引" />
+<ISA id="1706091004188_isa42" parent="気候変動" child="気候変動適応策" />
+</W_CONCEPTS>
+<R_CONCEPTS>
+<CANVAS_SIZE w="2000" h="3000" />
+</R_CONCEPTS>
+<PRINTER>
+<PAGE_SETTINGS header="true" footer="true" cropmarks="true" scale="100" />
+<PAGE_FORMAT w="595.1905511811024" h="841.8047244094488" iw="451.19055118110236" ih="697.8047244094488" ix="72.0" iy="72.0" />
+<PRINTER_SETTINGS orientation="1" printername="EPSON EP-883A Series" />
+</PRINTER>
+</OE_FILE>

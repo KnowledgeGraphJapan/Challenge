@@ -1,0 +1,1376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OE_FILE filename="評価要気候変動深さ4幅5.xml" ont_id="1706091085298ont" >
+<FILENAME_ONT>評価要気候変動深さ4幅5.xml</FILENAME_ONT>
+<W_CONCEPTS>
+<CANVAS_SIZE w="2000" h="112843" x="0" y="0" />
+<CONCEPT id="1706091085298_n0" >
+<LABEL>Any</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10"/>
+<SUB_TREE>open</SUB_TREE>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n1" >
+<LABEL>気候変動</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="12269"/>
+<SUB_TREE>open</SUB_TREE>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n2" >
+<LABEL>温室効果ガス排出</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="543"/>
+<SUB_TREE>open</SUB_TREE>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n3" >
+<LABEL>気候変動適応策</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="625"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n4" >
+<LABEL>海面上昇</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="707"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n5" >
+<LABEL>極端気象事象</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="789"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n6" >
+<LABEL>生態系への影響</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="871"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n7" >
+<LABEL>二酸化炭素(CO2)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="953"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n8" >
+<LABEL>メタン(CH4)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1035"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n9" >
+<LABEL>亜酸化窒素(N2O)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1117"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n10" >
+<LABEL>フルオロカーボン(PFCs)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1199"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n11" >
+<LABEL>ハイドロフルオロカーボン(HFCs)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1281"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n12" >
+<LABEL>防潮堤の建設</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1363"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n13" >
+<LABEL>都市緑化</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1445"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n14" >
+<LABEL>排水システムの強化</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1527"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n15" >
+<LABEL>耐久作物の開発</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1609"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n16" >
+<LABEL>水資源管理の改善</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1691"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n17" >
+<LABEL>氷河の融解</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1773"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n18" >
+<LABEL>熱膨張</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1855"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n19" >
+<LABEL>氷床の崩壊</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1937"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n20" >
+<LABEL>永久凍土の融解</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2019"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n21" >
+<LABEL>極地の氷の減少</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2101"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n22" >
+<LABEL>洪水</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2183"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n23" >
+<LABEL>干ばつ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2265"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n24" >
+<LABEL>ハリケーン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2347"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n25" >
+<LABEL>熱波</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2429"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n26" >
+<LABEL>豪雪</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2511"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n27" >
+<LABEL>生物多様性の減少</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2593"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n28" >
+<LABEL>種の絶滅</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2675"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n29" >
+<LABEL>環境汚染</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2757"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n30" >
+<LABEL>生態バランスの変動</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2839"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n31" >
+<LABEL>自然資源の枯渇</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2921"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n32" >
+<LABEL>温室効果ガス</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3003"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n33" >
+<LABEL>光合成の反応物</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3085"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n34" >
+<LABEL>炭酸の発泡源</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3167"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n35" >
+<LABEL>化石燃料の燃焼副産物</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3249"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n36" >
+<LABEL>室内空気の品質指標</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3331"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n37" >
+<LABEL>天然ガス成分</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3413"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n38" >
+<LABEL>有機化合物</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3495"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n39" >
+<LABEL>燃料ガス</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3577"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n40" >
+<LABEL>生物由来メタン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3659"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n41" >
+<LABEL>麻酔剤</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3741"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n42" >
+<LABEL>酸化剤</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3823"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n43" >
+<LABEL>温室ガス排出源</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3905"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n44" >
+<LABEL>大気汚染物質</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3987"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n45" >
+<LABEL>フルオロアルカン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4069"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n46" >
+<LABEL>フルオロアルケン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4151"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n47" >
+<LABEL>フルオロアルキン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4233"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n48" >
+<LABEL>ペルフルオロポリエーテル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4315"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n49" >
+<LABEL>フルオロエーテル</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4397"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n50" >
+<LABEL>HFC-23</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4479"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n51" >
+<LABEL>HFC-134a</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4561"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n52" >
+<LABEL>HFC-32</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4643"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n53" >
+<LABEL>HFC-125</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4725"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n54" >
+<LABEL>HFC-152a</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4807"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n55" >
+<LABEL>石積み防潮堤</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4889"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n56" >
+<LABEL>鋼製防潮堤</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4971"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n57" >
+<LABEL>土木防潮堤</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5053"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n58" >
+<LABEL>生態工学防潮堤</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5135"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n59" >
+<LABEL>コンクリート防潮堤</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5217"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n60" >
+<LABEL>公園緑化</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5299"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n61" >
+<LABEL>屋上緑化</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5381"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n62" >
+<LABEL>壁面緑化</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5463"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n63" >
+<LABEL>樹木植栽</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5545"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n64" >
+<LABEL>花壇設置</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5627"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n65" >
+<LABEL>排水容量の向上</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5709"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n66" >
+<LABEL>耐候性の強化</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5791"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n67" >
+<LABEL>耐腐食性材料の利用</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5873"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n68" >
+<LABEL>自己清掃機能の組み込み</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5955"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n69" >
+<LABEL>浸透性の向上</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6037"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n70" >
+<LABEL>耐寒性作物</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6119"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n71" >
+<LABEL>耐乾性作物</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6201"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n72" >
+<LABEL>耐塩性作物</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6283"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n73" >
+<LABEL>耐病性作物</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6365"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n74" >
+<LABEL>耐害虫性作物</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6447"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n75" >
+<LABEL>流域管理</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6529"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n76" >
+<LABEL>需給調整</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6611"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n77" >
+<LABEL>水質保全</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6693"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n78" >
+<LABEL>インフラ整備</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6775"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n79" >
+<LABEL>エコシステム保護</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6857"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n80" >
+<LABEL>氷床崩壊</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6939"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n81" >
+<LABEL>氷河後退</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7021"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n82" >
+<LABEL>アイスシェルフ崩落</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7103"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n83" >
+<LABEL>氷河湖排水</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7185"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n84" >
+<LABEL>ペリグラシャル過程</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7267"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n85" >
+<LABEL>固体膨張</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7349"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n86" >
+<LABEL>液体膨張</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7431"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n87" >
+<LABEL>気体膨張</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7513"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n88" >
+<LABEL>線膨張</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7595"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n89" >
+<LABEL>面膨張</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7677"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n90" >
+<LABEL>氷河湖決壊洪水</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7759"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n91" >
+<LABEL>棚氷崩壊</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7841"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n92" >
+<LABEL>カルビング</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7923"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n93" >
+<LABEL>表面融解</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8005"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n94" >
+<LABEL>基底滑動</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8087"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n95" >
+<LABEL>熱融解</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8169"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n96" >
+<LABEL>生物活動による融解</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8251"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n97" >
+<LABEL>海水の侵入による融解</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8333"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n98" >
+<LABEL>化学的変化による融解</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8415"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n99" >
+<LABEL>地理的変動による融解</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8497"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n100" >
+<LABEL>海氷の減少</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8579"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n101" >
+<LABEL>氷河の後退</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8661"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n102" >
+<LABEL>棚氷の崩壊</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8743"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n103" >
+<LABEL>雪氷帯の縮小</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8825"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n104" >
+<LABEL>洪水氾濫(floodinundation)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8907"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n105" >
+<LABEL>河川洪水(riverflood)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8989"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n106" >
+<LABEL>都市洪水(urbanflood)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9071"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n107" >
+<LABEL>閃光洪水(flashflood)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9153"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n108" >
+<LABEL>海岸洪水(coastalflood)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9235"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n109" >
+<LABEL>農業干ばつ(AgriculturalDrought)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9317"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n110" >
+<LABEL>気象干ばつ(MeteorologicalDrought)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9399"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n111" >
+<LABEL>土壌水分干ばつ(SoilMoistureDrought)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9481"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n112" >
+<LABEL>水供給干ばつ(HydrologicalDrought)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9563"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n113" >
+<LABEL>社会経済干ばつ(SocioeconomicDrought)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9645"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n114" >
+<LABEL>カテゴリー1ハリケーン（Category1Hurricane）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9727"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n115" >
+<LABEL>カテゴリー2ハリケーン（Category2Hurricane）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9809"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n116" >
+<LABEL>カテゴリー3ハリケーン（Category3Hurricane）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9891"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n117" >
+<LABEL>カテゴリー4ハリケーン（Category4Hurricane）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9973"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n118" >
+<LABEL>カテゴリー5ハリケーン（Category5Hurricane）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10055"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n119" >
+<LABEL>熱帯夜</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10137"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n120" >
+<LABEL>高温警戒日</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10219"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n121" >
+<LABEL>サンストローク</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10301"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n122" >
+<LABEL>オアシス効果</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10383"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n123" >
+<LABEL>吹雪(Blizzard)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10465"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n124" >
+<LABEL>大雪(HeavySnowfall)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10547"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n125" >
+<LABEL>雪嵐(Snowstorm)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10629"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n126" >
+<LABEL>積雪(SnowAccumulation)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10711"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n127" >
+<LABEL>斜面崩壊性の雪崩(Avalanche)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10793"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n128" >
+<LABEL>生息地喪失</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10875"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n129" >
+<LABEL>侵略的外来種の拡散</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10957"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n130" >
+<LABEL>過剰な資源採取</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11039"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n131" >
+<LABEL>気候変動による影響</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11121"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n132" >
+<LABEL>汚染物質の拡散</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11203"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n133" >
+<LABEL>人為的絶滅（Anthropogenicextinction）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11285"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n134" >
+<LABEL>自然絶滅（Naturalextinction）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11367"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n135" >
+<LABEL>大量絶滅（Massextinction）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11449"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n136" >
+<LABEL>背景絶滅（Backgroundextinction）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11531"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n137" >
+<LABEL>局地絶滅（Localextinction）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11613"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n138" >
+<LABEL>大気汚染</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11695"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n139" >
+<LABEL>水質汚染</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11777"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n140" >
+<LABEL>土壌汚染</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11859"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n141" >
+<LABEL>騒音汚染</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="11941"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n142" >
+<LABEL>光害</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="12023"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n143" >
+<LABEL>生息地破壊</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="12105"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n144" >
+<LABEL>外来種の侵入</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="12187"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n145" >
+<LABEL>過剰採取</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="12351"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n146" >
+<LABEL>石油資源の枯渇</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="12433"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n147" >
+<LABEL>鉱物資源の枯渇</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="12515"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n148" >
+<LABEL>水資源の枯渇</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="12597"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n149" >
+<LABEL>森林資源の枯渇</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="12679"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706091085298_n150" >
+<LABEL>漁業資源の枯渇</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="12761"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<ISA id="1706091085298_isa151" parent="Any" child="気候変動" />
+<ISA id="1706091085298_isa152" parent="気候変動" child="温室効果ガス排出" />
+<ISA id="1706091085298_isa153" parent="気候変動" child="気候変動適応策" />
+<ISA id="1706091085298_isa154" parent="気候変動" child="海面上昇" />
+<ISA id="1706091085298_isa155" parent="気候変動" child="極端気象事象" />
+<ISA id="1706091085298_isa156" parent="気候変動" child="生態系への影響" />
+<ISA id="1706091085298_isa157" parent="温室効果ガス排出" child="二酸化炭素(CO2)" />
+<ISA id="1706091085298_isa158" parent="温室効果ガス排出" child="メタン(CH4)" />
+<ISA id="1706091085298_isa159" parent="温室効果ガス排出" child="亜酸化窒素(N2O)" />
+<ISA id="1706091085298_isa160" parent="温室効果ガス排出" child="フルオロカーボン(PFCs)" />
+<ISA id="1706091085298_isa161" parent="温室効果ガス排出" child="ハイドロフルオロカーボン(HFCs)" />
+<ISA id="1706091085298_isa162" parent="気候変動適応策" child="防潮堤の建設" />
+<ISA id="1706091085298_isa163" parent="気候変動適応策" child="都市緑化" />
+<ISA id="1706091085298_isa164" parent="気候変動適応策" child="排水システムの強化" />
+<ISA id="1706091085298_isa165" parent="気候変動適応策" child="耐久作物の開発" />
+<ISA id="1706091085298_isa166" parent="気候変動適応策" child="水資源管理の改善" />
+<ISA id="1706091085298_isa167" parent="海面上昇" child="氷河の融解" />
+<ISA id="1706091085298_isa168" parent="海面上昇" child="熱膨張" />
+<ISA id="1706091085298_isa169" parent="海面上昇" child="氷床の崩壊" />
+<ISA id="1706091085298_isa170" parent="海面上昇" child="永久凍土の融解" />
+<ISA id="1706091085298_isa171" parent="海面上昇" child="極地の氷の減少" />
+<ISA id="1706091085298_isa172" parent="極端気象事象" child="洪水" />
+<ISA id="1706091085298_isa173" parent="極端気象事象" child="干ばつ" />
+<ISA id="1706091085298_isa174" parent="極端気象事象" child="ハリケーン" />
+<ISA id="1706091085298_isa175" parent="極端気象事象" child="熱波" />
+<ISA id="1706091085298_isa176" parent="極端気象事象" child="豪雪" />
+<ISA id="1706091085298_isa177" parent="生態系への影響" child="生物多様性の減少" />
+<ISA id="1706091085298_isa178" parent="生態系への影響" child="種の絶滅" />
+<ISA id="1706091085298_isa179" parent="生態系への影響" child="環境汚染" />
+<ISA id="1706091085298_isa180" parent="生態系への影響" child="生態バランスの変動" />
+<ISA id="1706091085298_isa181" parent="生態系への影響" child="自然資源の枯渇" />
+<ISA id="1706091085298_isa182" parent="二酸化炭素(CO2)" child="温室効果ガス" />
+<ISA id="1706091085298_isa183" parent="二酸化炭素(CO2)" child="光合成の反応物" />
+<ISA id="1706091085298_isa184" parent="二酸化炭素(CO2)" child="炭酸の発泡源" />
+<ISA id="1706091085298_isa185" parent="二酸化炭素(CO2)" child="化石燃料の燃焼副産物" />
+<ISA id="1706091085298_isa186" parent="二酸化炭素(CO2)" child="室内空気の品質指標" />
+<ISA id="1706091085298_isa187" parent="メタン(CH4)" child="天然ガス成分" />
+<ISA id="1706091085298_isa188" parent="メタン(CH4)" child="有機化合物" />
+<ISA id="1706091085298_isa189" parent="メタン(CH4)" child="燃料ガス" />
+<ISA id="1706091085298_isa190" parent="メタン(CH4)" child="生物由来メタン" />
+<ISA id="1706091085298_isa191" parent="亜酸化窒素(N2O)" child="麻酔剤" />
+<ISA id="1706091085298_isa192" parent="亜酸化窒素(N2O)" child="酸化剤" />
+<ISA id="1706091085298_isa193" parent="亜酸化窒素(N2O)" child="温室ガス排出源" />
+<ISA id="1706091085298_isa194" parent="亜酸化窒素(N2O)" child="大気汚染物質" />
+<ISA id="1706091085298_isa195" parent="フルオロカーボン(PFCs)" child="フルオロアルカン" />
+<ISA id="1706091085298_isa196" parent="フルオロカーボン(PFCs)" child="フルオロアルケン" />
+<ISA id="1706091085298_isa197" parent="フルオロカーボン(PFCs)" child="フルオロアルキン" />
+<ISA id="1706091085298_isa198" parent="フルオロカーボン(PFCs)" child="ペルフルオロポリエーテル" />
+<ISA id="1706091085298_isa199" parent="フルオロカーボン(PFCs)" child="フルオロエーテル" />
+<ISA id="1706091085298_isa200" parent="ハイドロフルオロカーボン(HFCs)" child="HFC-23" />
+<ISA id="1706091085298_isa201" parent="ハイドロフルオロカーボン(HFCs)" child="HFC-134a" />
+<ISA id="1706091085298_isa202" parent="ハイドロフルオロカーボン(HFCs)" child="HFC-32" />
+<ISA id="1706091085298_isa203" parent="ハイドロフルオロカーボン(HFCs)" child="HFC-125" />
+<ISA id="1706091085298_isa204" parent="ハイドロフルオロカーボン(HFCs)" child="HFC-152a" />
+<ISA id="1706091085298_isa205" parent="防潮堤の建設" child="石積み防潮堤" />
+<ISA id="1706091085298_isa206" parent="防潮堤の建設" child="鋼製防潮堤" />
+<ISA id="1706091085298_isa207" parent="防潮堤の建設" child="土木防潮堤" />
+<ISA id="1706091085298_isa208" parent="防潮堤の建設" child="生態工学防潮堤" />
+<ISA id="1706091085298_isa209" parent="防潮堤の建設" child="コンクリート防潮堤" />
+<ISA id="1706091085298_isa210" parent="都市緑化" child="公園緑化" />
+<ISA id="1706091085298_isa211" parent="都市緑化" child="屋上緑化" />
+<ISA id="1706091085298_isa212" parent="都市緑化" child="壁面緑化" />
+<ISA id="1706091085298_isa213" parent="都市緑化" child="樹木植栽" />
+<ISA id="1706091085298_isa214" parent="都市緑化" child="花壇設置" />
+<ISA id="1706091085298_isa215" parent="排水システムの強化" child="排水容量の向上" />
+<ISA id="1706091085298_isa216" parent="排水システムの強化" child="耐候性の強化" />
+<ISA id="1706091085298_isa217" parent="排水システムの強化" child="耐腐食性材料の利用" />
+<ISA id="1706091085298_isa218" parent="排水システムの強化" child="自己清掃機能の組み込み" />
+<ISA id="1706091085298_isa219" parent="排水システムの強化" child="浸透性の向上" />
+<ISA id="1706091085298_isa220" parent="耐久作物の開発" child="耐寒性作物" />
+<ISA id="1706091085298_isa221" parent="耐久作物の開発" child="耐乾性作物" />
+<ISA id="1706091085298_isa222" parent="耐久作物の開発" child="耐塩性作物" />
+<ISA id="1706091085298_isa223" parent="耐久作物の開発" child="耐病性作物" />
+<ISA id="1706091085298_isa224" parent="耐久作物の開発" child="耐害虫性作物" />
+<ISA id="1706091085298_isa225" parent="水資源管理の改善" child="流域管理" />
+<ISA id="1706091085298_isa226" parent="水資源管理の改善" child="需給調整" />
+<ISA id="1706091085298_isa227" parent="水資源管理の改善" child="水質保全" />
+<ISA id="1706091085298_isa228" parent="水資源管理の改善" child="インフラ整備" />
+<ISA id="1706091085298_isa229" parent="水資源管理の改善" child="エコシステム保護" />
+<ISA id="1706091085298_isa230" parent="氷河の融解" child="氷床崩壊" />
+<ISA id="1706091085298_isa231" parent="氷河の融解" child="氷河後退" />
+<ISA id="1706091085298_isa232" parent="氷河の融解" child="アイスシェルフ崩落" />
+<ISA id="1706091085298_isa233" parent="氷河の融解" child="氷河湖排水" />
+<ISA id="1706091085298_isa234" parent="氷河の融解" child="ペリグラシャル過程" />
+<ISA id="1706091085298_isa235" parent="熱膨張" child="固体膨張" />
+<ISA id="1706091085298_isa236" parent="熱膨張" child="液体膨張" />
+<ISA id="1706091085298_isa237" parent="熱膨張" child="気体膨張" />
+<ISA id="1706091085298_isa238" parent="熱膨張" child="線膨張" />
+<ISA id="1706091085298_isa239" parent="熱膨張" child="面膨張" />
+<ISA id="1706091085298_isa240" parent="氷床の崩壊" child="氷河湖決壊洪水" />
+<ISA id="1706091085298_isa241" parent="氷床の崩壊" child="棚氷崩壊" />
+<ISA id="1706091085298_isa242" parent="氷床の崩壊" child="カルビング" />
+<ISA id="1706091085298_isa243" parent="氷床の崩壊" child="表面融解" />
+<ISA id="1706091085298_isa244" parent="氷床の崩壊" child="基底滑動" />
+<ISA id="1706091085298_isa245" parent="永久凍土の融解" child="熱融解" />
+<ISA id="1706091085298_isa246" parent="永久凍土の融解" child="生物活動による融解" />
+<ISA id="1706091085298_isa247" parent="永久凍土の融解" child="海水の侵入による融解" />
+<ISA id="1706091085298_isa248" parent="永久凍土の融解" child="化学的変化による融解" />
+<ISA id="1706091085298_isa249" parent="永久凍土の融解" child="地理的変動による融解" />
+<ISA id="1706091085298_isa250" parent="極地の氷の減少" child="海氷の減少" />
+<ISA id="1706091085298_isa251" parent="極地の氷の減少" child="氷河の後退" />
+<ISA id="1706091085298_isa252" parent="極地の氷の減少" child="棚氷の崩壊" />
+<ISA id="1706091085298_isa253" parent="極地の氷の減少" child="雪氷帯の縮小" />
+<ISA id="1706091085298_isa254" parent="洪水" child="洪水氾濫(floodinundation)" />
+<ISA id="1706091085298_isa255" parent="洪水" child="河川洪水(riverflood)" />
+<ISA id="1706091085298_isa256" parent="洪水" child="都市洪水(urbanflood)" />
+<ISA id="1706091085298_isa257" parent="洪水" child="閃光洪水(flashflood)" />
+<ISA id="1706091085298_isa258" parent="洪水" child="海岸洪水(coastalflood)" />
+<ISA id="1706091085298_isa259" parent="干ばつ" child="農業干ばつ(AgriculturalDrought)" />
+<ISA id="1706091085298_isa260" parent="干ばつ" child="気象干ばつ(MeteorologicalDrought)" />
+<ISA id="1706091085298_isa261" parent="干ばつ" child="土壌水分干ばつ(SoilMoistureDrought)" />
+<ISA id="1706091085298_isa262" parent="干ばつ" child="水供給干ばつ(HydrologicalDrought)" />
+<ISA id="1706091085298_isa263" parent="干ばつ" child="社会経済干ばつ(SocioeconomicDrought)" />
+<ISA id="1706091085298_isa264" parent="ハリケーン" child="カテゴリー1ハリケーン（Category1Hurricane）" />
+<ISA id="1706091085298_isa265" parent="ハリケーン" child="カテゴリー2ハリケーン（Category2Hurricane）" />
+<ISA id="1706091085298_isa266" parent="ハリケーン" child="カテゴリー3ハリケーン（Category3Hurricane）" />
+<ISA id="1706091085298_isa267" parent="ハリケーン" child="カテゴリー4ハリケーン（Category4Hurricane）" />
+<ISA id="1706091085298_isa268" parent="ハリケーン" child="カテゴリー5ハリケーン（Category5Hurricane）" />
+<ISA id="1706091085298_isa269" parent="熱波" child="熱帯夜" />
+<ISA id="1706091085298_isa270" parent="熱波" child="高温警戒日" />
+<ISA id="1706091085298_isa271" parent="熱波" child="サンストローク" />
+<ISA id="1706091085298_isa272" parent="熱波" child="オアシス効果" />
+<ISA id="1706091085298_isa273" parent="豪雪" child="吹雪(Blizzard)" />
+<ISA id="1706091085298_isa274" parent="豪雪" child="大雪(HeavySnowfall)" />
+<ISA id="1706091085298_isa275" parent="豪雪" child="雪嵐(Snowstorm)" />
+<ISA id="1706091085298_isa276" parent="豪雪" child="積雪(SnowAccumulation)" />
+<ISA id="1706091085298_isa277" parent="豪雪" child="斜面崩壊性の雪崩(Avalanche)" />
+<ISA id="1706091085298_isa278" parent="生物多様性の減少" child="生息地喪失" />
+<ISA id="1706091085298_isa279" parent="生物多様性の減少" child="侵略的外来種の拡散" />
+<ISA id="1706091085298_isa280" parent="生物多様性の減少" child="過剰な資源採取" />
+<ISA id="1706091085298_isa281" parent="生物多様性の減少" child="気候変動による影響" />
+<ISA id="1706091085298_isa282" parent="生物多様性の減少" child="汚染物質の拡散" />
+<ISA id="1706091085298_isa283" parent="種の絶滅" child="人為的絶滅（Anthropogenicextinction）" />
+<ISA id="1706091085298_isa284" parent="種の絶滅" child="自然絶滅（Naturalextinction）" />
+<ISA id="1706091085298_isa285" parent="種の絶滅" child="大量絶滅（Massextinction）" />
+<ISA id="1706091085298_isa286" parent="種の絶滅" child="背景絶滅（Backgroundextinction）" />
+<ISA id="1706091085298_isa287" parent="種の絶滅" child="局地絶滅（Localextinction）" />
+<ISA id="1706091085298_isa288" parent="環境汚染" child="大気汚染" />
+<ISA id="1706091085298_isa289" parent="環境汚染" child="水質汚染" />
+<ISA id="1706091085298_isa290" parent="環境汚染" child="土壌汚染" />
+<ISA id="1706091085298_isa291" parent="環境汚染" child="騒音汚染" />
+<ISA id="1706091085298_isa292" parent="環境汚染" child="光害" />
+<ISA id="1706091085298_isa293" parent="生態バランスの変動" child="生息地破壊" />
+<ISA id="1706091085298_isa294" parent="生態バランスの変動" child="外来種の侵入" />
+<ISA id="1706091085298_isa295" parent="生態バランスの変動" child="過剰採取" />
+<ISA id="1706091085298_isa296" parent="自然資源の枯渇" child="石油資源の枯渇" />
+<ISA id="1706091085298_isa297" parent="自然資源の枯渇" child="鉱物資源の枯渇" />
+<ISA id="1706091085298_isa298" parent="自然資源の枯渇" child="水資源の枯渇" />
+<ISA id="1706091085298_isa299" parent="自然資源の枯渇" child="森林資源の枯渇" />
+<ISA id="1706091085298_isa300" parent="自然資源の枯渇" child="漁業資源の枯渇" />
+</W_CONCEPTS>
+<R_CONCEPTS>
+<CANVAS_SIZE w="2000" h="3000" />
+</R_CONCEPTS>
+<PRINTER>
+<PAGE_SETTINGS header="true" footer="true" cropmarks="true" scale="100" />
+<PAGE_FORMAT w="595.1905511811024" h="841.8047244094488" iw="451.19055118110236" ih="697.8047244094488" ix="72.0" iy="72.0" />
+<PRINTER_SETTINGS orientation="1" printername="EPSON EP-883A Series" />
+</PRINTER>
+</OE_FILE>

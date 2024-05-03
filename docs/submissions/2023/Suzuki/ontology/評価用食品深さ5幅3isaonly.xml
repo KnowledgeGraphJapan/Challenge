@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OE_FILE filename="評価用食品深さ5幅3isaonly.xml" ont_id="1706145871028ont" >
+<FILENAME_ONT>評価用食品深さ5幅3isaonly.xml</FILENAME_ONT>
+<W_CONCEPTS>
+<CANVAS_SIZE w="2000" h="109727" x="0" y="0" />
+<CONCEPT id="1706145871028_n0" >
+<LABEL>Any</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="10"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n1" >
+<LABEL>食品</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="51"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n2" >
+<LABEL>野菜</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="379"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n3" >
+<LABEL>果物</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="461"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n4" >
+<LABEL>穀物</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="543"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n5" >
+<LABEL>根菜類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="625"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n6" >
+<LABEL>果菜類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="707"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n7" >
+<LABEL>葉菜類</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="789"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n8" >
+<LABEL>リンゴ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="871"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n9" >
+<LABEL>バナナ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="953"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n10" >
+<LABEL>イチゴ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1035"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n11" >
+<LABEL>小麦</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1117"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n12" >
+<LABEL>米</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1199"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n13" >
+<LABEL>トウモロコシ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1281"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n14" >
+<LABEL>ニンジン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1363"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n15" >
+<LABEL>ダイコン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1445"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n16" >
+<LABEL>カブ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1527"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n17" >
+<LABEL>ナス科野菜</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1609"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n18" >
+<LABEL>アブラナ科野菜</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1691"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n19" >
+<LABEL>ツルナ科野菜</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1773"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n20" >
+<LABEL>ケール</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1855"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n21" >
+<LABEL>スイスチャード</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="1937"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n22" >
+<LABEL>ホウレンソウ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2019"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n23" >
+<LABEL>ふじりんご</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2101"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n24" >
+<LABEL>紅玉りんご</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2183"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n25" >
+<LABEL>グラニースミスりんご</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2265"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n26" >
+<LABEL>デザートバナナ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2347"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n27" >
+<LABEL>プランテンバナナ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2429"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n28" >
+<LABEL>赤バナナ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2511"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n29" >
+<LABEL>アルペンイチゴ（野生種の1つ）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2593"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n30" >
+<LABEL>ヘリテージストロベリー（特定の品種や系統）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2675"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n31" >
+<LABEL>トウヨウイチゴ（アジア原産の品種）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2757"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n32" >
+<LABEL>デュラム小麦</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2839"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n33" >
+<LABEL>ハードレッドウィンターウィート</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="2921"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n34" >
+<LABEL>ソフトレッドウィンターウィート</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3003"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n35" >
+<LABEL>糙米（玄米）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3085"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n36" >
+<LABEL>精米</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3167"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n37" >
+<LABEL>もち米</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3249"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n38" >
+<LABEL>スイートコーン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3331"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n39" >
+<LABEL>ポップコーン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3413"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n40" >
+<LABEL>デントコーン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3495"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n41" >
+<LABEL>野菜スティック用ニンジン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3577"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n42" >
+<LABEL>ベビーキャロット</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3659"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n43" >
+<LABEL>紫ニンジン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3741"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n44" >
+<LABEL>春ダイコン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3823"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n45" >
+<LABEL>夏ダイコン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3905"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n46" >
+<LABEL>冬ダイコン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="3987"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n47" >
+<LABEL>ハクサイ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4069"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n48" >
+<LABEL>ブロッコリー</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4151"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n49" >
+<LABEL>カリフラワー</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4233"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n50" >
+<LABEL>トマト</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4315"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n51" >
+<LABEL>ナス</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4397"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n52" >
+<LABEL>ピーマン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4479"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n53" >
+<LABEL>キャベツ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4561"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n54" >
+<LABEL>カールケール</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4643"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n55" >
+<LABEL>レッドロシアンケール</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4725"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n56" >
+<LABEL>ダイナソーケール</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4807"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n57" >
+<LABEL>フォードフックジャイアント</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4889"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n58" >
+<LABEL>ルビーレッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="4971"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n59" >
+<LABEL>レインボー(またはブライトライツ)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5053"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n60" >
+<LABEL>ほうれん草の品種</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5135"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n61" >
+<LABEL>栽培方法別のほうれん草</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5217"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n62" >
+<LABEL>利用方法別のほうれん草</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5299"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n63" >
+<LABEL>紅玉(こうぎょく)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5381"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n64" >
+<LABEL>陽光(ようこう)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5463"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n65" >
+<LABEL>シナノスイート</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5545"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n66" >
+<LABEL>山形紅玉（特定の地域で栽培される紅玉りんご）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5627"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n67" >
+<LABEL>加工用紅玉（ジュースやジャムなどに加工される紅玉りんご）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5709"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n68" >
+<LABEL>有機紅玉（有機農法で栽培された紅玉りんご）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5791"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n69" >
+<LABEL>フジりんご</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5873"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n70" >
+<LABEL>ゴールデンデリシャスりんご</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="5955"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n71" >
+<LABEL>ブラムリーりんご</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6037"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n72" >
+<LABEL>キャベンディッシュバナナ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6119"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n73" >
+<LABEL>レッドバナナ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6201"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n74" >
+<LABEL>フレンチプランテン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6283"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n75" >
+<LABEL>グリーンプランテン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6365"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n76" >
+<LABEL>ホーンプランテン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6447"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n77" >
+<LABEL>レッドジカンダ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6529"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n78" >
+<LABEL>キューバンレッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6611"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n79" >
+<LABEL>ジャマイカンレッド</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6693"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n80" >
+<LABEL>Fragariavescavar.americana</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6775"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n81" >
+<LABEL>Fragariavescavar.vesca</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6857"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n82" >
+<LABEL>Fragariavescavar.semperflorens</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="6939"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n83" >
+<LABEL>アルバイオン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7021"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n84" >
+<LABEL>シーケイプ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7103"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n85" >
+<LABEL>ヘリテイジ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7185"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n86" >
+<LABEL>おいCベリー</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7267"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n87" >
+<LABEL>紅ほっぺ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7349"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n88" >
+<LABEL>章姫（あきひめ）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7431"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n89" >
+<LABEL>ハードウィート</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7513"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n90" >
+<LABEL>シモリナ</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7595"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n91" >
+<LABEL>パスタ用小麦</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7677"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n92" >
+<LABEL>ターキー</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7759"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n93" >
+<LABEL>ジャッガー</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7841"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n94" >
+<LABEL>ベイトマン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="7923"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n95" >
+<LABEL>早生品種(Early-MaturingVarieties)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8005"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n96" >
+<LABEL>耐病性品種(Disease-ResistantVarieties)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8087"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n97" >
+<LABEL>高収量品種(High-YieldVarieties)</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8169"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n98" >
+<LABEL>有機糙米</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8251"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n99" >
+<LABEL>白米に精米される前の糙米</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8333"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n100" >
+<LABEL>栄養強化糙米</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8415"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n101" >
+<LABEL>白米（はくまい）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8497"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n102" >
+<LABEL>無洗米（むせんまい）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8579"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n103" >
+<LABEL>胚芽米（はいがまい）</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8661"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n104" >
+<LABEL>白もち米</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8743"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n105" >
+<LABEL>赤もち米</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8825"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n106" >
+<LABEL>黒もち米</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8907"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n107" >
+<LABEL>ベビーコーン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="8989"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n108" >
+<LABEL>ポップコーン用コーン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9071"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n109" >
+<LABEL>フィールドコーン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9153"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n110" >
+<LABEL>フレーバーポップコーン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9235"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n111" >
+<LABEL>マイクロウェーブポップコーン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9317"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n112" >
+<LABEL>ケトルコーン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9399"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n113" >
+<LABEL>イエローデントコーン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9481"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n114" >
+<LABEL>ホワイトデントコーン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9563"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<CONCEPT id="1706145871028_n115" >
+<LABEL>レッドデントコーン</LABEL>
+<SUB_LABELS>
+</SUB_LABELS>
+<POS x="10" y="9645"/>
+<RELATIONS>
+</RELATIONS>
+</CONCEPT>
+<ISA id="1706145871028_isa116" parent="Any" child="食品" />
+<ISA id="1706145871028_isa117" parent="食品" child="野菜" />
+<ISA id="1706145871028_isa118" parent="食品" child="果物" />
+<ISA id="1706145871028_isa119" parent="食品" child="穀物" />
+<ISA id="1706145871028_isa120" parent="野菜" child="根菜類" />
+<ISA id="1706145871028_isa121" parent="野菜" child="果菜類" />
+<ISA id="1706145871028_isa122" parent="野菜" child="葉菜類" />
+<ISA id="1706145871028_isa123" parent="果物" child="リンゴ" />
+<ISA id="1706145871028_isa124" parent="果物" child="バナナ" />
+<ISA id="1706145871028_isa125" parent="果物" child="イチゴ" />
+<ISA id="1706145871028_isa126" parent="穀物" child="小麦" />
+<ISA id="1706145871028_isa127" parent="穀物" child="米" />
+<ISA id="1706145871028_isa128" parent="穀物" child="トウモロコシ" />
+<ISA id="1706145871028_isa129" parent="根菜類" child="ニンジン" />
+<ISA id="1706145871028_isa130" parent="根菜類" child="ダイコン" />
+<ISA id="1706145871028_isa131" parent="根菜類" child="カブ" />
+<ISA id="1706145871028_isa132" parent="果菜類" child="ナス科野菜" />
+<ISA id="1706145871028_isa133" parent="果菜類" child="アブラナ科野菜" />
+<ISA id="1706145871028_isa134" parent="果菜類" child="ツルナ科野菜" />
+<ISA id="1706145871028_isa135" parent="葉菜類" child="ケール" />
+<ISA id="1706145871028_isa136" parent="葉菜類" child="スイスチャード" />
+<ISA id="1706145871028_isa137" parent="葉菜類" child="ホウレンソウ" />
+<ISA id="1706145871028_isa138" parent="リンゴ" child="ふじりんご" />
+<ISA id="1706145871028_isa139" parent="リンゴ" child="紅玉りんご" />
+<ISA id="1706145871028_isa140" parent="リンゴ" child="グラニースミスりんご" />
+<ISA id="1706145871028_isa141" parent="バナナ" child="デザートバナナ" />
+<ISA id="1706145871028_isa142" parent="バナナ" child="プランテンバナナ" />
+<ISA id="1706145871028_isa143" parent="バナナ" child="赤バナナ" />
+<ISA id="1706145871028_isa144" parent="イチゴ" child="アルペンイチゴ（野生種の1つ）" />
+<ISA id="1706145871028_isa145" parent="イチゴ" child="ヘリテージストロベリー（特定の品種や系統）" />
+<ISA id="1706145871028_isa146" parent="イチゴ" child="トウヨウイチゴ（アジア原産の品種）" />
+<ISA id="1706145871028_isa147" parent="小麦" child="デュラム小麦" />
+<ISA id="1706145871028_isa148" parent="小麦" child="ハードレッドウィンターウィート" />
+<ISA id="1706145871028_isa149" parent="小麦" child="ソフトレッドウィンターウィート" />
+<ISA id="1706145871028_isa150" parent="米" child="糙米（玄米）" />
+<ISA id="1706145871028_isa151" parent="米" child="精米" />
+<ISA id="1706145871028_isa152" parent="米" child="もち米" />
+<ISA id="1706145871028_isa153" parent="トウモロコシ" child="スイートコーン" />
+<ISA id="1706145871028_isa154" parent="トウモロコシ" child="ポップコーン" />
+<ISA id="1706145871028_isa155" parent="トウモロコシ" child="デントコーン" />
+<ISA id="1706145871028_isa156" parent="ニンジン" child="野菜スティック用ニンジン" />
+<ISA id="1706145871028_isa157" parent="ニンジン" child="ベビーキャロット" />
+<ISA id="1706145871028_isa158" parent="ニンジン" child="紫ニンジン" />
+<ISA id="1706145871028_isa159" parent="ダイコン" child="春ダイコン" />
+<ISA id="1706145871028_isa160" parent="ダイコン" child="夏ダイコン" />
+<ISA id="1706145871028_isa161" parent="ダイコン" child="冬ダイコン" />
+<ISA id="1706145871028_isa162" parent="カブ" child="ハクサイ" />
+<ISA id="1706145871028_isa163" parent="カブ" child="ブロッコリー" />
+<ISA id="1706145871028_isa164" parent="カブ" child="カリフラワー" />
+<ISA id="1706145871028_isa165" parent="ナス科野菜" child="トマト" />
+<ISA id="1706145871028_isa166" parent="ナス科野菜" child="ナス" />
+<ISA id="1706145871028_isa167" parent="ナス科野菜" child="ピーマン" />
+<ISA id="1706145871028_isa168" parent="アブラナ科野菜" child="キャベツ" />
+<ISA id="1706145871028_isa169" parent="ケール" child="カールケール" />
+<ISA id="1706145871028_isa170" parent="ケール" child="レッドロシアンケール" />
+<ISA id="1706145871028_isa171" parent="ケール" child="ダイナソーケール" />
+<ISA id="1706145871028_isa172" parent="スイスチャード" child="フォードフックジャイアント" />
+<ISA id="1706145871028_isa173" parent="スイスチャード" child="ルビーレッド" />
+<ISA id="1706145871028_isa174" parent="スイスチャード" child="レインボー(またはブライトライツ)" />
+<ISA id="1706145871028_isa175" parent="ホウレンソウ" child="ほうれん草の品種" />
+<ISA id="1706145871028_isa176" parent="ホウレンソウ" child="栽培方法別のほうれん草" />
+<ISA id="1706145871028_isa177" parent="ホウレンソウ" child="利用方法別のほうれん草" />
+<ISA id="1706145871028_isa178" parent="ふじりんご" child="紅玉(こうぎょく)" />
+<ISA id="1706145871028_isa179" parent="ふじりんご" child="陽光(ようこう)" />
+<ISA id="1706145871028_isa180" parent="ふじりんご" child="シナノスイート" />
+<ISA id="1706145871028_isa181" parent="紅玉りんご" child="山形紅玉（特定の地域で栽培される紅玉りんご）" />
+<ISA id="1706145871028_isa182" parent="紅玉りんご" child="加工用紅玉（ジュースやジャムなどに加工される紅玉りんご）" />
+<ISA id="1706145871028_isa183" parent="紅玉りんご" child="有機紅玉（有機農法で栽培された紅玉りんご）" />
+<ISA id="1706145871028_isa184" parent="グラニースミスりんご" child="フジりんご" />
+<ISA id="1706145871028_isa185" parent="グラニースミスりんご" child="ゴールデンデリシャスりんご" />
+<ISA id="1706145871028_isa186" parent="グラニースミスりんご" child="ブラムリーりんご" />
+<ISA id="1706145871028_isa187" parent="デザートバナナ" child="キャベンディッシュバナナ" />
+<ISA id="1706145871028_isa188" parent="デザートバナナ" child="レッドバナナ" />
+<ISA id="1706145871028_isa189" parent="プランテンバナナ" child="フレンチプランテン" />
+<ISA id="1706145871028_isa190" parent="プランテンバナナ" child="グリーンプランテン" />
+<ISA id="1706145871028_isa191" parent="プランテンバナナ" child="ホーンプランテン" />
+<ISA id="1706145871028_isa192" parent="赤バナナ" child="レッドジカンダ" />
+<ISA id="1706145871028_isa193" parent="赤バナナ" child="キューバンレッド" />
+<ISA id="1706145871028_isa194" parent="赤バナナ" child="ジャマイカンレッド" />
+<ISA id="1706145871028_isa195" parent="アルペンイチゴ（野生種の1つ）" child="Fragariavescavar.americana" />
+<ISA id="1706145871028_isa196" parent="アルペンイチゴ（野生種の1つ）" child="Fragariavescavar.vesca" />
+<ISA id="1706145871028_isa197" parent="アルペンイチゴ（野生種の1つ）" child="Fragariavescavar.semperflorens" />
+<ISA id="1706145871028_isa198" parent="ヘリテージストロベリー（特定の品種や系統）" child="アルバイオン" />
+<ISA id="1706145871028_isa199" parent="ヘリテージストロベリー（特定の品種や系統）" child="シーケイプ" />
+<ISA id="1706145871028_isa200" parent="ヘリテージストロベリー（特定の品種や系統）" child="ヘリテイジ" />
+<ISA id="1706145871028_isa201" parent="トウヨウイチゴ（アジア原産の品種）" child="おいCベリー" />
+<ISA id="1706145871028_isa202" parent="トウヨウイチゴ（アジア原産の品種）" child="紅ほっぺ" />
+<ISA id="1706145871028_isa203" parent="トウヨウイチゴ（アジア原産の品種）" child="章姫（あきひめ）" />
+<ISA id="1706145871028_isa204" parent="デュラム小麦" child="ハードウィート" />
+<ISA id="1706145871028_isa205" parent="デュラム小麦" child="シモリナ" />
+<ISA id="1706145871028_isa206" parent="デュラム小麦" child="パスタ用小麦" />
+<ISA id="1706145871028_isa207" parent="ハードレッドウィンターウィート" child="ターキー" />
+<ISA id="1706145871028_isa208" parent="ハードレッドウィンターウィート" child="ジャッガー" />
+<ISA id="1706145871028_isa209" parent="ハードレッドウィンターウィート" child="ベイトマン" />
+<ISA id="1706145871028_isa210" parent="ソフトレッドウィンターウィート" child="早生品種(Early-MaturingVarieties)" />
+<ISA id="1706145871028_isa211" parent="ソフトレッドウィンターウィート" child="耐病性品種(Disease-ResistantVarieties)" />
+<ISA id="1706145871028_isa212" parent="ソフトレッドウィンターウィート" child="高収量品種(High-YieldVarieties)" />
+<ISA id="1706145871028_isa213" parent="糙米（玄米）" child="有機糙米" />
+<ISA id="1706145871028_isa214" parent="糙米（玄米）" child="白米に精米される前の糙米" />
+<ISA id="1706145871028_isa215" parent="糙米（玄米）" child="栄養強化糙米" />
+<ISA id="1706145871028_isa216" parent="精米" child="白米（はくまい）" />
+<ISA id="1706145871028_isa217" parent="精米" child="無洗米（むせんまい）" />
+<ISA id="1706145871028_isa218" parent="精米" child="胚芽米（はいがまい）" />
+<ISA id="1706145871028_isa219" parent="もち米" child="白もち米" />
+<ISA id="1706145871028_isa220" parent="もち米" child="赤もち米" />
+<ISA id="1706145871028_isa221" parent="もち米" child="黒もち米" />
+<ISA id="1706145871028_isa222" parent="スイートコーン" child="ベビーコーン" />
+<ISA id="1706145871028_isa223" parent="スイートコーン" child="ポップコーン用コーン" />
+<ISA id="1706145871028_isa224" parent="スイートコーン" child="フィールドコーン" />
+<ISA id="1706145871028_isa225" parent="ポップコーン" child="フレーバーポップコーン" />
+<ISA id="1706145871028_isa226" parent="ポップコーン" child="マイクロウェーブポップコーン" />
+<ISA id="1706145871028_isa227" parent="ポップコーン" child="ケトルコーン" />
+<ISA id="1706145871028_isa228" parent="デントコーン" child="イエローデントコーン" />
+<ISA id="1706145871028_isa229" parent="デントコーン" child="ホワイトデントコーン" />
+<ISA id="1706145871028_isa230" parent="デントコーン" child="レッドデントコーン" />
+</W_CONCEPTS>
+<R_CONCEPTS>
+<CANVAS_SIZE w="2000" h="3000" />
+</R_CONCEPTS>
+<PRINTER>
+<PAGE_SETTINGS header="true" footer="true" cropmarks="true" scale="100" />
+<PAGE_FORMAT w="595.1905511811024" h="841.8047244094488" iw="451.19055118110236" ih="697.8047244094488" ix="72.0" iy="72.0" />
+<PRINTER_SETTINGS orientation="1" printername="EPSON EP-883A Series" />
+</PRINTER>
+</OE_FILE>
