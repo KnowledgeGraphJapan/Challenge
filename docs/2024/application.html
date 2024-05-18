@@ -1,0 +1,281 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<!-- InstanceBegin template="/Templates/jp.dwt" codeOutsideHTMLIsLocked="false" -->
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- InstanceBeginEditable name="doctitle" -->
+    <title>応募要領 | ナレッジグラフ推論チャレンジ〜生成AI時代のナレッジグラフ構築技術〜</title>
+    <!-- InstanceEndEditable -->
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="format-detection" content="telephone=no" />
+    <link rel="shortcut icon" href="../favicon.ico" type="image/vnd.microsoft.icon">
+    <link rel="icon" href="../favicon.ico" type="image/vnd.microsoft.icon">
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:300,400,500,700&display=swap&subset=japanese" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <!-- InstanceBeginEditable name="head" -->
+    <!-- InstanceEndEditable -->
+    <!-- InstanceParam name="pageId" type="text" value="application" -->
+    <!-- InstanceParam name="indexId" type="text" value="" -->
+</head>
+
+<body id="application">
+    <!-- InstanceBeginEditable name="bodyTop" -->
+    <!-- InstanceEndEditable -->
+    <!-- サイドオープン時メインコンテンツを覆う -->
+    <div class="overlay" id="js__overlay"></div>
+    <!-- メインコンテンツ -->
+    <div id="wrapper" class="wrapper">
+        <!-- InstanceBeginEditable name="pageImg" -->
+        <!-- InstanceEndEditable -->
+        <header id="header">
+            <div class="header-inner">
+                <div class="header-logo">
+                    <a href="index.html"> <img class="rpimg" src="assets/img/common/logo.png" alt="ナレッジグラフ推論チャレンジ" /> </a>
+                </div>
+                <!-- 開閉用ボタン -->
+                <div class="nav_toggle" id="js__sideMenuBtn">
+                    <div class="ellipsis-v"> <span class="point top"></span> <span class="point mid"></span> <span class="point bot"></span> </div>
+                </div>
+                <!-- グローバルナビゲーション -->
+                <nav class="gnav" id="js_gnav">
+                    <ul class="gnav-ul">
+                        <li class="current"><a href="application.html">応募要領</a></li>
+                        <li><a href="rdf.html">ナレッジグラフ公開</a></li>
+                        <li><a href="sample.html">参考アプローチ</a></li>
+                        <li><a href="reference.html">初めての方へ</a></li>
+                        <li><a href="../history.html">過去のページ</a></li>
+                    </ul>
+                </nav>
+            </div>
+            <!-- .headerInner -->
+        </header>
+    </div>
+    <!-- InstanceBeginEditable name="toppage" -->
+
+    <!-- InstanceEndEditable -->
+    <main class="main-contents" id="main-contents">
+        <!-- InstanceBeginEditable name="content" -->
+        <div class="key-common">
+            <div class="key-common-inner">
+                <h1 class="ttl">応募要領</h1>
+            </div>
+        </div>
+        <div class="inner">
+            <h2 class="h02" id="youryou">応募要領</h2>
+            <div class="contents">
+                <!-- <section>
+                <h3 class="h03">チャレンジ全体で目指すこと</h3>
+                <p>これまで課題となっていたナレッジグラフ（KG）の構築のコストを，大規模言語モデル（LLM）を活用することで軽減することを目指す．
+                </p>
+                </section> -->
+                <!-- <section>
+                    <h3 class="h03">チャレンジタスクの設定</h3>
+                    <p>大規模言語モデルを用いたナレッジグラフの構築</p>
+                    <p></p>
+                </section> -->
+                <section>
+                    <ul>
+                        <li>・<a href="#youken">応募要件</a></li>
+                        <li>・<a href="#bumon">応募部門</a></li>
+                        <li>・<a href="#hyouka">評価方法</a></li>
+                        <li>・<a href="#oubo">応募方法</a></li>
+                        <li>・<a href="#sinsa">審査基準</a></li>
+                    </ul>
+                </section>
+                <section>
+                    <h3 class="h03" id="youken">応募要件</h3>
+                    <p>下記の要件を満たす<b>「大規模言語モデルを利用したナレッジグラフの構築手法」</b>を応募対象とします．</p>
+                    <ol class="ul01">
+                        <li><b>ナレッジグラフを構築する手法である</b>
+                            <ul>
+                                <li>・構築対象とするナレッジについては，後述の「応募部門」をご覧ください．</li>
+                                <li>・ナレッジグラフの記述形式は任意の形式でも構いませんが，JSONやRDFなどによる広く利用されている形式の使用を推奨します．</li>
+                                <li>・ナレッジグラフ構築の全過程を自動化する手法であることは必須とせず，構築過程の一部を支援する手法も対象とします．</li>
+                            </ul>
+                        </li>
+                        <li><b>言語モデルを利用した手法である</b>
+                            <ul>
+                                <li>・利用する言語モデルの種類は問いません． 例）Llama3，GPT-3，Gemma, BERT．．．など</li>
+                                <li>・既存の言語モデルを用いたサービスのAPIを利用しても構いません．</li>
+                                <li>・ChatGPT、Gemini、Claudeなどの既存の言語モデルを用いたサービスと，対話をしながら構築する手法も対象とします．</li>
+                                <li>・言語モデル以外の技術を利用しても構いません，「大規模言語モデル以外の手法のみを用いた手法」は対象外とします．例）「係り受け解析」のみを用いて構築する手法は対象外</li>
+                            </ul>
+                        </li>
+                        <li>
+                            <b>情報源として使用するデータは制限しない</b>
+                            <ul>
+                                <li>・原則として，データの利用規約やライセンスに違反しない限り，どのようなデータを情報源として利用しても構いません． </li>
+                                <li>・ただし，訓練データにテストデータが含まれないようにして下さい．</li>
+                                <li>・情報源として利用したデータは，応募書類に明記してください．</li>
+                                <li>・使用したデータは公開することが望ましいとしますが，データの公開は応募要件の必須事項とはしません．</li>
+                            </ul>
+                        </li>
+                    </ol>
+                </section>
+                <section>
+                    <h3 class="h03" id="bumon">応募部門</h3>
+                    構築対象とするナレッジグラフの種類に応じた<b>「推理小説部門」</b>および<b>「一般部門」</b>の2部門で応募を受け付けます．
+                    <ol class="ul01">
+                        <li><b>推理小説部門</b>
+                            <ul>
+                                <li>・これまでの推論チャレンジで構築・公開してきた<b>「シャーロックホームズの小説を対象としたナレッジグラフ」と『同等のもの』もしくは『より高品質なもの』を構築する</b>ことをタスクとします．</li>
+                                <li>・公開済の8つの小説のナレッジグラフのうち，<b>一部の小説のナレッジグラフのみを対象</b>としても構いません．例えば，８つを学習用・評価用に分けて利用することも可能です．</li>
+                                <li>・公開済の8つの小説のナレッジグラフを正解として評価を行うため，<b><u>これら8つ以外の小説を対象としたものは，一般部門に</u></b>応募してください．
+                                </li>
+                                <li>・情報源としてして利用可能なデータとしては，一般的なデータに加えて，
+                                    <ul>
+                                        <li>・<b>公開済の8つの小説のナレッジグラフ</b>を，<b>一部を学習用</b>，一部を評価用に分けて利用することは認めますが，正解として出力するナレッジグラフをそのまま入力することは禁止します．</li>
+                                        <li>・公開済の8つの小説のナレッジグラフの<b>「各シーンを説明したテキスト（日本語/英語）」</b>については，<b>8つすべての小説の分</b>を入力として利用しても構いません．</li>
+                                        <li>・8つの小説の原文（日本語/英語）全体を入力として利用しても構いません．</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li><b>一般部門</b>
+                            <ul>
+                                <li><b>・対象領域を問わない任意のナレッジグラフを構築</b>することをタスクとします．</li>
+                                <li>・グラフ構造で表された様々な知識（ナレッジグラフ）を幅広く対象とします．例えば，以下のようなナレッジグラフが対象となります．
+                                    <ul>
+                                        <li>- オントロジーやスキーマをもたない，インスタンスレベルのトリプルのみから成るナレッジグラフ</li>
+                                        <li>- オントロジーとしてのクラス定義を中心としたもの</li>
+                                        <li>- オントロジーやスキーマに基づいて構築された，詳細な定義を持つナレッジグラフ</li>
+                                    </ul>
+                                </li>
+                                <li>・構築したナレッジグラフの内容については，応募フォームで指定する項目（下記を参照）に沿って記載していただきます．</li>
+
+                            </ul>
+                        </li>
+                    </ol>
+                </section>
+                <section>
+                    <h3 class="h03" id="hyouka">評価方法</h3>
+                    <ul class="ul01">
+                        <li>・評価は手法の性能単体のみではなく，構築されたナレッジグラフの品質，外部知識との接続性，再利用性などリソースとしての評価を含めた総合評価とします．
+                            <ul>
+                                <li>- WikidataやDBpediaのような汎用ドメインの知識グラフの生成を対象とする場合には，<a href="https://arxiv.org/abs/2308.02357">こちらの文献</a>で提案されているベンチマークも参考になると思われます．</li>
+                            </ul>
+                        </li>
+                        <li>・それ以外にも例えば，下記のような評価方法が考えられます． （ただし，これらの評価方法は，参考例であり，これらを評価に用いることは必須ではありません．）<br>
+                            <b>推理小説部門</b>
+                            <ul>
+                                <li>・これまでの推論チャレンジで構築・公開してきた「シャーロックホームズの小説を対象としたナレッジグラフ」（既存の推理小説KG）と比較し，『同等なもの』が構築できたかを評価する場合は，
+                                    <ul>
+                                        <li>- ナレッジグラフの比較に用いた手法・評価基準</li>
+                                        <li>- その評価基準により「同等であることが評価できる」理由</li>
+                                    </ul>
+                                    を説明する．
+                                </li>
+                                <li>・既存の推理小説KGよりも『高品質なナレッジグラフが構築できた』と主張する場合は，「より高品質である」といえる理由を説明する．</li>
+                                <li>・構築したナレッジグラフが，これまで推論チャレンジで対象としていたタスクで，どのように利用できるかを示す．<br> →（説明可能なAIに向けた）タスクでの利用方法やその具体例を示す．
+                                </li>
+                            </ul>
+                            <b>一般部門</b>
+                            <ul>
+                                <li>・構築したナレッジグラフが，どのようなタスクで，どのように利用できるか？</li>
+                                <li>・構築したナレッジグラフが，対象とした領域の知識をどの程度カバーしているか？</li>
+                                <li>・構築したナレッジグラフを，既存のナレッジグラフやオントロジー，それに類する構造化知識と比較した際に，どの程度一致しているか？</li>
+                                <li>・すべて手動でナレッジグラフを構築した場合と比較して，提案した構築方法を用いることにより，構築に要するコストがどの程度，削減できたか（削減できると見積もれるか）を示す．
+                                    <ul>
+                                        <li>例）従来であれば，このナレッジグラフを構築するのに１人月程度のコストを要したが，この手法を用いると３人日に短縮できると見積もれる．</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </section>
+                <section>
+                    <h3 class="h03" id="oubo">応募方法</h3>
+                    <p>以下の内容を電子メールにて提出してください．<br>
+                        <b>送付先：<a href="mailto:kgrc@knowledge-graph.jp" style="color: blue;">kgrc@knowledge-graph.jp</a></b></p>
+                    <ul class="ul01">
+                        <li><b>・構築したナレッジグラフのデータ</b><br> ※以下のいずれかの方法で提供してください．
+                            <ul>
+                                <li>- ナレッジグラフのデータ（ファイルサイズが大きい場合は，データをダウンロードできるURLをご提供ください）</li>
+                                <li>- SPARQLエンドポイント等のAPI</li>
+                            </ul>
+                        </li>
+                        <li><b>・応募シートに必要な項目を記入したもの</b>
+                            <br> ※「
+                            <b><a href="file/推論チャレンジ2024応募シート.docx" style="color: blue;">こちらの応募シート</a></b>」の内容を記載したPDFファイルを作成して下さい
+                        </li>
+                        <li><b>・ナレッジグラフ構築方法，および，構築したナレッジグラフに関する説明資料（オプション）</b>
+                            <ul>
+                                <li>応募作品について，自由な形式・内容で説明してください．</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </section>
+                <section>
+                    <h3 class="h03" id="sinsa">審査基準</h3>
+                    <ol class="ul01">
+                        <li>各応募者が設定した「評価方法」と「その結果」
+                            <ul>
+                                <li>・設定された「評価方法」が適切か？</li>
+                                <li>・設定された評価方法に沿った「結果」</li>
+                            </ul>
+                        </li>
+                        <li>構築されたナレッジグラフの規模と品質</li>
+                        <li>提案された構築方法の効率
+                            <ul>
+                                <li>・作業コストがどの程度，軽減されるか？
+                                </li>
+                                <li>・実行時のパフォーマンス</li>
+                            </ul>
+                        </li>
+                        <li>技術的な工夫</li>
+                    </ol>
+                    <p>上記の内容について，書類審査＋プレゼンテーションで総合的に評価します．（※参加者による当日審査を実施する予定です）</p>
+                    <p>チームから少なくとも1名は審査会（後日日程公開）にご参加ください． ただし，応募多数の場合は，プレゼンテーション発表は書類審査による優秀作品に限らせていただきます．
+                    </p>
+                </section>
+            </div>
+        </div>
+        <!-- / .inner -->
+        <!-- InstanceEndEditable -->
+    </main>
+
+    <footer id="footer">
+        <a href="#wrapper" id="page-top"></a>
+        <div class="inner">
+            <div class="foot-add">
+                <p class="logo">
+                    <a href="index.html"><img src="assets/img/common/logo.png" alt="ナレッジグラフ推論チャレンジ" /></a>
+                </p>
+                <p class="cop-name">kgrc@knowledge-graph.jp</p>
+            </div>
+            <div class="foot-nav">
+                <ul>
+                    <li><a href="application.html">応募要領</a></li>
+                    <li><a href="reference.html">初めての方へ</a></li>
+                </ul>
+                <ul>
+                    <li><a href="rdf.html">ナレッジグラフ公開</a></li>
+                    <li><a href="reference.html">初めての方へ</a></li>
+                </ul>
+                <ul>
+                    <li><a href="sample.html">参考アプローチ</a></li>
+                </ul>
+            </div>
+        </div>
+        <small>Copyright</small> </footer>
+
+    <!-- .wrapper -->
+    <!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+    <script src="assets/vendor/js/jquery-3.4.1.min.js"></script>
+    <script src="assets/vendor/js/jquery-migrate-3.1.0.min.js"></script>
+    <script src="assets/js/menu.js"></script>
+    <script src="assets/js/common.js"></script>
+    <script type="text/javascript" src="assets/js/smoothScrollEx.js"></script>
+    <!-- InstanceBeginEditable name="jvs" -->
+    <!-- InstanceEndEditable -->
+</body>
+<!-- InstanceEnd -->
+
+</html>
